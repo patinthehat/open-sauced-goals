@@ -1,0 +1,182 @@
+[
+  {
+    "full_name": "brave/brave-core",
+    "stargazers_count": 1864,
+    "open_issues_count": 177,
+    "forks_count": 651
+  },
+  {
+    "full_name": "logrusorgru/aurora",
+    "stargazers_count": 1249,
+    "open_issues_count": 1,
+    "forks_count": 59
+  },
+  {
+    "full_name": "AsyncBanana/microdiff",
+    "stargazers_count": 3124,
+    "open_issues_count": 4,
+    "forks_count": 62
+  },
+  {
+    "full_name": "open-sauced/hot",
+    "stargazers_count": 181,
+    "open_issues_count": 29,
+    "forks_count": 69
+  },
+  {
+    "full_name": "mgechev/revive",
+    "stargazers_count": 3849,
+    "open_issues_count": 24,
+    "forks_count": 225
+  },
+  {
+    "full_name": "microsoft/vscode-github-triage-actions",
+    "stargazers_count": 114,
+    "open_issues_count": 9,
+    "forks_count": 43
+  },
+  {
+    "full_name": "Schniz/fnm",
+    "stargazers_count": 9208,
+    "open_issues_count": 98,
+    "forks_count": 261
+  },
+  {
+    "full_name": "sindresorhus/electron-better-ipc",
+    "stargazers_count": 629,
+    "open_issues_count": 5,
+    "forks_count": 55
+  },
+  {
+    "full_name": "sindresorhus/electron-serve",
+    "stargazers_count": 367,
+    "open_issues_count": 7,
+    "forks_count": 35
+  },
+  {
+    "full_name": "neosmart/securestore-rs",
+    "stargazers_count": 86,
+    "open_issues_count": 1,
+    "forks_count": 7
+  },
+  {
+    "full_name": "spf13/cast",
+    "stargazers_count": 2619,
+    "open_issues_count": 65,
+    "forks_count": 256
+  },
+  {
+    "full_name": "spf13/afero",
+    "stargazers_count": 4841,
+    "open_issues_count": 113,
+    "forks_count": 451
+  },
+  {
+    "full_name": "owenfarrell/vscode-vault",
+    "stargazers_count": 16,
+    "open_issues_count": 4,
+    "forks_count": 6
+  },
+  {
+    "full_name": "stevebauman/showcode",
+    "stargazers_count": 247,
+    "open_issues_count": 14,
+    "forks_count": 36
+  },
+  {
+    "full_name": "mergestat/timediff",
+    "stargazers_count": 285,
+    "open_issues_count": 0,
+    "forks_count": 15
+  },
+  {
+    "full_name": "trufflesecurity/trufflehog",
+    "stargazers_count": 9545,
+    "open_issues_count": 91,
+    "forks_count": 1161
+  },
+  {
+    "full_name": "mazznoer/colorgrad",
+    "stargazers_count": 158,
+    "open_issues_count": 0,
+    "forks_count": 10
+  },
+  {
+    "full_name": "mazznoer/colorgrad-js",
+    "stargazers_count": 166,
+    "open_issues_count": 0,
+    "forks_count": 4
+  },
+  {
+    "full_name": "gorse-io/gorse",
+    "stargazers_count": 6289,
+    "open_issues_count": 37,
+    "forks_count": 548
+  },
+  {
+    "full_name": "refinedev/refine",
+    "stargazers_count": 4103,
+    "open_issues_count": 24,
+    "forks_count": 331
+  },
+  {
+    "full_name": "wailsapp/wails",
+    "stargazers_count": 12412,
+    "open_issues_count": 94,
+    "forks_count": 573
+  },
+  {
+    "full_name": "JanDeDobbeleer/oh-my-posh",
+    "stargazers_count": 8299,
+    "open_issues_count": 5,
+    "forks_count": 1522
+  },
+  {
+    "full_name": "gookit/color",
+    "stargazers_count": 1207,
+    "open_issues_count": 5,
+    "forks_count": 76
+  },
+  {
+    "full_name": "drashland/drash",
+    "stargazers_count": 1047,
+    "open_issues_count": 20,
+    "forks_count": 33
+  },
+  {
+    "full_name": "stretchr/testify",
+    "stargazers_count": 18003,
+    "open_issues_count": 380,
+    "forks_count": 1352
+  },
+  {
+    "full_name": "gsamokovarov/jump",
+    "stargazers_count": 1447,
+    "open_issues_count": 1,
+    "forks_count": 52
+  },
+  {
+    "full_name": "cortex/ripasso",
+    "stargazers_count": 526,
+    "open_issues_count": 14,
+    "forks_count": 54
+  },
+  {
+    "full_name": "adobe/cryptr",
+    "stargazers_count": 417,
+    "open_issues_count": 7,
+    "forks_count": 32
+  },
+  {
+    "full_name": "yagipy/maintidx",
+    "stargazers_count": 62,
+    "open_issues_count": 5,
+    "forks_count": 2
+  },
+  {
+    "full_name": "arduino/setup-task",
+    "stargazers_count": 30,
+    "open_issues_count": 1,
+    "forks_count": 8
+  }
+]
