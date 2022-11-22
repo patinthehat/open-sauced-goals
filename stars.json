@@ -1,87 +1,105 @@
 [
   {
+    "full_name": "Aorimn/dislocker",
+    "stargazers_count": 1304,
+    "open_issues_count": 79,
+    "forks_count": 186
+  },
+  {
+    "full_name": "aFarkas/lazysizes",
+    "stargazers_count": 16556,
+    "open_issues_count": 196,
+    "forks_count": 1756
+  },
+  {
+    "full_name": "hashicorp/golang-lru",
+    "stargazers_count": 3161,
+    "open_issues_count": 33,
+    "forks_count": 422
+  },
+  {
     "full_name": "charmbracelet/glamour",
-    "stargazers_count": 1387,
-    "open_issues_count": 62,
-    "forks_count": 102
+    "stargazers_count": 1388,
+    "open_issues_count": 63,
+    "forks_count": 106
   },
   {
     "full_name": "sharkdp/pastel",
-    "stargazers_count": 4330,
-    "open_issues_count": 14,
-    "forks_count": 78
+    "stargazers_count": 4333,
+    "open_issues_count": 15,
+    "forks_count": 80
   },
   {
     "full_name": "minbrowser/min",
-    "stargazers_count": 5907,
-    "open_issues_count": 430,
+    "stargazers_count": 5920,
+    "open_issues_count": 432,
     "forks_count": 550
   },
   {
     "full_name": "BurntSushi/toml",
-    "stargazers_count": 4032,
+    "stargazers_count": 4033,
     "open_issues_count": 13,
     "forks_count": 506
   },
   {
     "full_name": "charliermarsh/ruff",
-    "stargazers_count": 3146,
-    "open_issues_count": 67,
-    "forks_count": 71
+    "stargazers_count": 3275,
+    "open_issues_count": 66,
+    "forks_count": 75
   },
   {
     "full_name": "dudykr/stc",
-    "stargazers_count": 2826,
-    "open_issues_count": 37,
+    "stargazers_count": 2865,
+    "open_issues_count": 39,
     "forks_count": 85
   },
   {
     "full_name": "charmbracelet/vhs",
-    "stargazers_count": 7954,
-    "open_issues_count": 32,
-    "forks_count": 108
+    "stargazers_count": 8125,
+    "open_issues_count": 33,
+    "forks_count": 110
   },
   {
     "full_name": "dotenv-linter/dotenv-linter",
-    "stargazers_count": 1476,
-    "open_issues_count": 2,
-    "forks_count": 130
+    "stargazers_count": 1480,
+    "open_issues_count": 4,
+    "forks_count": 131
   },
   {
     "full_name": "withfig/autocomplete",
-    "stargazers_count": 20630,
-    "open_issues_count": 163,
-    "forks_count": 4766
+    "stargazers_count": 20666,
+    "open_issues_count": 167,
+    "forks_count": 4770
   },
   {
     "full_name": "theryangeary/choose",
-    "stargazers_count": 1360,
+    "stargazers_count": 1362,
     "open_issues_count": 5,
     "forks_count": 33
   },
   {
     "full_name": "sachaos/viddy",
-    "stargazers_count": 3796,
+    "stargazers_count": 3802,
     "open_issues_count": 24,
     "forks_count": 66
   },
   {
     "full_name": "russross/blackfriday",
-    "stargazers_count": 5042,
+    "stargazers_count": 5043,
     "open_issues_count": 210,
-    "forks_count": 595
+    "forks_count": 596
   },
   {
     "full_name": "purocean/yn",
-    "stargazers_count": 4174,
+    "stargazers_count": 4220,
     "open_issues_count": 23,
-    "forks_count": 760
+    "forks_count": 763
   },
   {
     "full_name": "helix-editor/helix",
-    "stargazers_count": 16343,
-    "open_issues_count": 880,
-    "forks_count": 1041
+    "stargazers_count": 16447,
+    "open_issues_count": 868,
+    "forks_count": 1053
   },
   {
     "full_name": "pvorb/npm-stat.com",
@@ -97,50 +115,50 @@
   },
   {
     "full_name": "watchexec/watchexec",
-    "stargazers_count": 3494,
+    "stargazers_count": 3500,
     "open_issues_count": 67,
     "forks_count": 125
   },
   {
     "full_name": "Nukesor/pueue",
-    "stargazers_count": 3251,
-    "open_issues_count": 10,
+    "stargazers_count": 3259,
+    "open_issues_count": 7,
     "forks_count": 93
   },
   {
     "full_name": "reujab/silver",
-    "stargazers_count": 380,
+    "stargazers_count": 381,
     "open_issues_count": 22,
-    "forks_count": 29
+    "forks_count": 30
   },
   {
     "full_name": "koalaman/shellcheck",
-    "stargazers_count": 30522,
-    "open_issues_count": 799,
-    "forks_count": 1545
+    "stargazers_count": 30570,
+    "open_issues_count": 800,
+    "forks_count": 1544
   },
   {
     "full_name": "PyCQA/pyflakes",
-    "stargazers_count": 1209,
-    "open_issues_count": 63,
-    "forks_count": 169
+    "stargazers_count": 1211,
+    "open_issues_count": 64,
+    "forks_count": 170
   },
   {
     "full_name": "goreleaser/goreleaser",
-    "stargazers_count": 10908,
-    "open_issues_count": 18,
-    "forks_count": 768
+    "stargazers_count": 10921,
+    "open_issues_count": 23,
+    "forks_count": 769
   },
   {
     "full_name": "marp-team/marp",
-    "stargazers_count": 4415,
-    "open_issues_count": 0,
+    "stargazers_count": 4427,
+    "open_issues_count": 1,
     "forks_count": 99
   },
   {
     "full_name": "avgupta456/github-trends",
-    "stargazers_count": 216,
-    "open_issues_count": 17,
+    "stargazers_count": 217,
+    "open_issues_count": 14,
     "forks_count": 10
   },
   {
@@ -151,7 +169,7 @@
   },
   {
     "full_name": "rhysd/go-github-selfupdate",
-    "stargazers_count": 487,
+    "stargazers_count": 486,
     "open_issues_count": 18,
     "forks_count": 61
   },
@@ -160,23 +178,5 @@
     "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "1Password/op-vscode",
-    "stargazers_count": 95,
-    "open_issues_count": 11,
-    "forks_count": 1
-  },
-  {
-    "full_name": "antfu/taze",
-    "stargazers_count": 807,
-    "open_issues_count": 7,
-    "forks_count": 21
-  },
-  {
-    "full_name": "thatisuday/commando",
-    "stargazers_count": 125,
-    "open_issues_count": 10,
-    "forks_count": 13
   }
 ]
