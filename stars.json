@@ -1,13 +1,19 @@
 [
   {
+    "full_name": "bitfield/script",
+    "stargazers_count": 3686,
+    "open_issues_count": 33,
+    "forks_count": 236
+  },
+  {
     "full_name": "permafrost-dev/codeboost",
     "stargazers_count": 1,
-    "open_issues_count": 2,
+    "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "coreinfrastructure/best-practices-badge",
-    "stargazers_count": 1076,
+    "stargazers_count": 1077,
     "open_issues_count": 188,
     "forks_count": 186
   },
@@ -25,7 +31,7 @@
   },
   {
     "full_name": "sagiegurari/node-go-require",
-    "stargazers_count": 150,
+    "stargazers_count": 151,
     "open_issues_count": 2,
     "forks_count": 9
   },
@@ -37,7 +43,7 @@
   },
   {
     "full_name": "robertkrimen/otto",
-    "stargazers_count": 7059,
+    "stargazers_count": 7068,
     "open_issues_count": 29,
     "forks_count": 575
   },
@@ -49,7 +55,7 @@
   },
   {
     "full_name": "prabhuignoto/react-chrono",
-    "stargazers_count": 3204,
+    "stargazers_count": 3205,
     "open_issues_count": 34,
     "forks_count": 166
   },
@@ -61,15 +67,15 @@
   },
   {
     "full_name": "google/yamlfmt",
-    "stargazers_count": 682,
-    "open_issues_count": 9,
+    "stargazers_count": 685,
+    "open_issues_count": 10,
     "forks_count": 23
   },
   {
     "full_name": "teaxyz/cli",
-    "stargazers_count": 5057,
-    "open_issues_count": 35,
-    "forks_count": 333
+    "stargazers_count": 5158,
+    "open_issues_count": 38,
+    "forks_count": 334
   },
   {
     "full_name": "mheap/phpunit-matcher-action",
@@ -79,25 +85,25 @@
   },
   {
     "full_name": "Stuk/jszip",
-    "stargazers_count": 8568,
-    "open_issues_count": 379,
+    "stargazers_count": 8578,
+    "open_issues_count": 380,
     "forks_count": 1260
   },
   {
     "full_name": "Netflix/zuul",
-    "stargazers_count": 12364,
+    "stargazers_count": 12370,
     "open_issues_count": 267,
     "forks_count": 2275
   },
   {
     "full_name": "PuerkitoBio/goquery",
-    "stargazers_count": 12142,
+    "stargazers_count": 12149,
     "open_issues_count": 2,
     "forks_count": 872
   },
   {
     "full_name": "FortyNorthSecurity/EyeWitness",
-    "stargazers_count": 3917,
+    "stargazers_count": 3923,
     "open_issues_count": 47,
     "forks_count": 759
   },
@@ -115,68 +121,62 @@
   },
   {
     "full_name": "jhawthorn/fzy",
-    "stargazers_count": 2655,
-    "open_issues_count": 47,
+    "stargazers_count": 2657,
+    "open_issues_count": 48,
     "forks_count": 112
   },
   {
     "full_name": "Aorimn/dislocker",
-    "stargazers_count": 1323,
+    "stargazers_count": 1324,
     "open_issues_count": 83,
     "forks_count": 186
   },
   {
     "full_name": "aFarkas/lazysizes",
-    "stargazers_count": 16641,
+    "stargazers_count": 16642,
     "open_issues_count": 199,
     "forks_count": 1757
   },
   {
     "full_name": "hashicorp/golang-lru",
-    "stargazers_count": 3273,
+    "stargazers_count": 3279,
     "open_issues_count": 28,
     "forks_count": 426
   },
   {
     "full_name": "charmbracelet/glamour",
-    "stargazers_count": 1438,
+    "stargazers_count": 1440,
     "open_issues_count": 64,
     "forks_count": 111
   },
   {
     "full_name": "sharkdp/pastel",
-    "stargazers_count": 4366,
+    "stargazers_count": 4369,
     "open_issues_count": 15,
-    "forks_count": 80
+    "forks_count": 81
   },
   {
     "full_name": "minbrowser/min",
-    "stargazers_count": 6233,
-    "open_issues_count": 436,
-    "forks_count": 569
+    "stargazers_count": 6244,
+    "open_issues_count": 437,
+    "forks_count": 571
   },
   {
     "full_name": "BurntSushi/toml",
-    "stargazers_count": 4072,
+    "stargazers_count": 4076,
     "open_issues_count": 13,
     "forks_count": 508
   },
   {
     "full_name": "charliermarsh/ruff",
-    "stargazers_count": 5278,
-    "open_issues_count": 100,
-    "forks_count": 129
+    "stargazers_count": 5476,
+    "open_issues_count": 108,
+    "forks_count": 140
   },
   {
     "full_name": "dudykr/stc",
-    "stargazers_count": 3794,
-    "open_issues_count": 52,
-    "forks_count": 114
-  },
-  {
-    "full_name": "charmbracelet/vhs",
-    "stargazers_count": 8909,
-    "open_issues_count": 43,
-    "forks_count": 137
+    "stargazers_count": 3820,
+    "open_issues_count": 51,
+    "forks_count": 116
   }
 ]
