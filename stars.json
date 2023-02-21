@@ -1,21 +1,21 @@
 [
   {
     "full_name": "rekit/rekit",
-    "stargazers_count": 4493,
+    "stargazers_count": 4491,
     "open_issues_count": 104,
     "forks_count": 286
   },
   {
     "full_name": "graphprotocol/graph-tooling",
     "stargazers_count": 312,
-    "open_issues_count": 158,
+    "open_issues_count": 157,
     "forks_count": 146
   },
   {
     "full_name": "rehooks/awesome-react-hooks",
-    "stargazers_count": 8949,
+    "stargazers_count": 8961,
     "open_issues_count": 8,
-    "forks_count": 740
+    "forks_count": 743
   },
   {
     "full_name": "cassiozen/useStateMachine",
@@ -25,19 +25,19 @@
   },
   {
     "full_name": "juliencrn/usehooks-ts",
-    "stargazers_count": 3130,
-    "open_issues_count": 74,
-    "forks_count": 219
+    "stargazers_count": 3148,
+    "open_issues_count": 76,
+    "forks_count": 222
   },
   {
     "full_name": "tbakerx/react-resume-template",
-    "stargazers_count": 1261,
+    "stargazers_count": 1269,
     "open_issues_count": 2,
-    "forks_count": 880
+    "forks_count": 885
   },
   {
     "full_name": "bitfield/script",
-    "stargazers_count": 3804,
+    "stargazers_count": 3822,
     "open_issues_count": 35,
     "forks_count": 241
   },
@@ -49,13 +49,13 @@
   },
   {
     "full_name": "coreinfrastructure/best-practices-badge",
-    "stargazers_count": 1085,
+    "stargazers_count": 1086,
     "open_issues_count": 193,
-    "forks_count": 191
+    "forks_count": 192
   },
   {
     "full_name": "brendan-rius/c-jwt-cracker",
-    "stargazers_count": 1978,
+    "stargazers_count": 1980,
     "open_issues_count": 13,
     "forks_count": 242
   },
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "shurcooL/vfsgen",
-    "stargazers_count": 964,
+    "stargazers_count": 963,
     "open_issues_count": 33,
     "forks_count": 84
   },
   {
     "full_name": "robertkrimen/otto",
-    "stargazers_count": 7144,
+    "stargazers_count": 7150,
     "open_issues_count": 32,
-    "forks_count": 581
+    "forks_count": 582
   },
   {
     "full_name": "DamianoMagrini/instaverse",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "prabhuignoto/react-chrono",
-    "stargazers_count": 3237,
+    "stargazers_count": 3245,
     "open_issues_count": 29,
-    "forks_count": 169
+    "forks_count": 168
   },
   {
     "full_name": "permafrost-dev/typescript-project-skeleton-esbuild-jest",
@@ -103,15 +103,15 @@
   },
   {
     "full_name": "google/yamlfmt",
-    "stargazers_count": 706,
+    "stargazers_count": 711,
     "open_issues_count": 9,
-    "forks_count": 24
+    "forks_count": 23
   },
   {
     "full_name": "teaxyz/cli",
-    "stargazers_count": 5821,
-    "open_issues_count": 36,
-    "forks_count": 394
+    "stargazers_count": 5854,
+    "open_issues_count": 39,
+    "forks_count": 398
   },
   {
     "full_name": "mheap/phpunit-matcher-action",
@@ -121,25 +121,25 @@
   },
   {
     "full_name": "Stuk/jszip",
-    "stargazers_count": 8671,
+    "stargazers_count": 8680,
     "open_issues_count": 389,
     "forks_count": 1269
   },
   {
     "full_name": "Netflix/zuul",
-    "stargazers_count": 12431,
-    "open_issues_count": 267,
+    "stargazers_count": 12440,
+    "open_issues_count": 268,
     "forks_count": 2274
   },
   {
     "full_name": "PuerkitoBio/goquery",
-    "stargazers_count": 12267,
+    "stargazers_count": 12285,
     "open_issues_count": 2,
     "forks_count": 873
   },
   {
     "full_name": "FortyNorthSecurity/EyeWitness",
-    "stargazers_count": 4010,
+    "stargazers_count": 4018,
     "open_issues_count": 50,
     "forks_count": 763
   },
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "Aorimn/dislocker",
-    "stargazers_count": 1341,
+    "stargazers_count": 1342,
     "open_issues_count": 84,
     "forks_count": 186
   },
   {
     "full_name": "aFarkas/lazysizes",
-    "stargazers_count": 16724,
+    "stargazers_count": 16733,
     "open_issues_count": 199,
     "forks_count": 1765
   },
   {
     "full_name": "hashicorp/golang-lru",
-    "stargazers_count": 3335,
+    "stargazers_count": 3340,
     "open_issues_count": 30,
-    "forks_count": 429
+    "forks_count": 431
   }
 ]
