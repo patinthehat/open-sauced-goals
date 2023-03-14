@@ -1,5 +1,47 @@
 [
   {
+    "full_name": "scribe-public/gitgat",
+    "stargazers_count": 222,
+    "open_issues_count": 1,
+    "forks_count": 12
+  },
+  {
+    "full_name": "nikoksr/notify",
+    "stargazers_count": 2139,
+    "open_issues_count": 29,
+    "forks_count": 152
+  },
+  {
+    "full_name": "eneshecan/whatsapp-for-linux",
+    "stargazers_count": 619,
+    "open_issues_count": 28,
+    "forks_count": 67
+  },
+  {
+    "full_name": "AlbertoMontalesi/The-complete-guide-to-modern-JavaScript",
+    "stargazers_count": 1021,
+    "open_issues_count": 0,
+    "forks_count": 163
+  },
+  {
+    "full_name": "type-challenges/type-challenges",
+    "stargazers_count": 31281,
+    "open_issues_count": 22162,
+    "forks_count": 3227
+  },
+  {
+    "full_name": "react-hook-form/react-hook-form",
+    "stargazers_count": 33765,
+    "open_issues_count": 12,
+    "forks_count": 1675
+  },
+  {
+    "full_name": "githubnext/blocks-template",
+    "stargazers_count": 89,
+    "open_issues_count": 5,
+    "forks_count": 11
+  },
+  {
     "full_name": "zoom/zoomapps-customlayout-js",
     "stargazers_count": 6,
     "open_issues_count": 3,
@@ -9,7 +51,7 @@
     "full_name": "zoom/meetingsdk-react-sample",
     "stargazers_count": 90,
     "open_issues_count": 8,
-    "forks_count": 42
+    "forks_count": 44
   },
   {
     "full_name": "zoom/zoomapps-sample-js",
@@ -25,39 +67,39 @@
   },
   {
     "full_name": "graphprotocol/graph-tooling",
-    "stargazers_count": 314,
-    "open_issues_count": 148,
+    "stargazers_count": 315,
+    "open_issues_count": 145,
     "forks_count": 148
   },
   {
     "full_name": "rehooks/awesome-react-hooks",
-    "stargazers_count": 9008,
+    "stargazers_count": 9020,
     "open_issues_count": 8,
     "forks_count": 743
   },
   {
     "full_name": "cassiozen/useStateMachine",
-    "stargazers_count": 2290,
+    "stargazers_count": 2292,
     "open_issues_count": 10,
     "forks_count": 43
   },
   {
     "full_name": "juliencrn/usehooks-ts",
-    "stargazers_count": 3249,
+    "stargazers_count": 3265,
     "open_issues_count": 81,
-    "forks_count": 229
+    "forks_count": 231
   },
   {
     "full_name": "tbakerx/react-resume-template",
-    "stargazers_count": 1294,
+    "stargazers_count": 1302,
     "open_issues_count": 1,
-    "forks_count": 906
+    "forks_count": 907
   },
   {
     "full_name": "bitfield/script",
-    "stargazers_count": 3840,
+    "stargazers_count": 3853,
     "open_issues_count": 35,
-    "forks_count": 245
+    "forks_count": 246
   },
   {
     "full_name": "permafrost-dev/codeboost",
@@ -67,19 +109,19 @@
   },
   {
     "full_name": "coreinfrastructure/best-practices-badge",
-    "stargazers_count": 1088,
-    "open_issues_count": 197,
-    "forks_count": 192
+    "stargazers_count": 1089,
+    "open_issues_count": 194,
+    "forks_count": 193
   },
   {
     "full_name": "brendan-rius/c-jwt-cracker",
-    "stargazers_count": 1992,
+    "stargazers_count": 2000,
     "open_issues_count": 13,
     "forks_count": 244
   },
   {
     "full_name": "diamondio/better-queue",
-    "stargazers_count": 431,
+    "stargazers_count": 432,
     "open_issues_count": 27,
     "forks_count": 38
   },
@@ -91,15 +133,15 @@
   },
   {
     "full_name": "shurcooL/vfsgen",
-    "stargazers_count": 965,
+    "stargazers_count": 966,
     "open_issues_count": 33,
     "forks_count": 84
   },
   {
     "full_name": "robertkrimen/otto",
-    "stargazers_count": 7198,
+    "stargazers_count": 7197,
     "open_issues_count": 33,
-    "forks_count": 581
+    "forks_count": 580
   },
   {
     "full_name": "DamianoMagrini/instaverse",
@@ -109,7 +151,7 @@
   },
   {
     "full_name": "prabhuignoto/react-chrono",
-    "stargazers_count": 3256,
+    "stargazers_count": 3258,
     "open_issues_count": 30,
     "forks_count": 170
   },
@@ -122,13 +164,13 @@
   {
     "full_name": "google/yamlfmt",
     "stargazers_count": 727,
-    "open_issues_count": 11,
+    "open_issues_count": 9,
     "forks_count": 23
   },
   {
     "full_name": "teaxyz/cli",
-    "stargazers_count": 6115,
-    "open_issues_count": 27,
+    "stargazers_count": 6142,
+    "open_issues_count": 29,
     "forks_count": 410
   },
   {
@@ -136,47 +178,5 @@
     "stargazers_count": 32,
     "open_issues_count": 3,
     "forks_count": 5
-  },
-  {
-    "full_name": "Stuk/jszip",
-    "stargazers_count": 8715,
-    "open_issues_count": 390,
-    "forks_count": 1271
-  },
-  {
-    "full_name": "Netflix/zuul",
-    "stargazers_count": 12477,
-    "open_issues_count": 271,
-    "forks_count": 2278
-  },
-  {
-    "full_name": "PuerkitoBio/goquery",
-    "stargazers_count": 12361,
-    "open_issues_count": 2,
-    "forks_count": 875
-  },
-  {
-    "full_name": "FortyNorthSecurity/EyeWitness",
-    "stargazers_count": 4055,
-    "open_issues_count": 49,
-    "forks_count": 765
-  },
-  {
-    "full_name": "Jxck/html2json",
-    "stargazers_count": 706,
-    "open_issues_count": 19,
-    "forks_count": 169
-  },
-  {
-    "full_name": "hotafrika/wails-vite-react-ts-tailwind-template",
-    "stargazers_count": 9,
-    "open_issues_count": 0,
-    "forks_count": 4
-  },
-  {
-    "full_name": "jhawthorn/fzy",
-    "stargazers_count": 2710,
-    "open_issues_count": 49,
-    "forks_count": 114
   }
 ]
