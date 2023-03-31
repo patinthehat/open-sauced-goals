@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "permafrost-dev/react-ray",
+    "stargazers_count": 2,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "laravel/breeze-next",
+    "stargazers_count": 830,
+    "open_issues_count": 1,
+    "forks_count": 213
+  },
+  {
     "full_name": "scribe-public/gitgat",
     "stargazers_count": 225,
     "open_issues_count": 1,
@@ -7,7 +19,7 @@
   },
   {
     "full_name": "nikoksr/notify",
-    "stargazers_count": 2192,
+    "stargazers_count": 2196,
     "open_issues_count": 26,
     "forks_count": 157
   },
@@ -25,19 +37,19 @@
   },
   {
     "full_name": "type-challenges/type-challenges",
-    "stargazers_count": 31810,
-    "open_issues_count": 22790,
-    "forks_count": 3283
+    "stargazers_count": 31931,
+    "open_issues_count": 22914,
+    "forks_count": 3302
   },
   {
     "full_name": "react-hook-form/react-hook-form",
-    "stargazers_count": 34027,
-    "open_issues_count": 10,
-    "forks_count": 1689
+    "stargazers_count": 34088,
+    "open_issues_count": 9,
+    "forks_count": 1693
   },
   {
     "full_name": "githubnext/blocks-template",
-    "stargazers_count": 95,
+    "stargazers_count": 96,
     "open_issues_count": 5,
     "forks_count": 11
   },
@@ -61,21 +73,21 @@
   },
   {
     "full_name": "rekit/rekit",
-    "stargazers_count": 4493,
+    "stargazers_count": 4495,
     "open_issues_count": 104,
-    "forks_count": 286
+    "forks_count": 287
   },
   {
     "full_name": "graphprotocol/graph-tooling",
     "stargazers_count": 317,
-    "open_issues_count": 151,
+    "open_issues_count": 136,
     "forks_count": 151
   },
   {
     "full_name": "rehooks/awesome-react-hooks",
-    "stargazers_count": 9045,
+    "stargazers_count": 9050,
     "open_issues_count": 8,
-    "forks_count": 746
+    "forks_count": 747
   },
   {
     "full_name": "cassiozen/useStateMachine",
@@ -85,43 +97,43 @@
   },
   {
     "full_name": "juliencrn/usehooks-ts",
-    "stargazers_count": 3342,
-    "open_issues_count": 85,
+    "stargazers_count": 3357,
+    "open_issues_count": 86,
     "forks_count": 238
   },
   {
     "full_name": "tbakerx/react-resume-template",
-    "stargazers_count": 1327,
+    "stargazers_count": 1330,
     "open_issues_count": 2,
-    "forks_count": 931
+    "forks_count": 937
   },
   {
     "full_name": "bitfield/script",
-    "stargazers_count": 3877,
-    "open_issues_count": 34,
-    "forks_count": 250
+    "stargazers_count": 3880,
+    "open_issues_count": 38,
+    "forks_count": 254
   },
   {
     "full_name": "permafrost-dev/codeboost",
     "stargazers_count": 15,
-    "open_issues_count": 5,
+    "open_issues_count": 4,
     "forks_count": 0
   },
   {
     "full_name": "coreinfrastructure/best-practices-badge",
-    "stargazers_count": 1092,
+    "stargazers_count": 1094,
     "open_issues_count": 194,
     "forks_count": 195
   },
   {
     "full_name": "brendan-rius/c-jwt-cracker",
-    "stargazers_count": 2014,
+    "stargazers_count": 2021,
     "open_issues_count": 13,
     "forks_count": 245
   },
   {
     "full_name": "diamondio/better-queue",
-    "stargazers_count": 435,
+    "stargazers_count": 436,
     "open_issues_count": 27,
     "forks_count": 38
   },
@@ -133,15 +145,15 @@
   },
   {
     "full_name": "shurcooL/vfsgen",
-    "stargazers_count": 967,
+    "stargazers_count": 966,
     "open_issues_count": 33,
     "forks_count": 85
   },
   {
     "full_name": "robertkrimen/otto",
-    "stargazers_count": 7223,
+    "stargazers_count": 7230,
     "open_issues_count": 33,
-    "forks_count": 580
+    "forks_count": 581
   },
   {
     "full_name": "DamianoMagrini/instaverse",
@@ -151,8 +163,8 @@
   },
   {
     "full_name": "prabhuignoto/react-chrono",
-    "stargazers_count": 3270,
-    "open_issues_count": 29,
+    "stargazers_count": 3281,
+    "open_issues_count": 30,
     "forks_count": 171
   },
   {
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "google/yamlfmt",
-    "stargazers_count": 734,
-    "open_issues_count": 6,
-    "forks_count": 23
-  },
-  {
-    "full_name": "teaxyz/cli",
-    "stargazers_count": 6205,
-    "open_issues_count": 38,
-    "forks_count": 414
-  },
-  {
-    "full_name": "mheap/phpunit-matcher-action",
-    "stargazers_count": 32,
-    "open_issues_count": 4,
-    "forks_count": 6
+    "stargazers_count": 735,
+    "open_issues_count": 7,
+    "forks_count": 24
   }
 ]
