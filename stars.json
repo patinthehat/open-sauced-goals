@@ -7,9 +7,9 @@
   },
   {
     "full_name": "laravel/breeze-next",
-    "stargazers_count": 842,
+    "stargazers_count": 843,
     "open_issues_count": 1,
-    "forks_count": 220
+    "forks_count": 222
   },
   {
     "full_name": "scribe-public/gitgat",
@@ -19,39 +19,39 @@
   },
   {
     "full_name": "nikoksr/notify",
-    "stargazers_count": 2206,
-    "open_issues_count": 26,
-    "forks_count": 157
+    "stargazers_count": 2212,
+    "open_issues_count": 29,
+    "forks_count": 159
   },
   {
     "full_name": "eneshecan/whatsapp-for-linux",
-    "stargazers_count": 646,
-    "open_issues_count": 27,
+    "stargazers_count": 645,
+    "open_issues_count": 28,
     "forks_count": 72
   },
   {
     "full_name": "AlbertoMontalesi/The-complete-guide-to-modern-JavaScript",
-    "stargazers_count": 1022,
+    "stargazers_count": 1024,
     "open_issues_count": 0,
     "forks_count": 163
   },
   {
     "full_name": "type-challenges/type-challenges",
-    "stargazers_count": 32128,
-    "open_issues_count": 23129,
-    "forks_count": 3329
+    "stargazers_count": 32202,
+    "open_issues_count": 23250,
+    "forks_count": 3346
   },
   {
     "full_name": "react-hook-form/react-hook-form",
-    "stargazers_count": 34215,
-    "open_issues_count": 8,
-    "forks_count": 1701
+    "stargazers_count": 34280,
+    "open_issues_count": 11,
+    "forks_count": 1702
   },
   {
     "full_name": "githubnext/blocks-template",
     "stargazers_count": 97,
     "open_issues_count": 5,
-    "forks_count": 10
+    "forks_count": 9
   },
   {
     "full_name": "zoom/zoomapps-customlayout-js",
@@ -63,7 +63,7 @@
     "full_name": "zoom/meetingsdk-react-sample",
     "stargazers_count": 94,
     "open_issues_count": 9,
-    "forks_count": 56
+    "forks_count": 57
   },
   {
     "full_name": "zoom/zoomapps-sample-js",
@@ -79,55 +79,55 @@
   },
   {
     "full_name": "graphprotocol/graph-tooling",
-    "stargazers_count": 316,
-    "open_issues_count": 151,
-    "forks_count": 152
+    "stargazers_count": 319,
+    "open_issues_count": 156,
+    "forks_count": 153
   },
   {
     "full_name": "rehooks/awesome-react-hooks",
-    "stargazers_count": 9068,
+    "stargazers_count": 9075,
     "open_issues_count": 8,
     "forks_count": 747
   },
   {
     "full_name": "cassiozen/useStateMachine",
-    "stargazers_count": 2293,
+    "stargazers_count": 2304,
     "open_issues_count": 10,
-    "forks_count": 44
+    "forks_count": 45
   },
   {
     "full_name": "juliencrn/usehooks-ts",
-    "stargazers_count": 3396,
+    "stargazers_count": 3407,
     "open_issues_count": 88,
-    "forks_count": 244
+    "forks_count": 246
   },
   {
     "full_name": "tbakerx/react-resume-template",
-    "stargazers_count": 1350,
+    "stargazers_count": 1356,
     "open_issues_count": 2,
     "forks_count": 949
   },
   {
     "full_name": "bitfield/script",
-    "stargazers_count": 3897,
+    "stargazers_count": 3906,
     "open_issues_count": 36,
-    "forks_count": 253
+    "forks_count": 254
   },
   {
     "full_name": "permafrost-dev/codeboost",
     "stargazers_count": 15,
-    "open_issues_count": 5,
+    "open_issues_count": 6,
     "forks_count": 0
   },
   {
     "full_name": "coreinfrastructure/best-practices-badge",
-    "stargazers_count": 1095,
-    "open_issues_count": 195,
+    "stargazers_count": 1096,
+    "open_issues_count": 196,
     "forks_count": 195
   },
   {
     "full_name": "brendan-rius/c-jwt-cracker",
-    "stargazers_count": 2025,
+    "stargazers_count": 2027,
     "open_issues_count": 13,
     "forks_count": 245
   },
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "shurcooL/vfsgen",
-    "stargazers_count": 966,
+    "stargazers_count": 967,
     "open_issues_count": 33,
     "forks_count": 85
   },
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "prabhuignoto/react-chrono",
-    "stargazers_count": 3375,
+    "stargazers_count": 3437,
     "open_issues_count": 30,
-    "forks_count": 176
+    "forks_count": 177
   },
   {
     "full_name": "permafrost-dev/typescript-project-skeleton-esbuild-jest",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "google/yamlfmt",
-    "stargazers_count": 740,
-    "open_issues_count": 6,
-    "forks_count": 24
+    "stargazers_count": 742,
+    "open_issues_count": 7,
+    "forks_count": 25
   }
 ]
