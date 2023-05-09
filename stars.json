@@ -1,27 +1,69 @@
 [
   {
+    "full_name": "Ileriayo/markdown-badges",
+    "stargazers_count": 7768,
+    "open_issues_count": 77,
+    "forks_count": 1158
+  },
+  {
+    "full_name": "permafrost-dev/typescript-project-skeleton-rollup-jest",
+    "stargazers_count": 2,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "folke/devmoji",
+    "stargazers_count": 214,
+    "open_issues_count": 28,
+    "forks_count": 14
+  },
+  {
+    "full_name": "permafrost-dev/react-ray",
+    "stargazers_count": 5,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "unixpickle/bumble-dump",
+    "stargazers_count": 7,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "mblode/svg-spinners",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "mblode/vscode-pretty-formatter",
+    "stargazers_count": 25,
+    "open_issues_count": 16,
+    "forks_count": 8
+  },
+  {
+    "full_name": "Nutlope/aicommits",
+    "stargazers_count": 5104,
+    "open_issues_count": 33,
+    "forks_count": 205
+  },
+  {
     "full_name": "Kanaries/Rath",
-    "stargazers_count": 2393,
-    "open_issues_count": 41,
+    "stargazers_count": 2424,
+    "open_issues_count": 43,
     "forks_count": 128
   },
   {
     "full_name": "nkbt/react-debounce-input",
-    "stargazers_count": 435,
+    "stargazers_count": 439,
     "open_issues_count": 14,
     "forks_count": 64
   },
   {
-    "full_name": "permafrost-dev/react-ray",
-    "stargazers_count": 2,
-    "open_issues_count": 2,
-    "forks_count": 0
-  },
-  {
     "full_name": "laravel/breeze-next",
-    "stargazers_count": 873,
+    "stargazers_count": 876,
     "open_issues_count": 1,
-    "forks_count": 238
+    "forks_count": 239
   },
   {
     "full_name": "scribe-public/gitgat",
@@ -31,13 +73,13 @@
   },
   {
     "full_name": "nikoksr/notify",
-    "stargazers_count": 2246,
-    "open_issues_count": 28,
+    "stargazers_count": 2250,
+    "open_issues_count": 27,
     "forks_count": 161
   },
   {
     "full_name": "eneshecan/whatsapp-for-linux",
-    "stargazers_count": 665,
+    "stargazers_count": 669,
     "open_issues_count": 31,
     "forks_count": 73
   },
@@ -49,15 +91,15 @@
   },
   {
     "full_name": "type-challenges/type-challenges",
-    "stargazers_count": 33421,
-    "open_issues_count": 24081,
-    "forks_count": 3491
+    "stargazers_count": 33531,
+    "open_issues_count": 24144,
+    "forks_count": 3511
   },
   {
     "full_name": "react-hook-form/react-hook-form",
-    "stargazers_count": 34652,
-    "open_issues_count": 10,
-    "forks_count": 1728
+    "stargazers_count": 34697,
+    "open_issues_count": 13,
+    "forks_count": 1736
   },
   {
     "full_name": "githubnext/blocks-template",
@@ -91,15 +133,15 @@
   },
   {
     "full_name": "graphprotocol/graph-tooling",
-    "stargazers_count": 322,
-    "open_issues_count": 165,
-    "forks_count": 156
+    "stargazers_count": 323,
+    "open_issues_count": 164,
+    "forks_count": 157
   },
   {
     "full_name": "rehooks/awesome-react-hooks",
-    "stargazers_count": 9124,
+    "stargazers_count": 9128,
     "open_issues_count": 8,
-    "forks_count": 748
+    "forks_count": 747
   },
   {
     "full_name": "cassiozen/useStateMachine",
@@ -109,21 +151,21 @@
   },
   {
     "full_name": "juliencrn/usehooks-ts",
-    "stargazers_count": 3501,
-    "open_issues_count": 93,
-    "forks_count": 254
+    "stargazers_count": 3521,
+    "open_issues_count": 94,
+    "forks_count": 255
   },
   {
     "full_name": "tbakerx/react-resume-template",
-    "stargazers_count": 1388,
-    "open_issues_count": 4,
-    "forks_count": 985
+    "stargazers_count": 1393,
+    "open_issues_count": 0,
+    "forks_count": 989
   },
   {
     "full_name": "bitfield/script",
-    "stargazers_count": 3994,
+    "stargazers_count": 4007,
     "open_issues_count": 30,
-    "forks_count": 260
+    "forks_count": 261
   },
   {
     "full_name": "permafrost-dev/codeboost",
@@ -136,47 +178,5 @@
     "stargazers_count": 1099,
     "open_issues_count": 195,
     "forks_count": 199
-  },
-  {
-    "full_name": "brendan-rius/c-jwt-cracker",
-    "stargazers_count": 2044,
-    "open_issues_count": 13,
-    "forks_count": 249
-  },
-  {
-    "full_name": "diamondio/better-queue",
-    "stargazers_count": 440,
-    "open_issues_count": 27,
-    "forks_count": 39
-  },
-  {
-    "full_name": "sagiegurari/node-go-require",
-    "stargazers_count": 155,
-    "open_issues_count": 3,
-    "forks_count": 10
-  },
-  {
-    "full_name": "shurcooL/vfsgen",
-    "stargazers_count": 968,
-    "open_issues_count": 33,
-    "forks_count": 85
-  },
-  {
-    "full_name": "robertkrimen/otto",
-    "stargazers_count": 7280,
-    "open_issues_count": 35,
-    "forks_count": 580
-  },
-  {
-    "full_name": "DamianoMagrini/instaverse",
-    "stargazers_count": 12,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "prabhuignoto/react-chrono",
-    "stargazers_count": 3507,
-    "open_issues_count": 31,
-    "forks_count": 178
   }
 ]
