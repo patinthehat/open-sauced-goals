@@ -1,81 +1,81 @@
 [
   {
     "full_name": "denoland/fresh",
-    "stargazers_count": 10554,
-    "open_issues_count": 200,
-    "forks_count": 468
+    "stargazers_count": 10564,
+    "open_issues_count": 201,
+    "forks_count": 470
   },
   {
     "full_name": "expo/expo",
-    "stargazers_count": 20499,
-    "open_issues_count": 498,
-    "forks_count": 4041
+    "stargazers_count": 20552,
+    "open_issues_count": 491,
+    "forks_count": 4040
   },
   {
     "full_name": "sequelize/sequelize",
-    "stargazers_count": 27896,
-    "open_issues_count": 843,
-    "forks_count": 4197
+    "stargazers_count": 27914,
+    "open_issues_count": 845,
+    "forks_count": 4199
   },
   {
     "full_name": "Foundry376/Mailspring",
-    "stargazers_count": 14100,
+    "stargazers_count": 14124,
     "open_issues_count": 20,
-    "forks_count": 877
+    "forks_count": 878
   },
   {
     "full_name": "rustdesk/rustdesk",
-    "stargazers_count": 41981,
-    "open_issues_count": 71,
-    "forks_count": 4155
+    "stargazers_count": 42151,
+    "open_issues_count": 68,
+    "forks_count": 4174
   },
   {
     "full_name": "noisetorch/NoiseTorch",
-    "stargazers_count": 8217,
+    "stargazers_count": 8225,
     "open_issues_count": 45,
     "forks_count": 199
   },
   {
     "full_name": "lencx/tauri-tutorial",
-    "stargazers_count": 375,
+    "stargazers_count": 381,
     "open_issues_count": 4,
     "forks_count": 31
   },
   {
     "full_name": "pmndrs/jotai",
-    "stargazers_count": 13376,
+    "stargazers_count": 13408,
     "open_issues_count": 6,
-    "forks_count": 419
+    "forks_count": 421
   },
   {
     "full_name": "cookpete/auto-changelog",
-    "stargazers_count": 1040,
-    "open_issues_count": 30,
-    "forks_count": 155
+    "stargazers_count": 1045,
+    "open_issues_count": 34,
+    "forks_count": 156
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 30416,
-    "open_issues_count": 142,
-    "forks_count": 1561
+    "stargazers_count": 30524,
+    "open_issues_count": 158,
+    "forks_count": 1566
   },
   {
     "full_name": "TimoKoerber/laravel-one-time-operations",
-    "stargazers_count": 232,
-    "open_issues_count": 4,
-    "forks_count": 7
+    "stargazers_count": 234,
+    "open_issues_count": 5,
+    "forks_count": 8
   },
   {
     "full_name": "shroudedcode/apk-mitm",
-    "stargazers_count": 2702,
+    "stargazers_count": 2711,
     "open_issues_count": 39,
-    "forks_count": 274
+    "forks_count": 275
   },
   {
     "full_name": "crate-ci/typos",
-    "stargazers_count": 1192,
-    "open_issues_count": 44,
-    "forks_count": 56
+    "stargazers_count": 1197,
+    "open_issues_count": 47,
+    "forks_count": 58
   },
   {
     "full_name": "beyondcode/banners",
@@ -85,8 +85,8 @@
   },
   {
     "full_name": "Zettlr/Zettlr",
-    "stargazers_count": 8433,
-    "open_issues_count": 302,
+    "stargazers_count": 8447,
+    "open_issues_count": 305,
     "forks_count": 538
   },
   {
@@ -98,26 +98,26 @@
   {
     "full_name": "segmentio/chamber",
     "stargazers_count": 2280,
-    "open_issues_count": 9,
-    "forks_count": 167
+    "open_issues_count": 8,
+    "forks_count": 168
   },
   {
     "full_name": "ping/instagram_private_api",
-    "stargazers_count": 2710,
+    "stargazers_count": 2715,
     "open_issues_count": 132,
-    "forks_count": 611
+    "forks_count": 612
   },
   {
     "full_name": "permafrost-dev/laravel-str-extras",
-    "stargazers_count": 6,
-    "open_issues_count": 1,
-    "forks_count": 1
+    "stargazers_count": 7,
+    "open_issues_count": 0,
+    "forks_count": 0
   },
   {
     "full_name": "sindresorhus/awesome-chatgpt",
-    "stargazers_count": 1717,
-    "open_issues_count": 5,
-    "forks_count": 76
+    "stargazers_count": 2289,
+    "open_issues_count": 9,
+    "forks_count": 98
   },
   {
     "full_name": "zix99/rare",
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "Levminer/authme",
-    "stargazers_count": 152,
-    "open_issues_count": 9,
+    "stargazers_count": 153,
+    "open_issues_count": 8,
     "forks_count": 16
   },
   {
     "full_name": "ast-grep/ast-grep",
-    "stargazers_count": 1759,
-    "open_issues_count": 44,
-    "forks_count": 26
+    "stargazers_count": 1855,
+    "open_issues_count": 49,
+    "forks_count": 28
   },
   {
     "full_name": "f4rih/websploit",
@@ -145,15 +145,15 @@
   },
   {
     "full_name": "infinitered/ignite",
-    "stargazers_count": 15293,
-    "open_issues_count": 35,
-    "forks_count": 1277
+    "stargazers_count": 15303,
+    "open_issues_count": 38,
+    "forks_count": 1281
   },
   {
     "full_name": "Ileriayo/markdown-badges",
-    "stargazers_count": 7882,
+    "stargazers_count": 7925,
     "open_issues_count": 81,
-    "forks_count": 1164
+    "forks_count": 1170
   },
   {
     "full_name": "permafrost-dev/typescript-project-skeleton-rollup-jest",
