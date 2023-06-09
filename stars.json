@@ -1,9 +1,129 @@
 [
   {
+    "full_name": "althonos/InstaLooter",
+    "stargazers_count": 1878,
+    "open_issues_count": 129,
+    "forks_count": 247
+  },
+  {
+    "full_name": "makeplane/plane",
+    "stargazers_count": 9518,
+    "open_issues_count": 101,
+    "forks_count": 267
+  },
+  {
+    "full_name": "Genymobile/scrcpy",
+    "stargazers_count": 84984,
+    "open_issues_count": 1394,
+    "forks_count": 8720
+  },
+  {
+    "full_name": "remote-android/redroid-doc",
+    "stargazers_count": 2325,
+    "open_issues_count": 62,
+    "forks_count": 181
+  },
+  {
+    "full_name": "wppconnect-team/wppconnect",
+    "stargazers_count": 1264,
+    "open_issues_count": 8,
+    "forks_count": 188
+  },
+  {
+    "full_name": "MinusGix/jsmagi",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "WAClient/WALC",
+    "stargazers_count": 218,
+    "open_issues_count": 16,
+    "forks_count": 41
+  },
+  {
+    "full_name": "kubernetes-sigs/kind",
+    "stargazers_count": 11619,
+    "open_issues_count": 133,
+    "forks_count": 1376
+  },
+  {
+    "full_name": "hoanhan101/ultimate-go",
+    "stargazers_count": 14919,
+    "open_issues_count": 0,
+    "forks_count": 1202
+  },
+  {
+    "full_name": "Alikhll/golang-developer-roadmap",
+    "stargazers_count": 16743,
+    "open_issues_count": 22,
+    "forks_count": 2078
+  },
+  {
+    "full_name": "getprimate/primate",
+    "stargazers_count": 535,
+    "open_issues_count": 7,
+    "forks_count": 96
+  },
+  {
+    "full_name": "xlmnxp/blue-recorder",
+    "stargazers_count": 117,
+    "open_issues_count": 17,
+    "forks_count": 10
+  },
+  {
+    "full_name": "runfinch/finch",
+    "stargazers_count": 2813,
+    "open_issues_count": 73,
+    "forks_count": 72
+  },
+  {
+    "full_name": "jbenet/goprocess",
+    "stargazers_count": 69,
+    "open_issues_count": 1,
+    "forks_count": 6
+  },
+  {
+    "full_name": "muesli/termenv",
+    "stargazers_count": 1375,
+    "open_issues_count": 24,
+    "forks_count": 54
+  },
+  {
+    "full_name": "nodegui/packer",
+    "stargazers_count": 194,
+    "open_issues_count": 26,
+    "forks_count": 12
+  },
+  {
+    "full_name": "nodegui/nodegui",
+    "stargazers_count": 8449,
+    "open_issues_count": 67,
+    "forks_count": 268
+  },
+  {
+    "full_name": "containers/podman-desktop",
+    "stargazers_count": 2873,
+    "open_issues_count": 449,
+    "forks_count": 160
+  },
+  {
+    "full_name": "joplin/plugins",
+    "stargazers_count": 878,
+    "open_issues_count": 1,
+    "forks_count": 147
+  },
+  {
+    "full_name": "emmabostian/dev.to",
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
     "full_name": "dgraph-io/badger",
-    "stargazers_count": 12309,
-    "open_issues_count": 35,
-    "forks_count": 1078
+    "stargazers_count": 12322,
+    "open_issues_count": 34,
+    "forks_count": 1079
   },
   {
     "full_name": "canonical/dotrun",
@@ -13,32 +133,32 @@
   },
   {
     "full_name": "ryanoasis/nerd-fonts",
-    "stargazers_count": 44325,
-    "open_issues_count": 21,
-    "forks_count": 3337
+    "stargazers_count": 44400,
+    "open_issues_count": 22,
+    "forks_count": 3339
   },
   {
     "full_name": "segmentio/nightmare",
-    "stargazers_count": 19408,
+    "stargazers_count": 19416,
     "open_issues_count": 206,
     "forks_count": 1161
   },
   {
     "full_name": "vinta/awesome-python",
-    "stargazers_count": 170173,
-    "open_issues_count": 354,
-    "forks_count": 23277
+    "stargazers_count": 170446,
+    "open_issues_count": 356,
+    "forks_count": 23288
   },
   {
     "full_name": "dendronhq/dendron",
-    "stargazers_count": 5610,
+    "stargazers_count": 5616,
     "open_issues_count": 753,
-    "forks_count": 213
+    "forks_count": 214
   },
   {
     "full_name": "Winetricks/winetricks",
-    "stargazers_count": 2286,
-    "open_issues_count": 108,
+    "stargazers_count": 2287,
+    "open_issues_count": 111,
     "forks_count": 354
   },
   {
@@ -49,134 +169,14 @@
   },
   {
     "full_name": "keshavbhatt/whatsie",
-    "stargazers_count": 956,
-    "open_issues_count": 36,
-    "forks_count": 34
+    "stargazers_count": 959,
+    "open_issues_count": 38,
+    "forks_count": 35
   },
   {
     "full_name": "Enrico204/Whatsapp-Desktop",
     "stargazers_count": 342,
     "open_issues_count": 19,
     "forks_count": 143
-  },
-  {
-    "full_name": "jamiebuilds/unstated-next",
-    "stargazers_count": 4103,
-    "open_issues_count": 53,
-    "forks_count": 144
-  },
-  {
-    "full_name": "ngneat/elf",
-    "stargazers_count": 1367,
-    "open_issues_count": 8,
-    "forks_count": 80
-  },
-  {
-    "full_name": "jerrod-lankford/google-voice-desktop-app",
-    "stargazers_count": 223,
-    "open_issues_count": 47,
-    "forks_count": 34
-  },
-  {
-    "full_name": "kuznetsovin/m3u8-downloader",
-    "stargazers_count": 33,
-    "open_issues_count": 2,
-    "forks_count": 16
-  },
-  {
-    "full_name": "cloudprober/cloudprober",
-    "stargazers_count": 301,
-    "open_issues_count": 39,
-    "forks_count": 49
-  },
-  {
-    "full_name": "theskumar/python-dotenv",
-    "stargazers_count": 6066,
-    "open_issues_count": 34,
-    "forks_count": 367
-  },
-  {
-    "full_name": "Significant-Gravitas/Auto-GPT",
-    "stargazers_count": 137747,
-    "open_issues_count": 776,
-    "forks_count": 28867
-  },
-  {
-    "full_name": "JohannesKlauss/react-hotkeys-hook",
-    "stargazers_count": 1919,
-    "open_issues_count": 23,
-    "forks_count": 90
-  },
-  {
-    "full_name": "peterkhayes/rolling-rate-limiter",
-    "stargazers_count": 297,
-    "open_issues_count": 3,
-    "forks_count": 56
-  },
-  {
-    "full_name": "vanjs-org/van",
-    "stargazers_count": 1536,
-    "open_issues_count": 17,
-    "forks_count": 35
-  },
-  {
-    "full_name": "vectordotdev/vector",
-    "stargazers_count": 13623,
-    "open_issues_count": 1615,
-    "forks_count": 1100
-  },
-  {
-    "full_name": "microsoft/SandDance",
-    "stargazers_count": 6050,
-    "open_issues_count": 90,
-    "forks_count": 494
-  },
-  {
-    "full_name": "HeyPuter/kv.js",
-    "stargazers_count": 1127,
-    "open_issues_count": 1,
-    "forks_count": 14
-  },
-  {
-    "full_name": "haifengl/smile",
-    "stargazers_count": 5753,
-    "open_issues_count": 12,
-    "forks_count": 1114
-  },
-  {
-    "full_name": "rerun-io/rerun",
-    "stargazers_count": 2363,
-    "open_issues_count": 366,
-    "forks_count": 104
-  },
-  {
-    "full_name": "SigNoz/signoz",
-    "stargazers_count": 13033,
-    "open_issues_count": 671,
-    "forks_count": 749
-  },
-  {
-    "full_name": "denoland/fresh",
-    "stargazers_count": 10632,
-    "open_issues_count": 168,
-    "forks_count": 474
-  },
-  {
-    "full_name": "expo/expo",
-    "stargazers_count": 20738,
-    "open_issues_count": 482,
-    "forks_count": 4057
-  },
-  {
-    "full_name": "sequelize/sequelize",
-    "stargazers_count": 27978,
-    "open_issues_count": 843,
-    "forks_count": 4201
-  },
-  {
-    "full_name": "Foundry376/Mailspring",
-    "stargazers_count": 14161,
-    "open_issues_count": 21,
-    "forks_count": 883
   }
 ]
