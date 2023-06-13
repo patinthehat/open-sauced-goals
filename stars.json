@@ -1,33 +1,93 @@
 [
   {
+    "full_name": "kaleidawave/ezno",
+    "stargazers_count": 1259,
+    "open_issues_count": 13,
+    "forks_count": 19
+  },
+  {
+    "full_name": "moonrepo/moon",
+    "stargazers_count": 1995,
+    "open_issues_count": 24,
+    "forks_count": 45
+  },
+  {
+    "full_name": "ryangjchandler/alpine-hooks",
+    "stargazers_count": 112,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "leonklingele/github-release-checker",
+    "stargazers_count": 20,
+    "open_issues_count": 2,
+    "forks_count": 2
+  },
+  {
+    "full_name": "gen2brain/beeep",
+    "stargazers_count": 1163,
+    "open_issues_count": 11,
+    "forks_count": 82
+  },
+  {
+    "full_name": "muesli/gitty",
+    "stargazers_count": 451,
+    "open_issues_count": 11,
+    "forks_count": 21
+  },
+  {
+    "full_name": "rsalmei/alive-progress",
+    "stargazers_count": 4460,
+    "open_issues_count": 16,
+    "forks_count": 179
+  },
+  {
+    "full_name": "igdmapps/igdm",
+    "stargazers_count": 1929,
+    "open_issues_count": 344,
+    "forks_count": 420
+  },
+  {
+    "full_name": "parse-community/parse-dashboard",
+    "stargazers_count": 3690,
+    "open_issues_count": 110,
+    "forks_count": 1406
+  },
+  {
+    "full_name": "parse-community/Parse-SDK-JS",
+    "stargazers_count": 1288,
+    "open_issues_count": 68,
+    "forks_count": 605
+  },
+  {
     "full_name": "althonos/InstaLooter",
-    "stargazers_count": 1878,
+    "stargazers_count": 1879,
     "open_issues_count": 129,
-    "forks_count": 247
+    "forks_count": 248
   },
   {
     "full_name": "makeplane/plane",
-    "stargazers_count": 9518,
-    "open_issues_count": 101,
-    "forks_count": 267
+    "stargazers_count": 9889,
+    "open_issues_count": 93,
+    "forks_count": 282
   },
   {
     "full_name": "Genymobile/scrcpy",
-    "stargazers_count": 84984,
-    "open_issues_count": 1394,
-    "forks_count": 8720
+    "stargazers_count": 85605,
+    "open_issues_count": 1399,
+    "forks_count": 8775
   },
   {
     "full_name": "remote-android/redroid-doc",
-    "stargazers_count": 2325,
+    "stargazers_count": 2332,
     "open_issues_count": 62,
     "forks_count": 181
   },
   {
     "full_name": "wppconnect-team/wppconnect",
-    "stargazers_count": 1264,
-    "open_issues_count": 8,
-    "forks_count": 188
+    "stargazers_count": 1269,
+    "open_issues_count": 10,
+    "forks_count": 191
   },
   {
     "full_name": "MinusGix/jsmagi",
@@ -37,31 +97,31 @@
   },
   {
     "full_name": "WAClient/WALC",
-    "stargazers_count": 218,
+    "stargazers_count": 217,
     "open_issues_count": 16,
     "forks_count": 41
   },
   {
     "full_name": "kubernetes-sigs/kind",
-    "stargazers_count": 11619,
+    "stargazers_count": 11634,
     "open_issues_count": 133,
-    "forks_count": 1376
+    "forks_count": 1378
   },
   {
     "full_name": "hoanhan101/ultimate-go",
-    "stargazers_count": 14919,
+    "stargazers_count": 14918,
     "open_issues_count": 0,
     "forks_count": 1202
   },
   {
     "full_name": "Alikhll/golang-developer-roadmap",
-    "stargazers_count": 16743,
-    "open_issues_count": 22,
-    "forks_count": 2078
+    "stargazers_count": 16751,
+    "open_issues_count": 23,
+    "forks_count": 2079
   },
   {
     "full_name": "getprimate/primate",
-    "stargazers_count": 535,
+    "stargazers_count": 536,
     "open_issues_count": 7,
     "forks_count": 96
   },
@@ -73,7 +133,7 @@
   },
   {
     "full_name": "runfinch/finch",
-    "stargazers_count": 2813,
+    "stargazers_count": 2829,
     "open_issues_count": 73,
     "forks_count": 72
   },
@@ -85,7 +145,7 @@
   },
   {
     "full_name": "muesli/termenv",
-    "stargazers_count": 1375,
+    "stargazers_count": 1379,
     "open_issues_count": 24,
     "forks_count": 54
   },
@@ -97,19 +157,19 @@
   },
   {
     "full_name": "nodegui/nodegui",
-    "stargazers_count": 8449,
+    "stargazers_count": 8451,
     "open_issues_count": 67,
-    "forks_count": 268
+    "forks_count": 269
   },
   {
     "full_name": "containers/podman-desktop",
-    "stargazers_count": 2873,
-    "open_issues_count": 449,
-    "forks_count": 160
+    "stargazers_count": 2891,
+    "open_issues_count": 451,
+    "forks_count": 161
   },
   {
     "full_name": "joplin/plugins",
-    "stargazers_count": 878,
+    "stargazers_count": 880,
     "open_issues_count": 1,
     "forks_count": 147
   },
@@ -118,65 +178,5 @@
     "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 2
-  },
-  {
-    "full_name": "dgraph-io/badger",
-    "stargazers_count": 12322,
-    "open_issues_count": 34,
-    "forks_count": 1079
-  },
-  {
-    "full_name": "canonical/dotrun",
-    "stargazers_count": 20,
-    "open_issues_count": 15,
-    "forks_count": 12
-  },
-  {
-    "full_name": "ryanoasis/nerd-fonts",
-    "stargazers_count": 44400,
-    "open_issues_count": 22,
-    "forks_count": 3339
-  },
-  {
-    "full_name": "segmentio/nightmare",
-    "stargazers_count": 19416,
-    "open_issues_count": 206,
-    "forks_count": 1161
-  },
-  {
-    "full_name": "vinta/awesome-python",
-    "stargazers_count": 170446,
-    "open_issues_count": 356,
-    "forks_count": 23288
-  },
-  {
-    "full_name": "dendronhq/dendron",
-    "stargazers_count": 5616,
-    "open_issues_count": 753,
-    "forks_count": 214
-  },
-  {
-    "full_name": "Winetricks/winetricks",
-    "stargazers_count": 2287,
-    "open_issues_count": 111,
-    "forks_count": 354
-  },
-  {
-    "full_name": "portapps/whatsapp-portable",
-    "stargazers_count": 47,
-    "open_issues_count": 3,
-    "forks_count": 14
-  },
-  {
-    "full_name": "keshavbhatt/whatsie",
-    "stargazers_count": 959,
-    "open_issues_count": 38,
-    "forks_count": 35
-  },
-  {
-    "full_name": "Enrico204/Whatsapp-Desktop",
-    "stargazers_count": 342,
-    "open_issues_count": 19,
-    "forks_count": 143
   }
 ]
