@@ -1,21 +1,21 @@
 [
   {
     "full_name": "kaleidawave/ezno",
-    "stargazers_count": 1259,
-    "open_issues_count": 13,
-    "forks_count": 19
+    "stargazers_count": 1320,
+    "open_issues_count": 12,
+    "forks_count": 20
   },
   {
     "full_name": "moonrepo/moon",
-    "stargazers_count": 1995,
-    "open_issues_count": 24,
-    "forks_count": 45
+    "stargazers_count": 1997,
+    "open_issues_count": 26,
+    "forks_count": 46
   },
   {
     "full_name": "ryangjchandler/alpine-hooks",
-    "stargazers_count": 112,
+    "stargazers_count": 131,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "leonklingele/github-release-checker",
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "gen2brain/beeep",
-    "stargazers_count": 1163,
+    "stargazers_count": 1164,
     "open_issues_count": 11,
     "forks_count": 82
   },
@@ -37,26 +37,26 @@
   },
   {
     "full_name": "rsalmei/alive-progress",
-    "stargazers_count": 4460,
+    "stargazers_count": 4472,
     "open_issues_count": 16,
-    "forks_count": 179
+    "forks_count": 180
   },
   {
     "full_name": "igdmapps/igdm",
     "stargazers_count": 1929,
-    "open_issues_count": 344,
-    "forks_count": 420
+    "open_issues_count": 345,
+    "forks_count": 419
   },
   {
     "full_name": "parse-community/parse-dashboard",
     "stargazers_count": 3690,
-    "open_issues_count": 110,
-    "forks_count": 1406
+    "open_issues_count": 109,
+    "forks_count": 1405
   },
   {
     "full_name": "parse-community/Parse-SDK-JS",
     "stargazers_count": 1288,
-    "open_issues_count": 68,
+    "open_issues_count": 69,
     "forks_count": 605
   },
   {
@@ -67,27 +67,27 @@
   },
   {
     "full_name": "makeplane/plane",
-    "stargazers_count": 9889,
-    "open_issues_count": 93,
-    "forks_count": 282
+    "stargazers_count": 10094,
+    "open_issues_count": 109,
+    "forks_count": 295
   },
   {
     "full_name": "Genymobile/scrcpy",
-    "stargazers_count": 85605,
-    "open_issues_count": 1399,
-    "forks_count": 8775
+    "stargazers_count": 85928,
+    "open_issues_count": 1402,
+    "forks_count": 8797
   },
   {
     "full_name": "remote-android/redroid-doc",
-    "stargazers_count": 2332,
-    "open_issues_count": 62,
+    "stargazers_count": 2341,
+    "open_issues_count": 61,
     "forks_count": 181
   },
   {
     "full_name": "wppconnect-team/wppconnect",
-    "stargazers_count": 1269,
-    "open_issues_count": 10,
-    "forks_count": 191
+    "stargazers_count": 1275,
+    "open_issues_count": 13,
+    "forks_count": 194
   },
   {
     "full_name": "MinusGix/jsmagi",
@@ -103,25 +103,25 @@
   },
   {
     "full_name": "kubernetes-sigs/kind",
-    "stargazers_count": 11634,
-    "open_issues_count": 133,
-    "forks_count": 1378
+    "stargazers_count": 11646,
+    "open_issues_count": 138,
+    "forks_count": 1382
   },
   {
     "full_name": "hoanhan101/ultimate-go",
-    "stargazers_count": 14918,
+    "stargazers_count": 14917,
     "open_issues_count": 0,
-    "forks_count": 1202
+    "forks_count": 1203
   },
   {
     "full_name": "Alikhll/golang-developer-roadmap",
-    "stargazers_count": 16751,
+    "stargazers_count": 16762,
     "open_issues_count": 23,
-    "forks_count": 2079
+    "forks_count": 2081
   },
   {
     "full_name": "getprimate/primate",
-    "stargazers_count": 536,
+    "stargazers_count": 538,
     "open_issues_count": 7,
     "forks_count": 96
   },
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "runfinch/finch",
-    "stargazers_count": 2829,
-    "open_issues_count": 73,
-    "forks_count": 72
+    "stargazers_count": 2837,
+    "open_issues_count": 76,
+    "forks_count": 73
   },
   {
     "full_name": "jbenet/goprocess",
@@ -157,21 +157,21 @@
   },
   {
     "full_name": "nodegui/nodegui",
-    "stargazers_count": 8451,
-    "open_issues_count": 67,
+    "stargazers_count": 8454,
+    "open_issues_count": 68,
     "forks_count": 269
   },
   {
     "full_name": "containers/podman-desktop",
-    "stargazers_count": 2891,
+    "stargazers_count": 2909,
     "open_issues_count": 451,
-    "forks_count": 161
+    "forks_count": 163
   },
   {
     "full_name": "joplin/plugins",
-    "stargazers_count": 880,
+    "stargazers_count": 882,
     "open_issues_count": 1,
-    "forks_count": 147
+    "forks_count": 148
   },
   {
     "full_name": "emmabostian/dev.to",
