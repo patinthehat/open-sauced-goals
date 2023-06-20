@@ -1,19 +1,19 @@
 [
   {
     "full_name": "kaleidawave/ezno",
-    "stargazers_count": 1320,
-    "open_issues_count": 12,
+    "stargazers_count": 1473,
+    "open_issues_count": 17,
     "forks_count": 20
   },
   {
     "full_name": "moonrepo/moon",
-    "stargazers_count": 1997,
-    "open_issues_count": 26,
-    "forks_count": 46
+    "stargazers_count": 2001,
+    "open_issues_count": 28,
+    "forks_count": 47
   },
   {
     "full_name": "ryangjchandler/alpine-hooks",
-    "stargazers_count": 131,
+    "stargazers_count": 140,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "gen2brain/beeep",
-    "stargazers_count": 1164,
+    "stargazers_count": 1168,
     "open_issues_count": 11,
     "forks_count": 82
   },
@@ -37,57 +37,57 @@
   },
   {
     "full_name": "rsalmei/alive-progress",
-    "stargazers_count": 4472,
-    "open_issues_count": 16,
+    "stargazers_count": 4476,
+    "open_issues_count": 15,
     "forks_count": 180
   },
   {
     "full_name": "igdmapps/igdm",
     "stargazers_count": 1929,
     "open_issues_count": 345,
-    "forks_count": 419
+    "forks_count": 418
   },
   {
     "full_name": "parse-community/parse-dashboard",
-    "stargazers_count": 3690,
-    "open_issues_count": 109,
+    "stargazers_count": 3692,
+    "open_issues_count": 110,
     "forks_count": 1405
   },
   {
     "full_name": "parse-community/Parse-SDK-JS",
     "stargazers_count": 1288,
-    "open_issues_count": 69,
-    "forks_count": 605
+    "open_issues_count": 70,
+    "forks_count": 606
   },
   {
     "full_name": "althonos/InstaLooter",
-    "stargazers_count": 1879,
+    "stargazers_count": 1880,
     "open_issues_count": 129,
     "forks_count": 248
   },
   {
     "full_name": "makeplane/plane",
-    "stargazers_count": 10094,
-    "open_issues_count": 109,
-    "forks_count": 295
+    "stargazers_count": 10364,
+    "open_issues_count": 119,
+    "forks_count": 316
   },
   {
     "full_name": "Genymobile/scrcpy",
-    "stargazers_count": 85928,
-    "open_issues_count": 1402,
-    "forks_count": 8797
+    "stargazers_count": 86229,
+    "open_issues_count": 1407,
+    "forks_count": 8828
   },
   {
     "full_name": "remote-android/redroid-doc",
-    "stargazers_count": 2341,
-    "open_issues_count": 61,
+    "stargazers_count": 2356,
+    "open_issues_count": 60,
     "forks_count": 181
   },
   {
     "full_name": "wppconnect-team/wppconnect",
-    "stargazers_count": 1275,
-    "open_issues_count": 13,
-    "forks_count": 194
+    "stargazers_count": 1280,
+    "open_issues_count": 16,
+    "forks_count": 196
   },
   {
     "full_name": "MinusGix/jsmagi",
@@ -99,25 +99,25 @@
     "full_name": "WAClient/WALC",
     "stargazers_count": 217,
     "open_issues_count": 16,
-    "forks_count": 41
+    "forks_count": 40
   },
   {
     "full_name": "kubernetes-sigs/kind",
-    "stargazers_count": 11646,
+    "stargazers_count": 11658,
     "open_issues_count": 138,
     "forks_count": 1382
   },
   {
     "full_name": "hoanhan101/ultimate-go",
-    "stargazers_count": 14917,
+    "stargazers_count": 14916,
     "open_issues_count": 0,
-    "forks_count": 1203
+    "forks_count": 1202
   },
   {
     "full_name": "Alikhll/golang-developer-roadmap",
-    "stargazers_count": 16762,
+    "stargazers_count": 16775,
     "open_issues_count": 23,
-    "forks_count": 2081
+    "forks_count": 2083
   },
   {
     "full_name": "getprimate/primate",
@@ -127,14 +127,14 @@
   },
   {
     "full_name": "xlmnxp/blue-recorder",
-    "stargazers_count": 117,
-    "open_issues_count": 17,
-    "forks_count": 10
+    "stargazers_count": 119,
+    "open_issues_count": 18,
+    "forks_count": 11
   },
   {
     "full_name": "runfinch/finch",
-    "stargazers_count": 2837,
-    "open_issues_count": 76,
+    "stargazers_count": 2841,
+    "open_issues_count": 77,
     "forks_count": 73
   },
   {
@@ -145,31 +145,31 @@
   },
   {
     "full_name": "muesli/termenv",
-    "stargazers_count": 1379,
+    "stargazers_count": 1380,
     "open_issues_count": 24,
     "forks_count": 54
   },
   {
     "full_name": "nodegui/packer",
-    "stargazers_count": 194,
+    "stargazers_count": 195,
     "open_issues_count": 26,
     "forks_count": 12
   },
   {
     "full_name": "nodegui/nodegui",
-    "stargazers_count": 8454,
+    "stargazers_count": 8459,
     "open_issues_count": 68,
     "forks_count": 269
   },
   {
     "full_name": "containers/podman-desktop",
-    "stargazers_count": 2909,
-    "open_issues_count": 451,
-    "forks_count": 163
+    "stargazers_count": 2918,
+    "open_issues_count": 450,
+    "forks_count": 164
   },
   {
     "full_name": "joplin/plugins",
-    "stargazers_count": 882,
+    "stargazers_count": 884,
     "open_issues_count": 1,
     "forks_count": 148
   },
