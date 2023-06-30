@@ -1,7 +1,19 @@
 [
   {
+    "full_name": "quark1482/badwrapi",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "tmzane/musttag",
+    "stargazers_count": 17,
+    "open_issues_count": 2,
+    "forks_count": 5
+  },
+  {
     "full_name": "notracking/hosts-blocklists",
-    "stargazers_count": 2289,
+    "stargazers_count": 2286,
     "open_issues_count": 10,
     "forks_count": 146
   },
@@ -13,49 +25,49 @@
   },
   {
     "full_name": "unit8co/darts",
-    "stargazers_count": 6031,
-    "open_issues_count": 243,
-    "forks_count": 682
+    "stargazers_count": 6036,
+    "open_issues_count": 250,
+    "forks_count": 685
   },
   {
     "full_name": "graphistry/pygraphistry",
-    "stargazers_count": 1868,
+    "stargazers_count": 1870,
     "open_issues_count": 143,
     "forks_count": 192
   },
   {
     "full_name": "jqnatividad/qsv",
-    "stargazers_count": 559,
-    "open_issues_count": 17,
-    "forks_count": 34
+    "stargazers_count": 586,
+    "open_issues_count": 20,
+    "forks_count": 35
   },
   {
     "full_name": "megadose/holehe",
-    "stargazers_count": 5124,
+    "stargazers_count": 5139,
     "open_issues_count": 12,
     "forks_count": 588
   },
   {
     "full_name": "AdguardTeam/AdGuardHome",
-    "stargazers_count": 17634,
-    "open_issues_count": 882,
-    "forks_count": 1488
+    "stargazers_count": 17657,
+    "open_issues_count": 879,
+    "forks_count": 1492
   },
   {
     "full_name": "retejs/rete",
-    "stargazers_count": 8644,
+    "stargazers_count": 8651,
     "open_issues_count": 104,
-    "forks_count": 582
+    "forks_count": 584
   },
   {
     "full_name": "AntonOsika/gpt-engineer",
-    "stargazers_count": 32891,
-    "open_issues_count": 72,
-    "forks_count": 5469
+    "stargazers_count": 34379,
+    "open_issues_count": 71,
+    "forks_count": 5732
   },
   {
     "full_name": "kvnxiao/tauri-nextjs-template",
-    "stargazers_count": 114,
+    "stargazers_count": 115,
     "open_issues_count": 0,
     "forks_count": 14
   },
@@ -67,25 +79,25 @@
   },
   {
     "full_name": "openai/chatgpt-retrieval-plugin",
-    "stargazers_count": 18479,
-    "open_issues_count": 169,
-    "forks_count": 3294
+    "stargazers_count": 18552,
+    "open_issues_count": 170,
+    "forks_count": 3307
   },
   {
     "full_name": "kaleidawave/ezno",
-    "stargazers_count": 1556,
+    "stargazers_count": 1577,
     "open_issues_count": 18,
     "forks_count": 21
   },
   {
     "full_name": "moonrepo/moon",
-    "stargazers_count": 2012,
-    "open_issues_count": 26,
-    "forks_count": 47
+    "stargazers_count": 2017,
+    "open_issues_count": 27,
+    "forks_count": 48
   },
   {
     "full_name": "ryangjchandler/alpine-hooks",
-    "stargazers_count": 141,
+    "stargazers_count": 142,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -97,20 +109,20 @@
   },
   {
     "full_name": "gen2brain/beeep",
-    "stargazers_count": 1173,
+    "stargazers_count": 1175,
     "open_issues_count": 11,
     "forks_count": 82
   },
   {
     "full_name": "muesli/gitty",
     "stargazers_count": 452,
-    "open_issues_count": 11,
+    "open_issues_count": 12,
     "forks_count": 29
   },
   {
     "full_name": "rsalmei/alive-progress",
-    "stargazers_count": 4494,
-    "open_issues_count": 15,
+    "stargazers_count": 4501,
+    "open_issues_count": 14,
     "forks_count": 180
   },
   {
@@ -121,62 +133,50 @@
   },
   {
     "full_name": "parse-community/parse-dashboard",
-    "stargazers_count": 3693,
+    "stargazers_count": 3695,
     "open_issues_count": 115,
-    "forks_count": 1407
+    "forks_count": 1408
   },
   {
     "full_name": "parse-community/Parse-SDK-JS",
     "stargazers_count": 1289,
     "open_issues_count": 74,
-    "forks_count": 607
+    "forks_count": 606
   },
   {
     "full_name": "althonos/InstaLooter",
-    "stargazers_count": 1881,
+    "stargazers_count": 1882,
     "open_issues_count": 129,
     "forks_count": 248
   },
   {
     "full_name": "makeplane/plane",
-    "stargazers_count": 10796,
-    "open_issues_count": 121,
-    "forks_count": 351
+    "stargazers_count": 10958,
+    "open_issues_count": 134,
+    "forks_count": 368
   },
   {
     "full_name": "Genymobile/scrcpy",
-    "stargazers_count": 86740,
-    "open_issues_count": 1410,
-    "forks_count": 8865
+    "stargazers_count": 86948,
+    "open_issues_count": 1414,
+    "forks_count": 8885
   },
   {
     "full_name": "remote-android/redroid-doc",
-    "stargazers_count": 2374,
+    "stargazers_count": 2382,
     "open_issues_count": 62,
-    "forks_count": 182
+    "forks_count": 183
   },
   {
     "full_name": "wppconnect-team/wppconnect",
-    "stargazers_count": 1290,
-    "open_issues_count": 16,
-    "forks_count": 197
+    "stargazers_count": 1295,
+    "open_issues_count": 14,
+    "forks_count": 198
   },
   {
     "full_name": "MinusGix/jsmagi",
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "WAClient/WALC",
-    "stargazers_count": 217,
-    "open_issues_count": 16,
-    "forks_count": 40
-  },
-  {
-    "full_name": "kubernetes-sigs/kind",
-    "stargazers_count": 11689,
-    "open_issues_count": 143,
-    "forks_count": 1387
   }
 ]
