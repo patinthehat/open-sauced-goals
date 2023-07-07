@@ -1,15 +1,93 @@
 [
   {
+    "full_name": "x-motemen/gobump",
+    "stargazers_count": 95,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
+    "full_name": "golang-module/carbon",
+    "stargazers_count": 3309,
+    "open_issues_count": 6,
+    "forks_count": 192
+  },
+  {
+    "full_name": "uniplaces/carbon",
+    "stargazers_count": 759,
+    "open_issues_count": 2,
+    "forks_count": 55
+  },
+  {
+    "full_name": "enriquebris/goconcurrentqueue",
+    "stargazers_count": 284,
+    "open_issues_count": 1,
+    "forks_count": 30
+  },
+  {
+    "full_name": "fluxcd/flux2",
+    "stargazers_count": 5022,
+    "open_issues_count": 179,
+    "forks_count": 496
+  },
+  {
+    "full_name": "nlamirault/pihole_exporter",
+    "stargazers_count": 73,
+    "open_issues_count": 5,
+    "forks_count": 17
+  },
+  {
+    "full_name": "jkctech/Telegram-Trilateration",
+    "stargazers_count": 501,
+    "open_issues_count": 0,
+    "forks_count": 68
+  },
+  {
+    "full_name": "evsar3/sshfs-win-manager",
+    "stargazers_count": 817,
+    "open_issues_count": 69,
+    "forks_count": 69
+  },
+  {
+    "full_name": "ko-build/ko",
+    "stargazers_count": 6163,
+    "open_issues_count": 68,
+    "forks_count": 341
+  },
+  {
+    "full_name": "hashicorp/go-getter",
+    "stargazers_count": 1494,
+    "open_issues_count": 143,
+    "forks_count": 201
+  },
+  {
+    "full_name": "dop251/goja",
+    "stargazers_count": 3989,
+    "open_issues_count": 30,
+    "forks_count": 300
+  },
+  {
+    "full_name": "Zhwt/yaml-to-go",
+    "stargazers_count": 59,
+    "open_issues_count": 1,
+    "forks_count": 10
+  },
+  {
+    "full_name": "cytopia/awesome-ci",
+    "stargazers_count": 320,
+    "open_issues_count": 8,
+    "forks_count": 22
+  },
+  {
     "full_name": "drk1wi/Modlishka",
-    "stargazers_count": 4336,
+    "stargazers_count": 4342,
     "open_issues_count": 118,
     "forks_count": 846
   },
   {
     "full_name": "Blazity/next-enterprise",
-    "stargazers_count": 3706,
-    "open_issues_count": 8,
-    "forks_count": 435
+    "stargazers_count": 3745,
+    "open_issues_count": 13,
+    "forks_count": 449
   },
   {
     "full_name": "kataras/neffos",
@@ -19,7 +97,7 @@
   },
   {
     "full_name": "appleboy/gorush",
-    "stargazers_count": 7122,
+    "stargazers_count": 7130,
     "open_issues_count": 47,
     "forks_count": 796
   },
@@ -32,7 +110,7 @@
   {
     "full_name": "tmzane/musttag",
     "stargazers_count": 17,
-    "open_issues_count": 2,
+    "open_issues_count": 3,
     "forks_count": 5
   },
   {
@@ -49,9 +127,9 @@
   },
   {
     "full_name": "unit8co/darts",
-    "stargazers_count": 6041,
-    "open_issues_count": 254,
-    "forks_count": 686
+    "stargazers_count": 6047,
+    "open_issues_count": 251,
+    "forks_count": 688
   },
   {
     "full_name": "graphistry/pygraphistry",
@@ -61,122 +139,44 @@
   },
   {
     "full_name": "jqnatividad/qsv",
-    "stargazers_count": 590,
-    "open_issues_count": 20,
+    "stargazers_count": 592,
+    "open_issues_count": 22,
     "forks_count": 35
   },
   {
     "full_name": "megadose/holehe",
-    "stargazers_count": 5159,
-    "open_issues_count": 12,
-    "forks_count": 590
+    "stargazers_count": 5170,
+    "open_issues_count": 14,
+    "forks_count": 595
   },
   {
     "full_name": "AdguardTeam/AdGuardHome",
-    "stargazers_count": 17700,
-    "open_issues_count": 878,
+    "stargazers_count": 17737,
+    "open_issues_count": 881,
     "forks_count": 1495
   },
   {
     "full_name": "retejs/rete",
-    "stargazers_count": 8665,
+    "stargazers_count": 8675,
     "open_issues_count": 103,
-    "forks_count": 584
+    "forks_count": 585
   },
   {
     "full_name": "AntonOsika/gpt-engineer",
-    "stargazers_count": 35595,
-    "open_issues_count": 70,
-    "forks_count": 5934
+    "stargazers_count": 36533,
+    "open_issues_count": 77,
+    "forks_count": 6084
   },
   {
     "full_name": "kvnxiao/tauri-nextjs-template",
-    "stargazers_count": 118,
-    "open_issues_count": 5,
-    "forks_count": 16
+    "stargazers_count": 121,
+    "open_issues_count": 0,
+    "forks_count": 17
   },
   {
     "full_name": "spf13/cobra-cli",
-    "stargazers_count": 390,
+    "stargazers_count": 393,
     "open_issues_count": 27,
     "forks_count": 90
-  },
-  {
-    "full_name": "openai/chatgpt-retrieval-plugin",
-    "stargazers_count": 18628,
-    "open_issues_count": 171,
-    "forks_count": 3323
-  },
-  {
-    "full_name": "kaleidawave/ezno",
-    "stargazers_count": 1594,
-    "open_issues_count": 18,
-    "forks_count": 22
-  },
-  {
-    "full_name": "moonrepo/moon",
-    "stargazers_count": 2023,
-    "open_issues_count": 28,
-    "forks_count": 48
-  },
-  {
-    "full_name": "ryangjchandler/alpine-hooks",
-    "stargazers_count": 144,
-    "open_issues_count": 0,
-    "forks_count": 2
-  },
-  {
-    "full_name": "leonklingele/github-release-checker",
-    "stargazers_count": 20,
-    "open_issues_count": 2,
-    "forks_count": 2
-  },
-  {
-    "full_name": "gen2brain/beeep",
-    "stargazers_count": 1182,
-    "open_issues_count": 11,
-    "forks_count": 82
-  },
-  {
-    "full_name": "muesli/gitty",
-    "stargazers_count": 452,
-    "open_issues_count": 12,
-    "forks_count": 29
-  },
-  {
-    "full_name": "rsalmei/alive-progress",
-    "stargazers_count": 4506,
-    "open_issues_count": 14,
-    "forks_count": 180
-  },
-  {
-    "full_name": "igdmapps/igdm",
-    "stargazers_count": 1928,
-    "open_issues_count": 345,
-    "forks_count": 419
-  },
-  {
-    "full_name": "parse-community/parse-dashboard",
-    "stargazers_count": 3696,
-    "open_issues_count": 116,
-    "forks_count": 1408
-  },
-  {
-    "full_name": "parse-community/Parse-SDK-JS",
-    "stargazers_count": 1289,
-    "open_issues_count": 75,
-    "forks_count": 606
-  },
-  {
-    "full_name": "althonos/InstaLooter",
-    "stargazers_count": 1883,
-    "open_issues_count": 129,
-    "forks_count": 248
-  },
-  {
-    "full_name": "makeplane/plane",
-    "stargazers_count": 11071,
-    "open_issues_count": 139,
-    "forks_count": 389
   }
 ]
