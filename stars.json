@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "square1-io/laravel-collection-rolling-average",
+    "stargazers_count": 16,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ondrajz/go-callvis",
+    "stargazers_count": 5305,
+    "open_issues_count": 67,
+    "forks_count": 382
+  },
+  {
     "full_name": "JordanKnott/taskcafe",
     "stargazers_count": 3759,
     "open_issues_count": 11,
@@ -19,15 +31,15 @@
   },
   {
     "full_name": "sundowndev/phoneinfoga",
-    "stargazers_count": 10152,
+    "stargazers_count": 10171,
     "open_issues_count": 28,
-    "forks_count": 2938
+    "forks_count": 2942
   },
   {
     "full_name": "coder/coder",
-    "stargazers_count": 4733,
-    "open_issues_count": 421,
-    "forks_count": 371
+    "stargazers_count": 4750,
+    "open_issues_count": 420,
+    "forks_count": 375
   },
   {
     "full_name": "DNSFilter/topdomains",
@@ -37,14 +49,14 @@
   },
   {
     "full_name": "ahmdrz/goinsta",
-    "stargazers_count": 887,
+    "stargazers_count": 888,
     "open_issues_count": 62,
     "forks_count": 256
   },
   {
     "full_name": "seekr-osint/seekr",
-    "stargazers_count": 242,
-    "open_issues_count": 30,
+    "stargazers_count": 244,
+    "open_issues_count": 31,
     "forks_count": 24
   },
   {
@@ -61,9 +73,9 @@
   },
   {
     "full_name": "skylot/jadx",
-    "stargazers_count": 35330,
-    "open_issues_count": 332,
-    "forks_count": 4373
+    "stargazers_count": 35376,
+    "open_issues_count": 335,
+    "forks_count": 4382
   },
   {
     "full_name": "Graylog2/docker-compose",
@@ -73,14 +85,14 @@
   },
   {
     "full_name": "languagetool-org/languagetool",
-    "stargazers_count": 8823,
-    "open_issues_count": 1871,
-    "forks_count": 1083
+    "stargazers_count": 8835,
+    "open_issues_count": 1880,
+    "forks_count": 1084
   },
   {
     "full_name": "codespell-project/codespell",
-    "stargazers_count": 1284,
-    "open_issues_count": 190,
+    "stargazers_count": 1286,
+    "open_issues_count": 189,
     "forks_count": 207
   },
   {
@@ -91,8 +103,8 @@
   },
   {
     "full_name": "golang-module/carbon",
-    "stargazers_count": 3336,
-    "open_issues_count": 7,
+    "stargazers_count": 3340,
+    "open_issues_count": 6,
     "forks_count": 195
   },
   {
@@ -103,13 +115,13 @@
   },
   {
     "full_name": "enriquebris/goconcurrentqueue",
-    "stargazers_count": 285,
+    "stargazers_count": 286,
     "open_issues_count": 1,
     "forks_count": 30
   },
   {
     "full_name": "fluxcd/flux2",
-    "stargazers_count": 5067,
+    "stargazers_count": 5077,
     "open_issues_count": 182,
     "forks_count": 501
   },
@@ -133,20 +145,20 @@
   },
   {
     "full_name": "ko-build/ko",
-    "stargazers_count": 6189,
+    "stargazers_count": 6198,
     "open_issues_count": 69,
-    "forks_count": 345
+    "forks_count": 347
   },
   {
     "full_name": "hashicorp/go-getter",
     "stargazers_count": 1499,
     "open_issues_count": 144,
-    "forks_count": 202
+    "forks_count": 201
   },
   {
     "full_name": "dop251/goja",
-    "stargazers_count": 4014,
-    "open_issues_count": 29,
+    "stargazers_count": 4024,
+    "open_issues_count": 30,
     "forks_count": 300
   },
   {
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "drk1wi/Modlishka",
-    "stargazers_count": 4350,
-    "open_issues_count": 118,
+    "stargazers_count": 4353,
+    "open_issues_count": 119,
     "forks_count": 846
-  },
-  {
-    "full_name": "Blazity/next-enterprise",
-    "stargazers_count": 3913,
-    "open_issues_count": 17,
-    "forks_count": 496
-  },
-  {
-    "full_name": "kataras/neffos",
-    "stargazers_count": 540,
-    "open_issues_count": 29,
-    "forks_count": 45
   }
 ]
