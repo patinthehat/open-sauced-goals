@@ -1,39 +1,39 @@
 [
   {
     "full_name": "slack-go/slack",
-    "stargazers_count": 4373,
+    "stargazers_count": 4379,
     "open_issues_count": 104,
     "forks_count": 1091
   },
   {
     "full_name": "ariga/atlas",
-    "stargazers_count": 3417,
+    "stargazers_count": 3457,
     "open_issues_count": 86,
-    "forks_count": 162
+    "forks_count": 165
   },
   {
     "full_name": "mholt/caddy-dynamicdns",
-    "stargazers_count": 169,
+    "stargazers_count": 170,
     "open_issues_count": 1,
     "forks_count": 17
   },
   {
     "full_name": "GyulyVGC/sniffnet",
-    "stargazers_count": 10283,
-    "open_issues_count": 35,
-    "forks_count": 255
+    "stargazers_count": 10429,
+    "open_issues_count": 31,
+    "forks_count": 257
   },
   {
     "full_name": "spf13/pflag",
-    "stargazers_count": 2147,
+    "stargazers_count": 2148,
     "open_issues_count": 155,
-    "forks_count": 334
+    "forks_count": 335
   },
   {
     "full_name": "xo/xo",
-    "stargazers_count": 3409,
+    "stargazers_count": 3411,
     "open_issues_count": 42,
-    "forks_count": 307
+    "forks_count": 308
   },
   {
     "full_name": "shaj13/go-guardian",
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "jdaarevalo/docker_postgres_with_data",
-    "stargazers_count": 145,
+    "stargazers_count": 146,
     "open_issues_count": 2,
     "forks_count": 85
   },
@@ -73,27 +73,27 @@
   },
   {
     "full_name": "grafbase/grafbase",
-    "stargazers_count": 658,
-    "open_issues_count": 9,
-    "forks_count": 26
+    "stargazers_count": 669,
+    "open_issues_count": 7,
+    "forks_count": 27
   },
   {
     "full_name": "samber/lo",
-    "stargazers_count": 12729,
-    "open_issues_count": 156,
-    "forks_count": 565
+    "stargazers_count": 12781,
+    "open_issues_count": 158,
+    "forks_count": 572
   },
   {
     "full_name": "Workiva/go-datastructures",
-    "stargazers_count": 7130,
+    "stargazers_count": 7136,
     "open_issues_count": 28,
-    "forks_count": 839
+    "forks_count": 840
   },
   {
     "full_name": "99designs/gqlgen",
-    "stargazers_count": 9074,
-    "open_issues_count": 236,
-    "forks_count": 1075
+    "stargazers_count": 9083,
+    "open_issues_count": 237,
+    "forks_count": 1077
   },
   {
     "full_name": "gobuffalo/envy",
@@ -115,38 +115,38 @@
   },
   {
     "full_name": "GoogleCloudPlatform/gcsfuse",
-    "stargazers_count": 1744,
-    "open_issues_count": 60,
+    "stargazers_count": 1745,
+    "open_issues_count": 66,
     "forks_count": 397
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 25115,
-    "open_issues_count": 42,
-    "forks_count": 1033
+    "stargazers_count": 25162,
+    "open_issues_count": 43,
+    "forks_count": 1036
   },
   {
     "full_name": "go-resty/resty",
-    "stargazers_count": 8145,
-    "open_issues_count": 114,
-    "forks_count": 628
+    "stargazers_count": 8167,
+    "open_issues_count": 115,
+    "forks_count": 632
   },
   {
     "full_name": "oguzhaninan/Stacer",
-    "stargazers_count": 8505,
-    "open_issues_count": 147,
+    "stargazers_count": 8509,
+    "open_issues_count": 146,
     "forks_count": 583
   },
   {
     "full_name": "Infisical/infisical",
-    "stargazers_count": 7375,
-    "open_issues_count": 162,
-    "forks_count": 307
+    "stargazers_count": 7414,
+    "open_issues_count": 167,
+    "forks_count": 309
   },
   {
     "full_name": "rosedblabs/rosedb",
-    "stargazers_count": 3908,
-    "open_issues_count": 5,
+    "stargazers_count": 3914,
+    "open_issues_count": 7,
     "forks_count": 575
   },
   {
@@ -157,15 +157,15 @@
   },
   {
     "full_name": "cweill/gotests",
-    "stargazers_count": 4646,
+    "stargazers_count": 4649,
     "open_issues_count": 57,
-    "forks_count": 329
+    "forks_count": 331
   },
   {
     "full_name": "etcd-io/bbolt",
-    "stargazers_count": 6771,
+    "stargazers_count": 6777,
     "open_issues_count": 64,
-    "forks_count": 552
+    "forks_count": 556
   },
   {
     "full_name": "hashicorp/go-uuid",
