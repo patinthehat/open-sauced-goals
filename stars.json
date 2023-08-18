@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "plank/laravel-metable",
+    "stargazers_count": 270,
+    "open_issues_count": 6,
+    "forks_count": 38
+  },
+  {
     "full_name": "slack-go/slack",
-    "stargazers_count": 4388,
+    "stargazers_count": 4389,
     "open_issues_count": 105,
-    "forks_count": 1094
+    "forks_count": 1096
   },
   {
     "full_name": "ariga/atlas",
-    "stargazers_count": 3480,
-    "open_issues_count": 86,
-    "forks_count": 166
+    "stargazers_count": 3495,
+    "open_issues_count": 87,
+    "forks_count": 168
   },
   {
     "full_name": "mholt/caddy-dynamicdns",
@@ -19,25 +25,25 @@
   },
   {
     "full_name": "GyulyVGC/sniffnet",
-    "stargazers_count": 10484,
-    "open_issues_count": 32,
-    "forks_count": 261
+    "stargazers_count": 10556,
+    "open_issues_count": 34,
+    "forks_count": 264
   },
   {
     "full_name": "spf13/pflag",
-    "stargazers_count": 2151,
+    "stargazers_count": 2157,
     "open_issues_count": 155,
     "forks_count": 335
   },
   {
     "full_name": "xo/xo",
-    "stargazers_count": 3414,
+    "stargazers_count": 3421,
     "open_issues_count": 42,
     "forks_count": 308
   },
   {
     "full_name": "shaj13/go-guardian",
-    "stargazers_count": 484,
+    "stargazers_count": 485,
     "open_issues_count": 9,
     "forks_count": 52
   },
@@ -73,27 +79,27 @@
   },
   {
     "full_name": "grafbase/grafbase",
-    "stargazers_count": 675,
-    "open_issues_count": 8,
+    "stargazers_count": 678,
+    "open_issues_count": 4,
     "forks_count": 27
   },
   {
     "full_name": "samber/lo",
-    "stargazers_count": 12814,
+    "stargazers_count": 12857,
     "open_issues_count": 159,
-    "forks_count": 578
+    "forks_count": 581
   },
   {
     "full_name": "Workiva/go-datastructures",
-    "stargazers_count": 7143,
+    "stargazers_count": 7150,
     "open_issues_count": 28,
-    "forks_count": 841
+    "forks_count": 842
   },
   {
     "full_name": "99designs/gqlgen",
-    "stargazers_count": 9092,
-    "open_issues_count": 240,
-    "forks_count": 1081
+    "stargazers_count": 9104,
+    "open_issues_count": 243,
+    "forks_count": 1083
   },
   {
     "full_name": "gobuffalo/envy",
@@ -115,21 +121,21 @@
   },
   {
     "full_name": "GoogleCloudPlatform/gcsfuse",
-    "stargazers_count": 1745,
-    "open_issues_count": 64,
+    "stargazers_count": 1747,
+    "open_issues_count": 60,
     "forks_count": 398
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 25208,
-    "open_issues_count": 44,
-    "forks_count": 1037
+    "stargazers_count": 25253,
+    "open_issues_count": 45,
+    "forks_count": 1039
   },
   {
     "full_name": "go-resty/resty",
-    "stargazers_count": 8181,
+    "stargazers_count": 8198,
     "open_issues_count": 116,
-    "forks_count": 636
+    "forks_count": 637
   },
   {
     "full_name": "oguzhaninan/Stacer",
@@ -139,15 +145,15 @@
   },
   {
     "full_name": "Infisical/infisical",
-    "stargazers_count": 8341,
-    "open_issues_count": 173,
-    "forks_count": 335
+    "stargazers_count": 8806,
+    "open_issues_count": 174,
+    "forks_count": 356
   },
   {
     "full_name": "rosedblabs/rosedb",
-    "stargazers_count": 3921,
-    "open_issues_count": 8,
-    "forks_count": 581
+    "stargazers_count": 3926,
+    "open_issues_count": 4,
+    "forks_count": 584
   },
   {
     "full_name": "anandvarma/namegen",
@@ -157,26 +163,20 @@
   },
   {
     "full_name": "cweill/gotests",
-    "stargazers_count": 4651,
+    "stargazers_count": 4658,
     "open_issues_count": 57,
-    "forks_count": 335
+    "forks_count": 338
   },
   {
     "full_name": "etcd-io/bbolt",
-    "stargazers_count": 6798,
-    "open_issues_count": 64,
-    "forks_count": 558
+    "stargazers_count": 6805,
+    "open_issues_count": 62,
+    "forks_count": 559
   },
   {
     "full_name": "hashicorp/go-uuid",
     "stargazers_count": 165,
     "open_issues_count": 1,
     "forks_count": 36
-  },
-  {
-    "full_name": "hashicorp/go-version",
-    "stargazers_count": 1446,
-    "open_issues_count": 33,
-    "forks_count": 156
   }
 ]
