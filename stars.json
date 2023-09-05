@@ -1,9 +1,9 @@
 [
   {
     "full_name": "eko/gocache",
-    "stargazers_count": 1931,
-    "open_issues_count": 17,
-    "forks_count": 184
+    "stargazers_count": 1937,
+    "open_issues_count": 18,
+    "forks_count": 188
   },
   {
     "full_name": "inabajunmr/treview",
@@ -19,45 +19,45 @@
   },
   {
     "full_name": "juicedata/juicefs",
-    "stargazers_count": 8497,
+    "stargazers_count": 8515,
     "open_issues_count": 104,
-    "forks_count": 741
+    "forks_count": 744
   },
   {
     "full_name": "redis/go-redis",
-    "stargazers_count": 17936,
-    "open_issues_count": 230,
-    "forks_count": 2161
+    "stargazers_count": 17954,
+    "open_issues_count": 232,
+    "forks_count": 2158
   },
   {
     "full_name": "gocraft/work",
     "stargazers_count": 2179,
     "open_issues_count": 110,
-    "forks_count": 315
+    "forks_count": 316
   },
   {
     "full_name": "gin-contrib/requestid",
     "stargazers_count": 142,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "forks_count": 17
   },
   {
     "full_name": "bmatcuk/doublestar",
-    "stargazers_count": 418,
+    "stargazers_count": 419,
     "open_issues_count": 6,
     "forks_count": 53
   },
   {
     "full_name": "laurent22/massren",
-    "stargazers_count": 1280,
+    "stargazers_count": 1281,
     "open_issues_count": 16,
     "forks_count": 38
   },
   {
     "full_name": "hibiken/asynq",
-    "stargazers_count": 6729,
+    "stargazers_count": 6765,
     "open_issues_count": 153,
-    "forks_count": 512
+    "forks_count": 518
   },
   {
     "full_name": "mojombo/chronic",
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "lotabout/skim",
-    "stargazers_count": 4403,
+    "stargazers_count": 4408,
     "open_issues_count": 123,
     "forks_count": 164
   },
@@ -81,7 +81,7 @@
     "full_name": "kamranahmedse/code-reviews",
     "stargazers_count": 73,
     "open_issues_count": 0,
-    "forks_count": 12
+    "forks_count": 13
   },
   {
     "full_name": "gofireflyio/validiac",
@@ -91,8 +91,8 @@
   },
   {
     "full_name": "validatorjs/validator.js",
-    "stargazers_count": 21680,
-    "open_issues_count": 300,
+    "stargazers_count": 21686,
+    "open_issues_count": 301,
     "forks_count": 2191
   },
   {
@@ -103,14 +103,14 @@
   },
   {
     "full_name": "aws/copilot-cli",
-    "stargazers_count": 3038,
-    "open_issues_count": 548,
+    "stargazers_count": 3042,
+    "open_issues_count": 551,
     "forks_count": 365
   },
   {
     "full_name": "abice/go-enum",
-    "stargazers_count": 544,
-    "open_issues_count": 7,
+    "stargazers_count": 545,
+    "open_issues_count": 8,
     "forks_count": 52
   },
   {
@@ -122,48 +122,48 @@
   {
     "full_name": "thought-machine/please",
     "stargazers_count": 2335,
-    "open_issues_count": 56,
+    "open_issues_count": 57,
     "forks_count": 202
   },
   {
     "full_name": "urfave/cli",
-    "stargazers_count": 20645,
-    "open_issues_count": 43,
+    "stargazers_count": 20657,
+    "open_issues_count": 46,
     "forks_count": 1697
   },
   {
     "full_name": "throttled/throttled",
-    "stargazers_count": 1421,
+    "stargazers_count": 1422,
     "open_issues_count": 11,
     "forks_count": 102
   },
   {
     "full_name": "sony/gobreaker",
-    "stargazers_count": 2521,
+    "stargazers_count": 2528,
     "open_issues_count": 14,
-    "forks_count": 188
+    "forks_count": 190
   },
   {
     "full_name": "Masterminds/semver",
-    "stargazers_count": 1040,
+    "stargazers_count": 1041,
     "open_issues_count": 25,
     "forks_count": 130
   },
   {
     "full_name": "dop251/goja_nodejs",
-    "stargazers_count": 245,
+    "stargazers_count": 248,
     "open_issues_count": 11,
-    "forks_count": 81
+    "forks_count": 85
   },
   {
     "full_name": "Unleash/unleash",
-    "stargazers_count": 8981,
-    "open_issues_count": 65,
-    "forks_count": 560
+    "stargazers_count": 8988,
+    "open_issues_count": 63,
+    "forks_count": 562
   },
   {
     "full_name": "openflagr/flagr",
-    "stargazers_count": 2221,
+    "stargazers_count": 2222,
     "open_issues_count": 2,
     "forks_count": 184
   },
