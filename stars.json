@@ -1,9 +1,9 @@
 [
   {
     "full_name": "eko/gocache",
-    "stargazers_count": 1943,
-    "open_issues_count": 19,
-    "forks_count": 195
+    "stargazers_count": 1951,
+    "open_issues_count": 20,
+    "forks_count": 197
   },
   {
     "full_name": "inabajunmr/treview",
@@ -19,25 +19,25 @@
   },
   {
     "full_name": "juicedata/juicefs",
-    "stargazers_count": 8589,
-    "open_issues_count": 107,
-    "forks_count": 746
+    "stargazers_count": 8608,
+    "open_issues_count": 111,
+    "forks_count": 748
   },
   {
     "full_name": "redis/go-redis",
-    "stargazers_count": 17992,
-    "open_issues_count": 240,
-    "forks_count": 2162
+    "stargazers_count": 18013,
+    "open_issues_count": 242,
+    "forks_count": 2163
   },
   {
     "full_name": "gocraft/work",
     "stargazers_count": 2181,
     "open_issues_count": 110,
-    "forks_count": 321
+    "forks_count": 323
   },
   {
     "full_name": "gin-contrib/requestid",
-    "stargazers_count": 143,
+    "stargazers_count": 144,
     "open_issues_count": 5,
     "forks_count": 17
   },
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "hibiken/asynq",
-    "stargazers_count": 6805,
+    "stargazers_count": 6823,
     "open_issues_count": 156,
-    "forks_count": 522
+    "forks_count": 524
   },
   {
     "full_name": "mojombo/chronic",
@@ -67,15 +67,15 @@
   },
   {
     "full_name": "lotabout/skim",
-    "stargazers_count": 4419,
-    "open_issues_count": 123,
+    "stargazers_count": 4423,
+    "open_issues_count": 124,
     "forks_count": 163
   },
   {
     "full_name": "Code-Hex/pget",
     "stargazers_count": 1050,
-    "open_issues_count": 8,
-    "forks_count": 70
+    "open_issues_count": 4,
+    "forks_count": 71
   },
   {
     "full_name": "kamranahmedse/code-reviews",
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "validatorjs/validator.js",
-    "stargazers_count": 21713,
+    "stargazers_count": 21731,
     "open_issues_count": 304,
     "forks_count": 2194
   },
@@ -103,14 +103,14 @@
   },
   {
     "full_name": "aws/copilot-cli",
-    "stargazers_count": 3049,
-    "open_issues_count": 542,
+    "stargazers_count": 3051,
+    "open_issues_count": 537,
     "forks_count": 366
   },
   {
     "full_name": "abice/go-enum",
     "stargazers_count": 548,
-    "open_issues_count": 11,
+    "open_issues_count": 12,
     "forks_count": 53
   },
   {
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "thought-machine/please",
-    "stargazers_count": 2341,
+    "stargazers_count": 2340,
     "open_issues_count": 55,
-    "forks_count": 202
+    "forks_count": 201
   },
   {
     "full_name": "urfave/cli",
-    "stargazers_count": 20676,
-    "open_issues_count": 47,
-    "forks_count": 1696
+    "stargazers_count": 20696,
+    "open_issues_count": 45,
+    "forks_count": 1698
   },
   {
     "full_name": "throttled/throttled",
@@ -139,44 +139,44 @@
   },
   {
     "full_name": "sony/gobreaker",
-    "stargazers_count": 2534,
-    "open_issues_count": 15,
+    "stargazers_count": 2539,
+    "open_issues_count": 16,
     "forks_count": 194
   },
   {
     "full_name": "Masterminds/semver",
-    "stargazers_count": 1042,
-    "open_issues_count": 26,
-    "forks_count": 133
+    "stargazers_count": 1044,
+    "open_issues_count": 27,
+    "forks_count": 135
   },
   {
     "full_name": "dop251/goja_nodejs",
-    "stargazers_count": 249,
-    "open_issues_count": 11,
+    "stargazers_count": 250,
+    "open_issues_count": 10,
     "forks_count": 89
   },
   {
     "full_name": "Unleash/unleash",
-    "stargazers_count": 9032,
-    "open_issues_count": 63,
-    "forks_count": 563
+    "stargazers_count": 9043,
+    "open_issues_count": 60,
+    "forks_count": 565
   },
   {
     "full_name": "openflagr/flagr",
-    "stargazers_count": 2227,
+    "stargazers_count": 2229,
     "open_issues_count": 1,
     "forks_count": 184
   },
   {
     "full_name": "saghul/txiki.js",
-    "stargazers_count": 2025,
+    "stargazers_count": 2027,
     "open_issues_count": 29,
     "forks_count": 146
   },
   {
     "full_name": "go-enry/go-enry",
     "stargazers_count": 376,
-    "open_issues_count": 19,
+    "open_issues_count": 18,
     "forks_count": 54
   }
 ]
