@@ -1,5 +1,53 @@
 [
   {
+    "full_name": "TheAlgorithms/Go",
+    "stargazers_count": 13555,
+    "open_issues_count": 15,
+    "forks_count": 2431
+  },
+  {
+    "full_name": "seladb/StarTrack-js",
+    "stargazers_count": 504,
+    "open_issues_count": 16,
+    "forks_count": 22
+  },
+  {
+    "full_name": "Barre/privaxy",
+    "stargazers_count": 1911,
+    "open_issues_count": 11,
+    "forks_count": 80
+  },
+  {
+    "full_name": "gofireflyio/aiac",
+    "stargazers_count": 2893,
+    "open_issues_count": 4,
+    "forks_count": 221
+  },
+  {
+    "full_name": "joelparkerhenderson/key-performance-indicator",
+    "stargazers_count": 132,
+    "open_issues_count": 0,
+    "forks_count": 32
+  },
+  {
+    "full_name": "trpc/trpc",
+    "stargazers_count": 29159,
+    "open_issues_count": 93,
+    "forks_count": 1036
+  },
+  {
+    "full_name": "lencx/ChatGPT",
+    "stargazers_count": 41905,
+    "open_issues_count": 512,
+    "forks_count": 4988
+  },
+  {
+    "full_name": "lencx/nofwl",
+    "stargazers_count": 3559,
+    "open_issues_count": 78,
+    "forks_count": 317
+  },
+  {
     "full_name": "src-d/enry",
     "stargazers_count": 449,
     "open_issues_count": 22,
@@ -7,19 +55,19 @@
   },
   {
     "full_name": "streamlit/streamlit",
-    "stargazers_count": 27845,
-    "open_issues_count": 674,
-    "forks_count": 2475
+    "stargazers_count": 27919,
+    "open_issues_count": 681,
+    "forks_count": 2480
   },
   {
     "full_name": "Boeing/config-file-validator",
-    "stargazers_count": 110,
-    "open_issues_count": 24,
+    "stargazers_count": 112,
+    "open_issues_count": 25,
     "forks_count": 15
   },
   {
     "full_name": "variadico/noti",
-    "stargazers_count": 4452,
+    "stargazers_count": 4457,
     "open_issues_count": 32,
     "forks_count": 135
   },
@@ -31,38 +79,38 @@
   },
   {
     "full_name": "montanaflynn/stats",
-    "stargazers_count": 2816,
+    "stargazers_count": 2818,
     "open_issues_count": 17,
     "forks_count": 173
   },
   {
     "full_name": "neomatrix369/awesome-ai-ml-dl",
-    "stargazers_count": 1362,
+    "stargazers_count": 1363,
     "open_issues_count": 4,
-    "forks_count": 336
+    "forks_count": 335
   },
   {
     "full_name": "rcrowley/go-metrics",
-    "stargazers_count": 3407,
+    "stargazers_count": 3408,
     "open_issues_count": 80,
-    "forks_count": 526
+    "forks_count": 527
   },
   {
     "full_name": "DopplerHQ/cli",
     "stargazers_count": 191,
-    "open_issues_count": 18,
+    "open_issues_count": 19,
     "forks_count": 39
   },
   {
     "full_name": "1Password/passkey-rs",
-    "stargazers_count": 221,
+    "stargazers_count": 223,
     "open_issues_count": 2,
     "forks_count": 9
   },
   {
     "full_name": "microsoft/dev-tunnels",
-    "stargazers_count": 148,
-    "open_issues_count": 15,
+    "stargazers_count": 150,
+    "open_issues_count": 13,
     "forks_count": 17
   },
   {
@@ -73,7 +121,7 @@
   },
   {
     "full_name": "local-deploy/dl",
-    "stargazers_count": 24,
+    "stargazers_count": 25,
     "open_issues_count": 7,
     "forks_count": 4
   },
@@ -85,8 +133,8 @@
   },
   {
     "full_name": "BrowserBox/BrowserBox",
-    "stargazers_count": 2754,
-    "open_issues_count": 30,
+    "stargazers_count": 2760,
+    "open_issues_count": 25,
     "forks_count": 271
   },
   {
@@ -103,15 +151,15 @@
   },
   {
     "full_name": "DenverCoder1/readme-typing-svg",
-    "stargazers_count": 3619,
-    "open_issues_count": 15,
-    "forks_count": 568
+    "stargazers_count": 3636,
+    "open_issues_count": 16,
+    "forks_count": 567
   },
   {
     "full_name": "DenverCoder1/github-readme-streak-stats",
-    "stargazers_count": 3415,
+    "stargazers_count": 3428,
     "open_issues_count": 12,
-    "forks_count": 579
+    "forks_count": 578
   },
   {
     "full_name": "bsorrentino/copilot-cli-agent",
@@ -130,53 +178,5 @@
     "stargazers_count": 310,
     "open_issues_count": 5,
     "forks_count": 113
-  },
-  {
-    "full_name": "evilsocket/opensnitch",
-    "stargazers_count": 9132,
-    "open_issues_count": 98,
-    "forks_count": 474
-  },
-  {
-    "full_name": "tkrkt/linenote",
-    "stargazers_count": 67,
-    "open_issues_count": 24,
-    "forks_count": 17
-  },
-  {
-    "full_name": "komodorio/helm-dashboard",
-    "stargazers_count": 4294,
-    "open_issues_count": 30,
-    "forks_count": 245
-  },
-  {
-    "full_name": "loganrk/go-heap-cache",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "tldraw/tldraw",
-    "stargazers_count": 21723,
-    "open_issues_count": 165,
-    "forks_count": 1193
-  },
-  {
-    "full_name": "joelparkerhenderson/architecture-decision-record",
-    "stargazers_count": 10011,
-    "open_issues_count": 2,
-    "forks_count": 2229
-  },
-  {
-    "full_name": "eko/gocache",
-    "stargazers_count": 1977,
-    "open_issues_count": 20,
-    "forks_count": 202
-  },
-  {
-    "full_name": "inabajunmr/treview",
-    "stargazers_count": 16,
-    "open_issues_count": 12,
-    "forks_count": 3
   }
 ]
