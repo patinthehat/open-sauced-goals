@@ -1,9 +1,27 @@
 [
   {
+    "full_name": "ozh/github-colors",
+    "stargazers_count": 658,
+    "open_issues_count": 0,
+    "forks_count": 166
+  },
+  {
+    "full_name": "pablo-abc/felte",
+    "stargazers_count": 897,
+    "open_issues_count": 68,
+    "forks_count": 42
+  },
+  {
+    "full_name": "evilmartians/lefthook",
+    "stargazers_count": 3317,
+    "open_issues_count": 52,
+    "forks_count": 181
+  },
+  {
     "full_name": "TheAlgorithms/Go",
-    "stargazers_count": 13576,
-    "open_issues_count": 15,
-    "forks_count": 2436
+    "stargazers_count": 13596,
+    "open_issues_count": 18,
+    "forks_count": 2440
   },
   {
     "full_name": "seladb/StarTrack-js",
@@ -19,9 +37,9 @@
   },
   {
     "full_name": "gofireflyio/aiac",
-    "stargazers_count": 2899,
+    "stargazers_count": 2901,
     "open_issues_count": 4,
-    "forks_count": 220
+    "forks_count": 221
   },
   {
     "full_name": "joelparkerhenderson/key-performance-indicator",
@@ -31,43 +49,43 @@
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 29243,
-    "open_issues_count": 94,
-    "forks_count": 1038
+    "stargazers_count": 29334,
+    "open_issues_count": 97,
+    "forks_count": 1042
   },
   {
     "full_name": "lencx/ChatGPT",
-    "stargazers_count": 41988,
-    "open_issues_count": 514,
-    "forks_count": 5000
+    "stargazers_count": 42087,
+    "open_issues_count": 516,
+    "forks_count": 5013
   },
   {
     "full_name": "lencx/nofwl",
-    "stargazers_count": 3574,
+    "stargazers_count": 3600,
     "open_issues_count": 78,
-    "forks_count": 319
+    "forks_count": 318
   },
   {
     "full_name": "src-d/enry",
-    "stargazers_count": 449,
+    "stargazers_count": 450,
     "open_issues_count": 22,
     "forks_count": 53
   },
   {
     "full_name": "streamlit/streamlit",
-    "stargazers_count": 27982,
-    "open_issues_count": 667,
-    "forks_count": 2490
+    "stargazers_count": 28056,
+    "open_issues_count": 674,
+    "forks_count": 2495
   },
   {
     "full_name": "Boeing/config-file-validator",
-    "stargazers_count": 116,
-    "open_issues_count": 24,
-    "forks_count": 16
+    "stargazers_count": 119,
+    "open_issues_count": 23,
+    "forks_count": 17
   },
   {
     "full_name": "variadico/noti",
-    "stargazers_count": 4459,
+    "stargazers_count": 4460,
     "open_issues_count": 32,
     "forks_count": 135
   },
@@ -79,19 +97,19 @@
   },
   {
     "full_name": "montanaflynn/stats",
-    "stargazers_count": 2821,
+    "stargazers_count": 2822,
     "open_issues_count": 17,
     "forks_count": 173
   },
   {
     "full_name": "neomatrix369/awesome-ai-ml-dl",
-    "stargazers_count": 1365,
+    "stargazers_count": 1367,
     "open_issues_count": 4,
     "forks_count": 335
   },
   {
     "full_name": "rcrowley/go-metrics",
-    "stargazers_count": 3408,
+    "stargazers_count": 3407,
     "open_issues_count": 80,
     "forks_count": 530
   },
@@ -103,14 +121,14 @@
   },
   {
     "full_name": "1Password/passkey-rs",
-    "stargazers_count": 224,
+    "stargazers_count": 226,
     "open_issues_count": 2,
     "forks_count": 9
   },
   {
     "full_name": "microsoft/dev-tunnels",
-    "stargazers_count": 152,
-    "open_issues_count": 12,
+    "stargazers_count": 155,
+    "open_issues_count": 14,
     "forks_count": 17
   },
   {
@@ -121,7 +139,7 @@
   },
   {
     "full_name": "local-deploy/dl",
-    "stargazers_count": 26,
+    "stargazers_count": 28,
     "open_issues_count": 5,
     "forks_count": 4
   },
@@ -133,8 +151,8 @@
   },
   {
     "full_name": "BrowserBox/BrowserBox",
-    "stargazers_count": 2766,
-    "open_issues_count": 26,
+    "stargazers_count": 2776,
+    "open_issues_count": 27,
     "forks_count": 274
   },
   {
@@ -151,32 +169,14 @@
   },
   {
     "full_name": "DenverCoder1/readme-typing-svg",
-    "stargazers_count": 3656,
+    "stargazers_count": 3687,
     "open_issues_count": 16,
-    "forks_count": 568
+    "forks_count": 569
   },
   {
     "full_name": "DenverCoder1/github-readme-streak-stats",
-    "stargazers_count": 3443,
-    "open_issues_count": 12,
-    "forks_count": 580
-  },
-  {
-    "full_name": "bsorrentino/copilot-cli-agent",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "qiwi/semantic-release-toolkit",
-    "stargazers_count": 10,
-    "open_issues_count": 19,
-    "forks_count": 2
-  },
-  {
-    "full_name": "coreprocess/linux-unattended-installation",
-    "stargazers_count": 310,
-    "open_issues_count": 5,
-    "forks_count": 113
+    "stargazers_count": 3457,
+    "open_issues_count": 11,
+    "forks_count": 581
   }
 ]
