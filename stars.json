@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "area17/blast",
+    "stargazers_count": 227,
+    "open_issues_count": 22,
+    "forks_count": 30
+  },
+  {
+    "full_name": "stanfordnlp/dspy",
+    "stargazers_count": 3914,
+    "open_issues_count": 48,
+    "forks_count": 228
+  },
+  {
     "full_name": "ozh/github-colors",
     "stargazers_count": 658,
     "open_issues_count": 0,
@@ -7,21 +19,21 @@
   },
   {
     "full_name": "pablo-abc/felte",
-    "stargazers_count": 897,
-    "open_issues_count": 68,
+    "stargazers_count": 899,
+    "open_issues_count": 69,
     "forks_count": 42
   },
   {
     "full_name": "evilmartians/lefthook",
-    "stargazers_count": 3317,
-    "open_issues_count": 52,
+    "stargazers_count": 3324,
+    "open_issues_count": 54,
     "forks_count": 181
   },
   {
     "full_name": "TheAlgorithms/Go",
-    "stargazers_count": 13596,
-    "open_issues_count": 18,
-    "forks_count": 2440
+    "stargazers_count": 13616,
+    "open_issues_count": 17,
+    "forks_count": 2447
   },
   {
     "full_name": "seladb/StarTrack-js",
@@ -31,39 +43,39 @@
   },
   {
     "full_name": "Barre/privaxy",
-    "stargazers_count": 1914,
+    "stargazers_count": 1926,
     "open_issues_count": 12,
     "forks_count": 80
   },
   {
     "full_name": "gofireflyio/aiac",
-    "stargazers_count": 2901,
+    "stargazers_count": 2906,
     "open_issues_count": 4,
     "forks_count": 221
   },
   {
     "full_name": "joelparkerhenderson/key-performance-indicator",
-    "stargazers_count": 132,
+    "stargazers_count": 133,
     "open_issues_count": 0,
     "forks_count": 32
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 29334,
-    "open_issues_count": 97,
-    "forks_count": 1042
+    "stargazers_count": 29399,
+    "open_issues_count": 95,
+    "forks_count": 1047
   },
   {
     "full_name": "lencx/ChatGPT",
-    "stargazers_count": 42087,
-    "open_issues_count": 516,
-    "forks_count": 5013
+    "stargazers_count": 42174,
+    "open_issues_count": 522,
+    "forks_count": 5018
   },
   {
     "full_name": "lencx/nofwl",
-    "stargazers_count": 3600,
+    "stargazers_count": 3617,
     "open_issues_count": 78,
-    "forks_count": 318
+    "forks_count": 319
   },
   {
     "full_name": "src-d/enry",
@@ -73,15 +85,15 @@
   },
   {
     "full_name": "streamlit/streamlit",
-    "stargazers_count": 28056,
-    "open_issues_count": 674,
-    "forks_count": 2495
+    "stargazers_count": 28116,
+    "open_issues_count": 672,
+    "forks_count": 2501
   },
   {
     "full_name": "Boeing/config-file-validator",
-    "stargazers_count": 119,
-    "open_issues_count": 23,
-    "forks_count": 17
+    "stargazers_count": 129,
+    "open_issues_count": 20,
+    "forks_count": 19
   },
   {
     "full_name": "variadico/noti",
@@ -97,21 +109,21 @@
   },
   {
     "full_name": "montanaflynn/stats",
-    "stargazers_count": 2822,
+    "stargazers_count": 2825,
     "open_issues_count": 17,
     "forks_count": 173
   },
   {
     "full_name": "neomatrix369/awesome-ai-ml-dl",
-    "stargazers_count": 1367,
+    "stargazers_count": 1368,
     "open_issues_count": 4,
     "forks_count": 335
   },
   {
     "full_name": "rcrowley/go-metrics",
     "stargazers_count": 3407,
-    "open_issues_count": 80,
-    "forks_count": 530
+    "open_issues_count": 79,
+    "forks_count": 531
   },
   {
     "full_name": "DopplerHQ/cli",
@@ -122,12 +134,12 @@
   {
     "full_name": "1Password/passkey-rs",
     "stargazers_count": 226,
-    "open_issues_count": 2,
-    "forks_count": 9
+    "open_issues_count": 3,
+    "forks_count": 10
   },
   {
     "full_name": "microsoft/dev-tunnels",
-    "stargazers_count": 155,
+    "stargazers_count": 156,
     "open_issues_count": 14,
     "forks_count": 17
   },
@@ -139,8 +151,8 @@
   },
   {
     "full_name": "local-deploy/dl",
-    "stargazers_count": 28,
-    "open_issues_count": 5,
+    "stargazers_count": 30,
+    "open_issues_count": 4,
     "forks_count": 4
   },
   {
@@ -151,8 +163,8 @@
   },
   {
     "full_name": "BrowserBox/BrowserBox",
-    "stargazers_count": 2776,
-    "open_issues_count": 27,
+    "stargazers_count": 2781,
+    "open_issues_count": 29,
     "forks_count": 274
   },
   {
@@ -164,19 +176,7 @@
   {
     "full_name": "qruto/laravel-flora",
     "stargazers_count": 71,
-    "open_issues_count": 2,
+    "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "DenverCoder1/readme-typing-svg",
-    "stargazers_count": 3687,
-    "open_issues_count": 16,
-    "forks_count": 569
-  },
-  {
-    "full_name": "DenverCoder1/github-readme-streak-stats",
-    "stargazers_count": 3457,
-    "open_issues_count": 11,
-    "forks_count": 581
   }
 ]
