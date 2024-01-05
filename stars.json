@@ -1,9 +1,9 @@
 [
   {
     "full_name": "ReactiveX/rxjs",
-    "stargazers_count": 29799,
-    "open_issues_count": 259,
-    "forks_count": 3056
+    "stargazers_count": 29807,
+    "open_issues_count": 257,
+    "forks_count": 3057
   },
   {
     "full_name": "code2k/ghfresh",
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "ActivityWatch/activitywatch",
-    "stargazers_count": 10029,
-    "open_issues_count": 120,
-    "forks_count": 469
+    "stargazers_count": 10063,
+    "open_issues_count": 122,
+    "forks_count": 470
   },
   {
     "full_name": "FuturePortal/CIMonitor",
@@ -37,37 +37,37 @@
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 39639,
-    "open_issues_count": 1001,
-    "forks_count": 2070
+    "stargazers_count": 40344,
+    "open_issues_count": 1013,
+    "forks_count": 2093
   },
   {
     "full_name": "usernotnull/tall-toasts",
-    "stargazers_count": 480,
+    "stargazers_count": 482,
     "open_issues_count": 4,
     "forks_count": 28
   },
   {
     "full_name": "pantsbuild/pants",
-    "stargazers_count": 2949,
-    "open_issues_count": 954,
-    "forks_count": 593
+    "stargazers_count": 2952,
+    "open_issues_count": 960,
+    "forks_count": 595
   },
   {
     "full_name": "react-grid-layout/react-grid-layout",
-    "stargazers_count": 18835,
+    "stargazers_count": 18854,
     "open_issues_count": 159,
-    "forks_count": 2511
+    "forks_count": 2509
   },
   {
     "full_name": "jsx-eslint/eslint-plugin-react",
     "stargazers_count": 8723,
-    "open_issues_count": 289,
-    "forks_count": 2791
+    "open_issues_count": 290,
+    "forks_count": 2794
   },
   {
     "full_name": "google/material-design-icons",
-    "stargazers_count": 49161,
+    "stargazers_count": 49177,
     "open_issues_count": 278,
     "forks_count": 9732
   },
@@ -79,8 +79,8 @@
   },
   {
     "full_name": "imacrayon/alpine-ajax",
-    "stargazers_count": 164,
-    "open_issues_count": 5,
+    "stargazers_count": 167,
+    "open_issues_count": 6,
     "forks_count": 5
   },
   {
@@ -104,14 +104,14 @@
   {
     "full_name": "asantibanez/livewire-charts",
     "stargazers_count": 736,
-    "open_issues_count": 39,
+    "open_issues_count": 40,
     "forks_count": 98
   },
   {
     "full_name": "ytdl-org/youtube-dl",
-    "stargazers_count": 125838,
-    "open_issues_count": 4326,
-    "forks_count": 9675
+    "stargazers_count": 125888,
+    "open_issues_count": 4328,
+    "forks_count": 9683
   },
   {
     "full_name": "aaronmbos/monocode",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "spatie/laravel-onboard",
-    "stargazers_count": 564,
+    "stargazers_count": 565,
     "open_issues_count": 0,
-    "forks_count": 22
+    "forks_count": 23
   },
   {
     "full_name": "TwiN/gocache",
@@ -139,44 +139,44 @@
   },
   {
     "full_name": "microsoft/inshellisense",
-    "stargazers_count": 7693,
+    "stargazers_count": 7720,
     "open_issues_count": 22,
-    "forks_count": 159
+    "forks_count": 161
   },
   {
     "full_name": "BuilderIO/gpt-crawler",
-    "stargazers_count": 15393,
-    "open_issues_count": 71,
-    "forks_count": 1382
+    "stargazers_count": 15503,
+    "open_issues_count": 74,
+    "forks_count": 1405
   },
   {
     "full_name": "natemoo-re/clack",
-    "stargazers_count": 4586,
+    "stargazers_count": 4595,
     "open_issues_count": 67,
     "forks_count": 73
   },
   {
     "full_name": "laravel/fortify",
-    "stargazers_count": 1497,
-    "open_issues_count": 3,
+    "stargazers_count": 1499,
+    "open_issues_count": 2,
     "forks_count": 275
   },
   {
     "full_name": "imartinez/privateGPT",
-    "stargazers_count": 45743,
-    "open_issues_count": 506,
-    "forks_count": 6058
+    "stargazers_count": 45899,
+    "open_issues_count": 512,
+    "forks_count": 6075
   },
   {
     "full_name": "othneildrew/Best-README-Template",
-    "stargazers_count": 12131,
+    "stargazers_count": 12167,
     "open_issues_count": 13,
-    "forks_count": 21669
+    "forks_count": 21691
   },
   {
     "full_name": "go-rel/rel",
     "stargazers_count": 701,
-    "open_issues_count": 28,
+    "open_issues_count": 26,
     "forks_count": 59
   }
 ]
