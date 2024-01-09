@@ -1,8 +1,14 @@
 [
   {
+    "full_name": "uiverse-io/galaxy",
+    "stargazers_count": 290,
+    "open_issues_count": 0,
+    "forks_count": 10
+  },
+  {
     "full_name": "ReactiveX/rxjs",
-    "stargazers_count": 29807,
-    "open_issues_count": 257,
+    "stargazers_count": 29826,
+    "open_issues_count": 258,
     "forks_count": 3057
   },
   {
@@ -13,8 +19,8 @@
   },
   {
     "full_name": "trambarhq/relaks",
-    "stargazers_count": 54,
-    "open_issues_count": 0,
+    "stargazers_count": 55,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
@@ -25,9 +31,9 @@
   },
   {
     "full_name": "ActivityWatch/activitywatch",
-    "stargazers_count": 10063,
-    "open_issues_count": 122,
-    "forks_count": 470
+    "stargazers_count": 10092,
+    "open_issues_count": 119,
+    "forks_count": 471
   },
   {
     "full_name": "FuturePortal/CIMonitor",
@@ -37,39 +43,39 @@
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 40344,
-    "open_issues_count": 1013,
-    "forks_count": 2093
+    "stargazers_count": 41298,
+    "open_issues_count": 1027,
+    "forks_count": 2142
   },
   {
     "full_name": "usernotnull/tall-toasts",
-    "stargazers_count": 482,
+    "stargazers_count": 483,
     "open_issues_count": 4,
     "forks_count": 28
   },
   {
     "full_name": "pantsbuild/pants",
-    "stargazers_count": 2952,
-    "open_issues_count": 960,
-    "forks_count": 595
+    "stargazers_count": 2959,
+    "open_issues_count": 961,
+    "forks_count": 596
   },
   {
     "full_name": "react-grid-layout/react-grid-layout",
-    "stargazers_count": 18854,
-    "open_issues_count": 159,
-    "forks_count": 2509
+    "stargazers_count": 18875,
+    "open_issues_count": 160,
+    "forks_count": 2510
   },
   {
     "full_name": "jsx-eslint/eslint-plugin-react",
-    "stargazers_count": 8723,
-    "open_issues_count": 290,
-    "forks_count": 2794
+    "stargazers_count": 8726,
+    "open_issues_count": 292,
+    "forks_count": 2795
   },
   {
     "full_name": "google/material-design-icons",
-    "stargazers_count": 49177,
-    "open_issues_count": 278,
-    "forks_count": 9732
+    "stargazers_count": 49204,
+    "open_issues_count": 279,
+    "forks_count": 9736
   },
   {
     "full_name": "halaxa/json-machine",
@@ -79,9 +85,9 @@
   },
   {
     "full_name": "imacrayon/alpine-ajax",
-    "stargazers_count": 167,
-    "open_issues_count": 6,
-    "forks_count": 5
+    "stargazers_count": 169,
+    "open_issues_count": 7,
+    "forks_count": 4
   },
   {
     "full_name": "codinglabsau/laravel-feature-flags",
@@ -97,21 +103,21 @@
   },
   {
     "full_name": "asantibanez/livewire-calendar",
-    "stargazers_count": 812,
+    "stargazers_count": 813,
     "open_issues_count": 30,
     "forks_count": 212
   },
   {
     "full_name": "asantibanez/livewire-charts",
-    "stargazers_count": 736,
+    "stargazers_count": 737,
     "open_issues_count": 40,
     "forks_count": 98
   },
   {
     "full_name": "ytdl-org/youtube-dl",
-    "stargazers_count": 125888,
-    "open_issues_count": 4328,
-    "forks_count": 9683
+    "stargazers_count": 125981,
+    "open_issues_count": 4331,
+    "forks_count": 9698
   },
   {
     "full_name": "aaronmbos/monocode",
@@ -127,7 +133,7 @@
   },
   {
     "full_name": "spatie/laravel-onboard",
-    "stargazers_count": 565,
+    "stargazers_count": 567,
     "open_issues_count": 0,
     "forks_count": 23
   },
@@ -139,44 +145,38 @@
   },
   {
     "full_name": "microsoft/inshellisense",
-    "stargazers_count": 7720,
-    "open_issues_count": 22,
-    "forks_count": 161
+    "stargazers_count": 7750,
+    "open_issues_count": 20,
+    "forks_count": 162
   },
   {
     "full_name": "BuilderIO/gpt-crawler",
-    "stargazers_count": 15503,
+    "stargazers_count": 15592,
     "open_issues_count": 74,
-    "forks_count": 1405
+    "forks_count": 1427
   },
   {
     "full_name": "natemoo-re/clack",
-    "stargazers_count": 4595,
+    "stargazers_count": 4605,
     "open_issues_count": 67,
     "forks_count": 73
   },
   {
     "full_name": "laravel/fortify",
-    "stargazers_count": 1499,
+    "stargazers_count": 1502,
     "open_issues_count": 2,
     "forks_count": 275
   },
   {
     "full_name": "imartinez/privateGPT",
-    "stargazers_count": 45899,
-    "open_issues_count": 512,
-    "forks_count": 6075
+    "stargazers_count": 46104,
+    "open_issues_count": 518,
+    "forks_count": 6106
   },
   {
     "full_name": "othneildrew/Best-README-Template",
-    "stargazers_count": 12167,
+    "stargazers_count": 12193,
     "open_issues_count": 13,
-    "forks_count": 21691
-  },
-  {
-    "full_name": "go-rel/rel",
-    "stargazers_count": 701,
-    "open_issues_count": 26,
-    "forks_count": 59
+    "forks_count": 21707
   }
 ]
