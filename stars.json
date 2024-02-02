@@ -1,20 +1,20 @@
 [
   {
     "full_name": "cube2222/octosql",
-    "stargazers_count": 4659,
+    "stargazers_count": 4660,
     "open_issues_count": 42,
     "forks_count": 197
   },
   {
     "full_name": "biomejs/biome",
-    "stargazers_count": 8215,
-    "open_issues_count": 101,
-    "forks_count": 277
+    "stargazers_count": 8333,
+    "open_issues_count": 108,
+    "forks_count": 283
   },
   {
     "full_name": "glideapps/quicktype",
-    "stargazers_count": 11124,
-    "open_issues_count": 481,
+    "stargazers_count": 11147,
+    "open_issues_count": 482,
     "forks_count": 992
   },
   {
@@ -25,13 +25,13 @@
   },
   {
     "full_name": "protonemedia/laravel-splade",
-    "stargazers_count": 1386,
+    "stargazers_count": 1387,
     "open_issues_count": 135,
     "forks_count": 105
   },
   {
     "full_name": "gehrisandro/tailwind-merge-laravel",
-    "stargazers_count": 214,
+    "stargazers_count": 216,
     "open_issues_count": 2,
     "forks_count": 9
   },
@@ -43,21 +43,21 @@
   },
   {
     "full_name": "yjs/yjs",
-    "stargazers_count": 14192,
+    "stargazers_count": 14212,
     "open_issues_count": 90,
     "forks_count": 539
   },
   {
     "full_name": "uiverse-io/galaxy",
-    "stargazers_count": 427,
+    "stargazers_count": 447,
     "open_issues_count": 1,
-    "forks_count": 14
+    "forks_count": 16
   },
   {
     "full_name": "ReactiveX/rxjs",
-    "stargazers_count": 29907,
-    "open_issues_count": 255,
-    "forks_count": 3065
+    "stargazers_count": 29912,
+    "open_issues_count": 256,
+    "forks_count": 3068
   },
   {
     "full_name": "code2k/ghfresh",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "ActivityWatch/activitywatch",
-    "stargazers_count": 10237,
-    "open_issues_count": 125,
-    "forks_count": 477
+    "stargazers_count": 10247,
+    "open_issues_count": 126,
+    "forks_count": 480
   },
   {
     "full_name": "FuturePortal/CIMonitor",
@@ -91,50 +91,50 @@
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 46512,
-    "open_issues_count": 1139,
-    "forks_count": 2370
+    "stargazers_count": 47008,
+    "open_issues_count": 1154,
+    "forks_count": 2390
   },
   {
     "full_name": "usernotnull/tall-toasts",
-    "stargazers_count": 490,
-    "open_issues_count": 4,
+    "stargazers_count": 489,
+    "open_issues_count": 5,
     "forks_count": 28
   },
   {
     "full_name": "pantsbuild/pants",
-    "stargazers_count": 2985,
-    "open_issues_count": 964,
+    "stargazers_count": 2989,
+    "open_issues_count": 969,
     "forks_count": 599
   },
   {
     "full_name": "react-grid-layout/react-grid-layout",
-    "stargazers_count": 18970,
+    "stargazers_count": 18992,
     "open_issues_count": 166,
-    "forks_count": 2524
+    "forks_count": 2523
   },
   {
     "full_name": "jsx-eslint/eslint-plugin-react",
-    "stargazers_count": 8741,
+    "stargazers_count": 8744,
     "open_issues_count": 292,
-    "forks_count": 2789
+    "forks_count": 2790
   },
   {
     "full_name": "google/material-design-icons",
-    "stargazers_count": 49307,
-    "open_issues_count": 279,
-    "forks_count": 9752
+    "stargazers_count": 49319,
+    "open_issues_count": 278,
+    "forks_count": 9762
   },
   {
     "full_name": "halaxa/json-machine",
-    "stargazers_count": 964,
+    "stargazers_count": 965,
     "open_issues_count": 11,
     "forks_count": 61
   },
   {
     "full_name": "imacrayon/alpine-ajax",
-    "stargazers_count": 191,
-    "open_issues_count": 8,
+    "stargazers_count": 194,
+    "open_issues_count": 9,
     "forks_count": 4
   },
   {
@@ -151,21 +151,21 @@
   },
   {
     "full_name": "asantibanez/livewire-calendar",
-    "stargazers_count": 825,
+    "stargazers_count": 826,
     "open_issues_count": 30,
-    "forks_count": 214
+    "forks_count": 213
   },
   {
     "full_name": "asantibanez/livewire-charts",
     "stargazers_count": 745,
     "open_issues_count": 42,
-    "forks_count": 101
+    "forks_count": 102
   },
   {
     "full_name": "ytdl-org/youtube-dl",
-    "stargazers_count": 126527,
-    "open_issues_count": 4333,
-    "forks_count": 9740
+    "stargazers_count": 126728,
+    "open_issues_count": 4334,
+    "forks_count": 9759
   },
   {
     "full_name": "aaronmbos/monocode",
