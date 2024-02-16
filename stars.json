@@ -1,9 +1,21 @@
 [
   {
+    "full_name": "FiloSottile/mkcert",
+    "stargazers_count": 44670,
+    "open_issues_count": 134,
+    "forks_count": 2405
+  },
+  {
+    "full_name": "brillout/awesome-react-components",
+    "stargazers_count": 39451,
+    "open_issues_count": 5,
+    "forks_count": 3398
+  },
+  {
     "full_name": "salahhusa9/laravel-updater",
-    "stargazers_count": 133,
+    "stargazers_count": 136,
     "open_issues_count": 1,
-    "forks_count": 15
+    "forks_count": 16
   },
   {
     "full_name": "Mahcks/wails-vite-react-tailwind-shadcnui-ts",
@@ -25,39 +37,39 @@
   },
   {
     "full_name": "elysiajs/elysia",
-    "stargazers_count": 6700,
-    "open_issues_count": 137,
+    "stargazers_count": 6743,
+    "open_issues_count": 143,
     "forks_count": 152
   },
   {
     "full_name": "onursimsek/precondition",
-    "stargazers_count": 9,
-    "open_issues_count": 0,
+    "stargazers_count": 10,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "ZachGoldberg/Startup-CTO-Handbook",
-    "stargazers_count": 9725,
+    "stargazers_count": 9728,
     "open_issues_count": 6,
     "forks_count": 457
   },
   {
     "full_name": "cube2222/octosql",
-    "stargazers_count": 4665,
+    "stargazers_count": 4667,
     "open_issues_count": 42,
     "forks_count": 198
   },
   {
     "full_name": "biomejs/biome",
-    "stargazers_count": 8625,
-    "open_issues_count": 112,
-    "forks_count": 301
+    "stargazers_count": 8673,
+    "open_issues_count": 106,
+    "forks_count": 304
   },
   {
     "full_name": "glideapps/quicktype",
-    "stargazers_count": 11202,
-    "open_issues_count": 486,
-    "forks_count": 996
+    "stargazers_count": 11215,
+    "open_issues_count": 461,
+    "forks_count": 999
   },
   {
     "full_name": "circlecell/jsonlint.com",
@@ -73,31 +85,31 @@
   },
   {
     "full_name": "gehrisandro/tailwind-merge-laravel",
-    "stargazers_count": 221,
-    "open_issues_count": 3,
+    "stargazers_count": 222,
+    "open_issues_count": 2,
     "forks_count": 9
   },
   {
     "full_name": "hadrysm/nextjs-boilerplate",
-    "stargazers_count": 113,
+    "stargazers_count": 114,
     "open_issues_count": 0,
     "forks_count": 19
   },
   {
     "full_name": "yjs/yjs",
-    "stargazers_count": 14297,
-    "open_issues_count": 91,
-    "forks_count": 541
+    "stargazers_count": 14318,
+    "open_issues_count": 90,
+    "forks_count": 543
   },
   {
     "full_name": "uiverse-io/galaxy",
-    "stargazers_count": 507,
+    "stargazers_count": 524,
     "open_issues_count": 1,
     "forks_count": 17
   },
   {
     "full_name": "ReactiveX/rxjs",
-    "stargazers_count": 29945,
+    "stargazers_count": 29958,
     "open_issues_count": 257,
     "forks_count": 3077
   },
@@ -109,7 +121,7 @@
   },
   {
     "full_name": "trambarhq/relaks",
-    "stargazers_count": 55,
+    "stargazers_count": 56,
     "open_issues_count": 1,
     "forks_count": 0
   },
@@ -121,9 +133,9 @@
   },
   {
     "full_name": "ActivityWatch/activitywatch",
-    "stargazers_count": 10335,
-    "open_issues_count": 130,
-    "forks_count": 482
+    "stargazers_count": 10357,
+    "open_issues_count": 132,
+    "forks_count": 484
   },
   {
     "full_name": "FuturePortal/CIMonitor",
@@ -133,9 +145,9 @@
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 48398,
-    "open_issues_count": 1102,
-    "forks_count": 2481
+    "stargazers_count": 48698,
+    "open_issues_count": 1065,
+    "forks_count": 2511
   },
   {
     "full_name": "usernotnull/tall-toasts",
@@ -145,38 +157,26 @@
   },
   {
     "full_name": "pantsbuild/pants",
-    "stargazers_count": 3008,
-    "open_issues_count": 974,
+    "stargazers_count": 3010,
+    "open_issues_count": 975,
     "forks_count": 606
   },
   {
     "full_name": "react-grid-layout/react-grid-layout",
-    "stargazers_count": 19043,
-    "open_issues_count": 167,
+    "stargazers_count": 19051,
+    "open_issues_count": 166,
     "forks_count": 2523
   },
   {
     "full_name": "jsx-eslint/eslint-plugin-react",
-    "stargazers_count": 8752,
+    "stargazers_count": 8750,
     "open_issues_count": 295,
-    "forks_count": 2794
+    "forks_count": 2797
   },
   {
     "full_name": "google/material-design-icons",
-    "stargazers_count": 49382,
-    "open_issues_count": 284,
+    "stargazers_count": 49405,
+    "open_issues_count": 285,
     "forks_count": 9793
-  },
-  {
-    "full_name": "halaxa/json-machine",
-    "stargazers_count": 972,
-    "open_issues_count": 11,
-    "forks_count": 61
-  },
-  {
-    "full_name": "imacrayon/alpine-ajax",
-    "stargazers_count": 202,
-    "open_issues_count": 6,
-    "forks_count": 4
   }
 ]
