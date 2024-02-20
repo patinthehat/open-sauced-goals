@@ -1,21 +1,39 @@
 [
   {
+    "full_name": "awslabs/llrt",
+    "stargazers_count": 6531,
+    "open_issues_count": 22,
+    "forks_count": 293
+  },
+  {
+    "full_name": "formkit/tempo",
+    "stargazers_count": 976,
+    "open_issues_count": 3,
+    "forks_count": 6
+  },
+  {
+    "full_name": "vercel/async-retry",
+    "stargazers_count": 1770,
+    "open_issues_count": 29,
+    "forks_count": 65
+  },
+  {
     "full_name": "FiloSottile/mkcert",
-    "stargazers_count": 44670,
+    "stargazers_count": 44722,
     "open_issues_count": 134,
-    "forks_count": 2405
+    "forks_count": 2410
   },
   {
     "full_name": "brillout/awesome-react-components",
-    "stargazers_count": 39451,
+    "stargazers_count": 39533,
     "open_issues_count": 5,
-    "forks_count": 3398
+    "forks_count": 3402
   },
   {
     "full_name": "salahhusa9/laravel-updater",
-    "stargazers_count": 136,
+    "stargazers_count": 137,
     "open_issues_count": 1,
-    "forks_count": 16
+    "forks_count": 17
   },
   {
     "full_name": "Mahcks/wails-vite-react-tailwind-shadcnui-ts",
@@ -31,45 +49,45 @@
   },
   {
     "full_name": "amrsa1/playwright-android",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "elysiajs/elysia",
-    "stargazers_count": 6743,
-    "open_issues_count": 143,
+    "stargazers_count": 6785,
+    "open_issues_count": 146,
     "forks_count": 152
   },
   {
     "full_name": "onursimsek/precondition",
-    "stargazers_count": 10,
+    "stargazers_count": 11,
     "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "ZachGoldberg/Startup-CTO-Handbook",
-    "stargazers_count": 9728,
-    "open_issues_count": 6,
-    "forks_count": 457
+    "stargazers_count": 9735,
+    "open_issues_count": 7,
+    "forks_count": 456
   },
   {
     "full_name": "cube2222/octosql",
-    "stargazers_count": 4667,
+    "stargazers_count": 4668,
     "open_issues_count": 42,
     "forks_count": 198
   },
   {
     "full_name": "biomejs/biome",
-    "stargazers_count": 8673,
-    "open_issues_count": 106,
-    "forks_count": 304
+    "stargazers_count": 8756,
+    "open_issues_count": 112,
+    "forks_count": 308
   },
   {
     "full_name": "glideapps/quicktype",
-    "stargazers_count": 11215,
-    "open_issues_count": 461,
-    "forks_count": 999
+    "stargazers_count": 11232,
+    "open_issues_count": 471,
+    "forks_count": 1001
   },
   {
     "full_name": "circlecell/jsonlint.com",
@@ -79,15 +97,15 @@
   },
   {
     "full_name": "protonemedia/laravel-splade",
-    "stargazers_count": 1395,
-    "open_issues_count": 135,
+    "stargazers_count": 1397,
+    "open_issues_count": 134,
     "forks_count": 105
   },
   {
     "full_name": "gehrisandro/tailwind-merge-laravel",
-    "stargazers_count": 222,
+    "stargazers_count": 224,
     "open_issues_count": 2,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "hadrysm/nextjs-boilerplate",
@@ -97,21 +115,21 @@
   },
   {
     "full_name": "yjs/yjs",
-    "stargazers_count": 14318,
-    "open_issues_count": 90,
-    "forks_count": 543
+    "stargazers_count": 14339,
+    "open_issues_count": 92,
+    "forks_count": 545
   },
   {
     "full_name": "uiverse-io/galaxy",
-    "stargazers_count": 524,
+    "stargazers_count": 549,
     "open_issues_count": 1,
-    "forks_count": 17
+    "forks_count": 21
   },
   {
     "full_name": "ReactiveX/rxjs",
-    "stargazers_count": 29958,
+    "stargazers_count": 29969,
     "open_issues_count": 257,
-    "forks_count": 3077
+    "forks_count": 3079
   },
   {
     "full_name": "code2k/ghfresh",
@@ -133,9 +151,9 @@
   },
   {
     "full_name": "ActivityWatch/activitywatch",
-    "stargazers_count": 10357,
-    "open_issues_count": 132,
-    "forks_count": 484
+    "stargazers_count": 10388,
+    "open_issues_count": 134,
+    "forks_count": 486
   },
   {
     "full_name": "FuturePortal/CIMonitor",
@@ -145,38 +163,20 @@
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 48698,
+    "stargazers_count": 49030,
     "open_issues_count": 1065,
-    "forks_count": 2511
+    "forks_count": 2535
   },
   {
     "full_name": "usernotnull/tall-toasts",
-    "stargazers_count": 489,
+    "stargazers_count": 491,
     "open_issues_count": 5,
     "forks_count": 28
   },
   {
     "full_name": "pantsbuild/pants",
-    "stargazers_count": 3010,
-    "open_issues_count": 975,
-    "forks_count": 606
-  },
-  {
-    "full_name": "react-grid-layout/react-grid-layout",
-    "stargazers_count": 19051,
-    "open_issues_count": 166,
-    "forks_count": 2523
-  },
-  {
-    "full_name": "jsx-eslint/eslint-plugin-react",
-    "stargazers_count": 8750,
-    "open_issues_count": 295,
-    "forks_count": 2797
-  },
-  {
-    "full_name": "google/material-design-icons",
-    "stargazers_count": 49405,
-    "open_issues_count": 285,
-    "forks_count": 9793
+    "stargazers_count": 3016,
+    "open_issues_count": 979,
+    "forks_count": 607
   }
 ]
