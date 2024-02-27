@@ -1,45 +1,45 @@
 [
   {
     "full_name": "021-projects/laravel-wallet",
-    "stargazers_count": 132,
+    "stargazers_count": 158,
     "open_issues_count": 1,
-    "forks_count": 5
+    "forks_count": 6
   },
   {
     "full_name": "coral-xyz/anchor",
-    "stargazers_count": 3004,
-    "open_issues_count": 439,
-    "forks_count": 1135
+    "stargazers_count": 3014,
+    "open_issues_count": 440,
+    "forks_count": 1136
   },
   {
     "full_name": "awslabs/llrt",
-    "stargazers_count": 6820,
-    "open_issues_count": 20,
-    "forks_count": 297
+    "stargazers_count": 6972,
+    "open_issues_count": 25,
+    "forks_count": 304
   },
   {
     "full_name": "formkit/tempo",
-    "stargazers_count": 1368,
-    "open_issues_count": 7,
-    "forks_count": 12
+    "stargazers_count": 1570,
+    "open_issues_count": 3,
+    "forks_count": 16
   },
   {
     "full_name": "vercel/async-retry",
-    "stargazers_count": 1770,
+    "stargazers_count": 1772,
     "open_issues_count": 29,
     "forks_count": 65
   },
   {
     "full_name": "FiloSottile/mkcert",
-    "stargazers_count": 44753,
+    "stargazers_count": 44807,
     "open_issues_count": 134,
-    "forks_count": 2292
+    "forks_count": 2299
   },
   {
     "full_name": "brillout/awesome-react-components",
-    "stargazers_count": 39562,
+    "stargazers_count": 39605,
     "open_issues_count": 5,
-    "forks_count": 3344
+    "forks_count": 3350
   },
   {
     "full_name": "salahhusa9/laravel-updater",
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "Mahcks/wails-vite-react-tailwind-shadcnui-ts",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 1,
     "forks_count": 2
   },
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "elysiajs/elysia",
-    "stargazers_count": 6811,
-    "open_issues_count": 148,
-    "forks_count": 152
+    "stargazers_count": 6857,
+    "open_issues_count": 154,
+    "forks_count": 150
   },
   {
     "full_name": "onursimsek/precondition",
@@ -79,27 +79,27 @@
   },
   {
     "full_name": "ZachGoldberg/Startup-CTO-Handbook",
-    "stargazers_count": 9763,
+    "stargazers_count": 9781,
     "open_issues_count": 7,
-    "forks_count": 456
+    "forks_count": 455
   },
   {
     "full_name": "cube2222/octosql",
-    "stargazers_count": 4665,
+    "stargazers_count": 4667,
     "open_issues_count": 42,
     "forks_count": 198
   },
   {
     "full_name": "biomejs/biome",
-    "stargazers_count": 8856,
+    "stargazers_count": 8933,
     "open_issues_count": 112,
-    "forks_count": 280
+    "forks_count": 283
   },
   {
     "full_name": "glideapps/quicktype",
-    "stargazers_count": 11247,
-    "open_issues_count": 473,
-    "forks_count": 1002
+    "stargazers_count": 11259,
+    "open_issues_count": 475,
+    "forks_count": 992
   },
   {
     "full_name": "circlecell/jsonlint.com",
@@ -109,39 +109,39 @@
   },
   {
     "full_name": "protonemedia/laravel-splade",
-    "stargazers_count": 1397,
+    "stargazers_count": 1398,
     "open_issues_count": 136,
     "forks_count": 105
   },
   {
     "full_name": "gehrisandro/tailwind-merge-laravel",
-    "stargazers_count": 225,
+    "stargazers_count": 226,
     "open_issues_count": 2,
     "forks_count": 10
   },
   {
     "full_name": "hadrysm/nextjs-boilerplate",
-    "stargazers_count": 114,
+    "stargazers_count": 117,
     "open_issues_count": 10,
     "forks_count": 19
   },
   {
     "full_name": "yjs/yjs",
-    "stargazers_count": 14378,
-    "open_issues_count": 92,
-    "forks_count": 544
+    "stargazers_count": 14415,
+    "open_issues_count": 93,
+    "forks_count": 524
   },
   {
     "full_name": "uiverse-io/galaxy",
-    "stargazers_count": 573,
+    "stargazers_count": 592,
     "open_issues_count": 1,
     "forks_count": 21
   },
   {
     "full_name": "ReactiveX/rxjs",
-    "stargazers_count": 29976,
-    "open_issues_count": 258,
-    "forks_count": 2977
+    "stargazers_count": 29991,
+    "open_issues_count": 257,
+    "forks_count": 2981
   },
   {
     "full_name": "code2k/ghfresh",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "ActivityWatch/activitywatch",
-    "stargazers_count": 10423,
+    "stargazers_count": 10442,
     "open_issues_count": 135,
-    "forks_count": 486
+    "forks_count": 471
   },
   {
     "full_name": "FuturePortal/CIMonitor",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 49309,
-    "open_issues_count": 1056,
-    "forks_count": 2480
+    "stargazers_count": 49921,
+    "open_issues_count": 972,
+    "forks_count": 2501
   }
 ]
