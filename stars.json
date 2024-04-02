@@ -1,86 +1,98 @@
 [
   {
+    "full_name": "tempestphp/highlight",
+    "stargazers_count": 438,
+    "open_issues_count": 10,
+    "forks_count": 16
+  },
+  {
+    "full_name": "404labfr/laravel-impersonate",
+    "stargazers_count": 1896,
+    "open_issues_count": 55,
+    "forks_count": 199
+  },
+  {
     "full_name": "charlax/professional-programming",
-    "stargazers_count": 44877,
-    "open_issues_count": 1,
-    "forks_count": 3572
+    "stargazers_count": 44954,
+    "open_issues_count": 2,
+    "forks_count": 3584
   },
   {
     "full_name": "arogozhnikov/einops",
-    "stargazers_count": 7832,
+    "stargazers_count": 7847,
     "open_issues_count": 32,
     "forks_count": 331
   },
   {
     "full_name": "praneshr/react-diff-viewer",
-    "stargazers_count": 1334,
+    "stargazers_count": 1336,
     "open_issues_count": 76,
     "forks_count": 256
   },
   {
     "full_name": "achannarasappa/ticker",
-    "stargazers_count": 4803,
+    "stargazers_count": 4807,
     "open_issues_count": 32,
-    "forks_count": 255
+    "forks_count": 254
   },
   {
     "full_name": "tempestphp/tempest-framework",
-    "stargazers_count": 404,
-    "open_issues_count": 43,
-    "forks_count": 28
+    "stargazers_count": 415,
+    "open_issues_count": 42,
+    "forks_count": 29
   },
   {
     "full_name": "stacktracejs/stacktrace.js",
-    "stargazers_count": 3962,
+    "stargazers_count": 3963,
     "open_issues_count": 43,
     "forks_count": 282
   },
   {
     "full_name": "021-projects/laravel-wallet",
-    "stargazers_count": 216,
+    "stargazers_count": 221,
     "open_issues_count": 1,
-    "forks_count": 13
+    "forks_count": 14
   },
   {
     "full_name": "coral-xyz/anchor",
-    "stargazers_count": 3109,
+    "stargazers_count": 3126,
     "open_issues_count": 396,
-    "forks_count": 1170
+    "forks_count": 1178
   },
   {
     "full_name": "awslabs/llrt",
-    "stargazers_count": 7447,
-    "open_issues_count": 35,
-    "forks_count": 331
+    "stargazers_count": 7471,
+    "open_issues_count": 39,
+    "forks_count": 334
   },
   {
     "full_name": "formkit/tempo",
-    "stargazers_count": 1962,
-    "open_issues_count": 9,
-    "forks_count": 22
+    "stargazers_count": 1973,
+    "open_issues_count": 11,
+    "forks_count": 23
   },
   {
     "full_name": "vercel/async-retry",
-    "stargazers_count": 1791,
+    "stargazers_count": 1794,
     "open_issues_count": 29,
     "forks_count": 65
   },
   {
     "full_name": "FiloSottile/mkcert",
-    "stargazers_count": 45348,
-    "open_issues_count": 134,
-    "forks_count": 2321
+    "stargazers_count": 45401,
+    "open_issues_count": 135,
+    "forks_count": 2325
   },
   {
     "full_name": "brillout/awesome-react-components",
-    "stargazers_count": 40021,
+    "stargazers_count": 40082,
     "open_issues_count": 5,
-    "forks_count": 3379
+    "forks_count": 3377
   },
   {
     "full_name": "salahhusa9/laravel-updater",
-    "stargazers_count": 142,
-    "open_issues_count": 5,
+    "stargazers_count": 143,
+    "open_issues_count": 1,
     "forks_count": 17
   },
   {
@@ -91,7 +103,7 @@
   },
   {
     "full_name": "gsharath/react-component-library-vite",
-    "stargazers_count": 1,
+    "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -103,9 +115,9 @@
   },
   {
     "full_name": "elysiajs/elysia",
-    "stargazers_count": 7455,
-    "open_issues_count": 178,
-    "forks_count": 163
+    "stargazers_count": 7506,
+    "open_issues_count": 183,
+    "forks_count": 165
   },
   {
     "full_name": "onursimsek/precondition",
@@ -115,26 +127,26 @@
   },
   {
     "full_name": "ZachGoldberg/Startup-CTO-Handbook",
-    "stargazers_count": 9860,
+    "stargazers_count": 9871,
     "open_issues_count": 6,
     "forks_count": 464
   },
   {
     "full_name": "cube2222/octosql",
-    "stargazers_count": 4683,
+    "stargazers_count": 4685,
     "open_issues_count": 42,
-    "forks_count": 193
+    "forks_count": 194
   },
   {
     "full_name": "biomejs/biome",
-    "stargazers_count": 9596,
-    "open_issues_count": 118,
-    "forks_count": 308
+    "stargazers_count": 9667,
+    "open_issues_count": 124,
+    "forks_count": 310
   },
   {
     "full_name": "glideapps/quicktype",
-    "stargazers_count": 11384,
-    "open_issues_count": 481,
+    "stargazers_count": 11398,
+    "open_issues_count": 478,
     "forks_count": 997
   },
   {
@@ -145,38 +157,26 @@
   },
   {
     "full_name": "protonemedia/laravel-splade",
-    "stargazers_count": 1409,
+    "stargazers_count": 1410,
     "open_issues_count": 34,
     "forks_count": 107
   },
   {
     "full_name": "gehrisandro/tailwind-merge-laravel",
-    "stargazers_count": 245,
-    "open_issues_count": 2,
+    "stargazers_count": 246,
+    "open_issues_count": 3,
     "forks_count": 13
   },
   {
     "full_name": "hadrysm/nextjs-boilerplate",
-    "stargazers_count": 126,
-    "open_issues_count": 11,
+    "stargazers_count": 127,
+    "open_issues_count": 12,
     "forks_count": 18
   },
   {
     "full_name": "yjs/yjs",
-    "stargazers_count": 14757,
+    "stargazers_count": 14802,
     "open_issues_count": 94,
-    "forks_count": 534
-  },
-  {
-    "full_name": "uiverse-io/galaxy",
-    "stargazers_count": 803,
-    "open_issues_count": 2,
-    "forks_count": 28
-  },
-  {
-    "full_name": "ReactiveX/rxjs",
-    "stargazers_count": 30093,
-    "open_issues_count": 262,
-    "forks_count": 2983
+    "forks_count": 535
   }
 ]
