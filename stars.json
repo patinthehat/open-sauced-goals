@@ -1,13 +1,13 @@
 [
   {
     "full_name": "awslabs/git-secrets",
-    "stargazers_count": 12009,
+    "stargazers_count": 12013,
     "open_issues_count": 112,
     "forks_count": 1153
   },
   {
     "full_name": "godaddy/tartufo",
-    "stargazers_count": 390,
+    "stargazers_count": 389,
     "open_issues_count": 54,
     "forks_count": 68
   },
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "react-cosmos/react-cosmos",
-    "stargazers_count": 8109,
+    "stargazers_count": 8112,
     "open_issues_count": 6,
     "forks_count": 341
   },
   {
     "full_name": "valkey-io/valkey",
-    "stargazers_count": 12447,
-    "open_issues_count": 108,
-    "forks_count": 432
+    "stargazers_count": 12777,
+    "open_issues_count": 113,
+    "forks_count": 445
   },
   {
     "full_name": "jimmyli97/shorthand-wordlist",
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "swisskyrepo/GraphQLmap",
-    "stargazers_count": 1284,
+    "stargazers_count": 1289,
     "open_issues_count": 17,
     "forks_count": 182
   },
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "tsenart/vegeta",
-    "stargazers_count": 22723,
+    "stargazers_count": 22736,
     "open_issues_count": 79,
     "forks_count": 1324
   },
   {
     "full_name": "astral-sh/uv",
-    "stargazers_count": 11128,
-    "open_issues_count": 293,
-    "forks_count": 299
+    "stargazers_count": 11238,
+    "open_issues_count": 288,
+    "forks_count": 304
   },
   {
     "full_name": "spatie/laravel-stats",
@@ -91,31 +91,31 @@
   },
   {
     "full_name": "tempestphp/highlight",
-    "stargazers_count": 509,
-    "open_issues_count": 13,
+    "stargazers_count": 513,
+    "open_issues_count": 4,
     "forks_count": 26
   },
   {
     "full_name": "404labfr/laravel-impersonate",
     "stargazers_count": 1911,
-    "open_issues_count": 56,
+    "open_issues_count": 57,
     "forks_count": 199
   },
   {
     "full_name": "charlax/professional-programming",
-    "stargazers_count": 45206,
+    "stargazers_count": 45253,
     "open_issues_count": 2,
-    "forks_count": 3599
+    "forks_count": 3606
   },
   {
     "full_name": "arogozhnikov/einops",
-    "stargazers_count": 7907,
-    "open_issues_count": 35,
+    "stargazers_count": 7916,
+    "open_issues_count": 36,
     "forks_count": 334
   },
   {
     "full_name": "praneshr/react-diff-viewer",
-    "stargazers_count": 1346,
+    "stargazers_count": 1347,
     "open_issues_count": 77,
     "forks_count": 258
   },
@@ -123,12 +123,12 @@
     "full_name": "achannarasappa/ticker",
     "stargazers_count": 4822,
     "open_issues_count": 32,
-    "forks_count": 256
+    "forks_count": 257
   },
   {
     "full_name": "tempestphp/tempest-framework",
-    "stargazers_count": 424,
-    "open_issues_count": 41,
+    "stargazers_count": 430,
+    "open_issues_count": 44,
     "forks_count": 29
   },
   {
@@ -139,44 +139,44 @@
   },
   {
     "full_name": "021-projects/laravel-wallet",
-    "stargazers_count": 227,
+    "stargazers_count": 229,
     "open_issues_count": 0,
     "forks_count": 15
   },
   {
     "full_name": "coral-xyz/anchor",
-    "stargazers_count": 3183,
-    "open_issues_count": 403,
-    "forks_count": 1192
+    "stargazers_count": 3190,
+    "open_issues_count": 407,
+    "forks_count": 1193
   },
   {
     "full_name": "awslabs/llrt",
-    "stargazers_count": 7567,
-    "open_issues_count": 40,
-    "forks_count": 342
+    "stargazers_count": 7583,
+    "open_issues_count": 37,
+    "forks_count": 341
   },
   {
     "full_name": "formkit/tempo",
-    "stargazers_count": 2053,
-    "open_issues_count": 4,
+    "stargazers_count": 2059,
+    "open_issues_count": 5,
     "forks_count": 24
   },
   {
     "full_name": "vercel/async-retry",
-    "stargazers_count": 1798,
+    "stargazers_count": 1799,
     "open_issues_count": 29,
     "forks_count": 52
   },
   {
     "full_name": "FiloSottile/mkcert",
-    "stargazers_count": 45672,
+    "stargazers_count": 45734,
     "open_issues_count": 134,
-    "forks_count": 2340
+    "forks_count": 2344
   },
   {
     "full_name": "brillout/awesome-react-components",
-    "stargazers_count": 40325,
+    "stargazers_count": 40363,
     "open_issues_count": 5,
-    "forks_count": 3385
+    "forks_count": 3387
   }
 ]
