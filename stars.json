@@ -1,13 +1,37 @@
 [
   {
+    "full_name": "goreleaser/nfpm",
+    "stargazers_count": 2019,
+    "open_issues_count": 11,
+    "forks_count": 150
+  },
+  {
+    "full_name": "cruip/tailwind-dashboard-template",
+    "stargazers_count": 2074,
+    "open_issues_count": 0,
+    "forks_count": 543
+  },
+  {
+    "full_name": "Allaman/werkzeugkasten",
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "nsmithuk/local-kms",
+    "stargazers_count": 187,
+    "open_issues_count": 14,
+    "forks_count": 31
+  },
+  {
     "full_name": "awslabs/git-secrets",
-    "stargazers_count": 12013,
+    "stargazers_count": 12017,
     "open_issues_count": 112,
     "forks_count": 1153
   },
   {
     "full_name": "godaddy/tartufo",
-    "stargazers_count": 389,
+    "stargazers_count": 388,
     "open_issues_count": 54,
     "forks_count": 68
   },
@@ -31,8 +55,8 @@
   },
   {
     "full_name": "projectdiscovery/shuffledns",
-    "stargazers_count": 1204,
-    "open_issues_count": 16,
+    "stargazers_count": 1208,
+    "open_issues_count": 6,
     "forks_count": 175
   },
   {
@@ -43,15 +67,15 @@
   },
   {
     "full_name": "react-cosmos/react-cosmos",
-    "stargazers_count": 8112,
+    "stargazers_count": 8115,
     "open_issues_count": 6,
-    "forks_count": 341
+    "forks_count": 342
   },
   {
     "full_name": "valkey-io/valkey",
-    "stargazers_count": 12777,
-    "open_issues_count": 113,
-    "forks_count": 445
+    "stargazers_count": 13050,
+    "open_issues_count": 127,
+    "forks_count": 457
   },
   {
     "full_name": "jimmyli97/shorthand-wordlist",
@@ -61,7 +85,7 @@
   },
   {
     "full_name": "swisskyrepo/GraphQLmap",
-    "stargazers_count": 1289,
+    "stargazers_count": 1290,
     "open_issues_count": 17,
     "forks_count": 182
   },
@@ -73,15 +97,15 @@
   },
   {
     "full_name": "tsenart/vegeta",
-    "stargazers_count": 22736,
+    "stargazers_count": 22746,
     "open_issues_count": 79,
-    "forks_count": 1324
+    "forks_count": 1326
   },
   {
     "full_name": "astral-sh/uv",
-    "stargazers_count": 11238,
-    "open_issues_count": 288,
-    "forks_count": 304
+    "stargazers_count": 11333,
+    "open_issues_count": 295,
+    "forks_count": 309
   },
   {
     "full_name": "spatie/laravel-stats",
@@ -91,49 +115,49 @@
   },
   {
     "full_name": "tempestphp/highlight",
-    "stargazers_count": 513,
-    "open_issues_count": 4,
+    "stargazers_count": 518,
+    "open_issues_count": 5,
     "forks_count": 26
   },
   {
     "full_name": "404labfr/laravel-impersonate",
-    "stargazers_count": 1911,
+    "stargazers_count": 1912,
     "open_issues_count": 57,
-    "forks_count": 199
+    "forks_count": 200
   },
   {
     "full_name": "charlax/professional-programming",
-    "stargazers_count": 45253,
+    "stargazers_count": 45291,
     "open_issues_count": 2,
-    "forks_count": 3606
+    "forks_count": 3609
   },
   {
     "full_name": "arogozhnikov/einops",
-    "stargazers_count": 7916,
-    "open_issues_count": 36,
+    "stargazers_count": 7932,
+    "open_issues_count": 34,
     "forks_count": 334
   },
   {
     "full_name": "praneshr/react-diff-viewer",
-    "stargazers_count": 1347,
+    "stargazers_count": 1349,
     "open_issues_count": 77,
-    "forks_count": 258
+    "forks_count": 259
   },
   {
     "full_name": "achannarasappa/ticker",
-    "stargazers_count": 4822,
+    "stargazers_count": 4825,
     "open_issues_count": 32,
     "forks_count": 257
   },
   {
     "full_name": "tempestphp/tempest-framework",
-    "stargazers_count": 430,
+    "stargazers_count": 431,
     "open_issues_count": 44,
     "forks_count": 29
   },
   {
     "full_name": "stacktracejs/stacktrace.js",
-    "stargazers_count": 3966,
+    "stargazers_count": 3964,
     "open_issues_count": 43,
     "forks_count": 282
   },
@@ -145,38 +169,14 @@
   },
   {
     "full_name": "coral-xyz/anchor",
-    "stargazers_count": 3190,
-    "open_issues_count": 407,
+    "stargazers_count": 3208,
+    "open_issues_count": 413,
     "forks_count": 1193
   },
   {
     "full_name": "awslabs/llrt",
-    "stargazers_count": 7583,
-    "open_issues_count": 37,
+    "stargazers_count": 7594,
+    "open_issues_count": 38,
     "forks_count": 341
-  },
-  {
-    "full_name": "formkit/tempo",
-    "stargazers_count": 2059,
-    "open_issues_count": 5,
-    "forks_count": 24
-  },
-  {
-    "full_name": "vercel/async-retry",
-    "stargazers_count": 1799,
-    "open_issues_count": 29,
-    "forks_count": 52
-  },
-  {
-    "full_name": "FiloSottile/mkcert",
-    "stargazers_count": 45734,
-    "open_issues_count": 134,
-    "forks_count": 2344
-  },
-  {
-    "full_name": "brillout/awesome-react-components",
-    "stargazers_count": 40363,
-    "open_issues_count": 5,
-    "forks_count": 3387
   }
 ]
