@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "borgo-lang/borgo",
+    "stargazers_count": 2966,
+    "open_issues_count": 13,
+    "forks_count": 33
+  },
+  {
     "full_name": "posener/complete",
     "stargazers_count": 916,
     "open_issues_count": 25,
@@ -7,7 +13,7 @@
   },
   {
     "full_name": "nikolaydubina/go-cover-treemap",
-    "stargazers_count": 278,
+    "stargazers_count": 280,
     "open_issues_count": 1,
     "forks_count": 9
   },
@@ -19,13 +25,13 @@
   },
   {
     "full_name": "json-iterator/go",
-    "stargazers_count": 13093,
-    "open_issues_count": 255,
+    "stargazers_count": 13096,
+    "open_issues_count": 257,
     "forks_count": 1017
   },
   {
     "full_name": "pquerna/ffjson",
-    "stargazers_count": 2950,
+    "stargazers_count": 2952,
     "open_issues_count": 60,
     "forks_count": 236
   },
@@ -37,27 +43,27 @@
   },
   {
     "full_name": "mattn/go-sqlite3",
-    "stargazers_count": 7482,
+    "stargazers_count": 7491,
     "open_issues_count": 143,
-    "forks_count": 1073
+    "forks_count": 1075
   },
   {
     "full_name": "barasher/go-exiftool",
-    "stargazers_count": 226,
+    "stargazers_count": 228,
     "open_issues_count": 6,
     "forks_count": 41
   },
   {
     "full_name": "goreleaser/nfpm",
-    "stargazers_count": 2024,
-    "open_issues_count": 12,
+    "stargazers_count": 2025,
+    "open_issues_count": 9,
     "forks_count": 152
   },
   {
     "full_name": "cruip/tailwind-dashboard-template",
-    "stargazers_count": 2078,
+    "stargazers_count": 2080,
     "open_issues_count": 0,
-    "forks_count": 545
+    "forks_count": 551
   },
   {
     "full_name": "Allaman/werkzeugkasten",
@@ -67,20 +73,20 @@
   },
   {
     "full_name": "nsmithuk/local-kms",
-    "stargazers_count": 187,
+    "stargazers_count": 188,
     "open_issues_count": 14,
-    "forks_count": 32
+    "forks_count": 33
   },
   {
     "full_name": "awslabs/git-secrets",
-    "stargazers_count": 12040,
+    "stargazers_count": 12048,
     "open_issues_count": 112,
     "forks_count": 1154
   },
   {
     "full_name": "godaddy/tartufo",
-    "stargazers_count": 395,
-    "open_issues_count": 55,
+    "stargazers_count": 402,
+    "open_issues_count": 56,
     "forks_count": 68
   },
   {
@@ -103,7 +109,7 @@
   },
   {
     "full_name": "projectdiscovery/shuffledns",
-    "stargazers_count": 1211,
+    "stargazers_count": 1212,
     "open_issues_count": 9,
     "forks_count": 175
   },
@@ -115,15 +121,15 @@
   },
   {
     "full_name": "react-cosmos/react-cosmos",
-    "stargazers_count": 8116,
+    "stargazers_count": 8120,
     "open_issues_count": 6,
     "forks_count": 341
   },
   {
     "full_name": "valkey-io/valkey",
-    "stargazers_count": 13407,
-    "open_issues_count": 131,
-    "forks_count": 465
+    "stargazers_count": 13514,
+    "open_issues_count": 146,
+    "forks_count": 474
   },
   {
     "full_name": "jimmyli97/shorthand-wordlist",
@@ -133,9 +139,9 @@
   },
   {
     "full_name": "swisskyrepo/GraphQLmap",
-    "stargazers_count": 1295,
+    "stargazers_count": 1297,
     "open_issues_count": 17,
-    "forks_count": 181
+    "forks_count": 180
   },
   {
     "full_name": "domain-protect/domain-protect",
@@ -145,15 +151,15 @@
   },
   {
     "full_name": "tsenart/vegeta",
-    "stargazers_count": 22759,
+    "stargazers_count": 22777,
     "open_issues_count": 79,
     "forks_count": 1326
   },
   {
     "full_name": "astral-sh/uv",
-    "stargazers_count": 11538,
-    "open_issues_count": 307,
-    "forks_count": 314
+    "stargazers_count": 11650,
+    "open_issues_count": 306,
+    "forks_count": 318
   },
   {
     "full_name": "spatie/laravel-stats",
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "tempestphp/highlight",
-    "stargazers_count": 537,
-    "open_issues_count": 2,
-    "forks_count": 26
+    "stargazers_count": 538,
+    "open_issues_count": 3,
+    "forks_count": 27
   },
   {
     "full_name": "404labfr/laravel-impersonate",
-    "stargazers_count": 1912,
+    "stargazers_count": 1913,
     "open_issues_count": 57,
-    "forks_count": 200
-  },
-  {
-    "full_name": "charlax/professional-programming",
-    "stargazers_count": 45348,
-    "open_issues_count": 2,
-    "forks_count": 3612
+    "forks_count": 201
   }
 ]
