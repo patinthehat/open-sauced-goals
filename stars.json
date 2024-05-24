@@ -1,33 +1,33 @@
 [
   {
     "full_name": "riverqueue/river",
-    "stargazers_count": 2150,
+    "stargazers_count": 2174,
     "open_issues_count": 19,
     "forks_count": 49
   },
   {
     "full_name": "llvm/llvm-project",
-    "stargazers_count": 26013,
-    "open_issues_count": 23915,
-    "forks_count": 10625
+    "stargazers_count": 26062,
+    "open_issues_count": 23954,
+    "forks_count": 10659
   },
   {
     "full_name": "borgo-lang/borgo",
-    "stargazers_count": 3325,
+    "stargazers_count": 3406,
     "open_issues_count": 19,
     "forks_count": 41
   },
   {
     "full_name": "posener/complete",
-    "stargazers_count": 919,
+    "stargazers_count": 920,
     "open_issues_count": 25,
     "forks_count": 72
   },
   {
     "full_name": "nikolaydubina/go-cover-treemap",
-    "stargazers_count": 282,
-    "open_issues_count": 1,
-    "forks_count": 9
+    "stargazers_count": 385,
+    "open_issues_count": 0,
+    "forks_count": 10
   },
   {
     "full_name": "google/go-intervals",
@@ -37,13 +37,13 @@
   },
   {
     "full_name": "json-iterator/go",
-    "stargazers_count": 13108,
+    "stargazers_count": 13110,
     "open_issues_count": 258,
-    "forks_count": 1018
+    "forks_count": 1017
   },
   {
     "full_name": "pquerna/ffjson",
-    "stargazers_count": 2953,
+    "stargazers_count": 2950,
     "open_issues_count": 60,
     "forks_count": 236
   },
@@ -55,50 +55,50 @@
   },
   {
     "full_name": "mattn/go-sqlite3",
-    "stargazers_count": 7511,
-    "open_issues_count": 145,
-    "forks_count": 1075
+    "stargazers_count": 7521,
+    "open_issues_count": 146,
+    "forks_count": 1077
   },
   {
     "full_name": "barasher/go-exiftool",
-    "stargazers_count": 230,
+    "stargazers_count": 231,
     "open_issues_count": 7,
     "forks_count": 42
   },
   {
     "full_name": "goreleaser/nfpm",
-    "stargazers_count": 2031,
+    "stargazers_count": 2036,
     "open_issues_count": 11,
     "forks_count": 152
   },
   {
     "full_name": "cruip/tailwind-dashboard-template",
-    "stargazers_count": 2099,
+    "stargazers_count": 2105,
     "open_issues_count": 0,
-    "forks_count": 556
+    "forks_count": 560
   },
   {
     "full_name": "Allaman/werkzeugkasten",
-    "stargazers_count": 5,
+    "stargazers_count": 6,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "nsmithuk/local-kms",
-    "stargazers_count": 189,
+    "stargazers_count": 190,
     "open_issues_count": 14,
     "forks_count": 33
   },
   {
     "full_name": "awslabs/git-secrets",
-    "stargazers_count": 12064,
+    "stargazers_count": 12070,
     "open_issues_count": 112,
     "forks_count": 1155
   },
   {
     "full_name": "godaddy/tartufo",
-    "stargazers_count": 408,
-    "open_issues_count": 56,
+    "stargazers_count": 410,
+    "open_issues_count": 57,
     "forks_count": 69
   },
   {
@@ -121,8 +121,8 @@
   },
   {
     "full_name": "projectdiscovery/shuffledns",
-    "stargazers_count": 1219,
-    "open_issues_count": 5,
+    "stargazers_count": 1222,
+    "open_issues_count": 2,
     "forks_count": 177
   },
   {
@@ -133,15 +133,15 @@
   },
   {
     "full_name": "react-cosmos/react-cosmos",
-    "stargazers_count": 8139,
+    "stargazers_count": 8141,
     "open_issues_count": 6,
     "forks_count": 344
   },
   {
     "full_name": "valkey-io/valkey",
-    "stargazers_count": 13786,
-    "open_issues_count": 153,
-    "forks_count": 483
+    "stargazers_count": 13845,
+    "open_issues_count": 161,
+    "forks_count": 484
   },
   {
     "full_name": "jimmyli97/shorthand-wordlist",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "tsenart/vegeta",
-    "stargazers_count": 22819,
+    "stargazers_count": 22829,
     "open_issues_count": 79,
     "forks_count": 1328
   },
   {
     "full_name": "astral-sh/uv",
-    "stargazers_count": 11911,
-    "open_issues_count": 321,
-    "forks_count": 329
+    "stargazers_count": 11986,
+    "open_issues_count": 316,
+    "forks_count": 327
   },
   {
     "full_name": "spatie/laravel-stats",
     "stargazers_count": 389,
     "open_issues_count": 0,
-    "forks_count": 34
+    "forks_count": 33
   }
 ]
