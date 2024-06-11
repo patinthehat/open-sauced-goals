@@ -1,25 +1,25 @@
 [
   {
     "full_name": "magicuidesign/magicui",
-    "stargazers_count": 3675,
-    "open_issues_count": 32,
-    "forks_count": 122
+    "stargazers_count": 3904,
+    "open_issues_count": 33,
+    "forks_count": 126
   },
   {
     "full_name": "riverqueue/river",
-    "stargazers_count": 2243,
+    "stargazers_count": 2252,
     "open_issues_count": 25,
-    "forks_count": 49
+    "forks_count": 51
   },
   {
     "full_name": "llvm/llvm-project",
-    "stargazers_count": 26324,
-    "open_issues_count": 24144,
-    "forks_count": 10761
+    "stargazers_count": 26390,
+    "open_issues_count": 24172,
+    "forks_count": 10786
   },
   {
     "full_name": "borgo-lang/borgo",
-    "stargazers_count": 3495,
+    "stargazers_count": 3501,
     "open_issues_count": 21,
     "forks_count": 43
   },
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "nikolaydubina/go-cover-treemap",
-    "stargazers_count": 439,
-    "open_issues_count": 0,
-    "forks_count": 12
+    "stargazers_count": 446,
+    "open_issues_count": 1,
+    "forks_count": 13
   },
   {
     "full_name": "google/go-intervals",
@@ -43,13 +43,13 @@
   },
   {
     "full_name": "json-iterator/go",
-    "stargazers_count": 13127,
+    "stargazers_count": 13134,
     "open_issues_count": 260,
     "forks_count": 1020
   },
   {
     "full_name": "pquerna/ffjson",
-    "stargazers_count": 2951,
+    "stargazers_count": 2952,
     "open_issues_count": 60,
     "forks_count": 236
   },
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "mattn/go-sqlite3",
-    "stargazers_count": 7558,
-    "open_issues_count": 149,
-    "forks_count": 1078
+    "stargazers_count": 7572,
+    "open_issues_count": 150,
+    "forks_count": 1077
   },
   {
     "full_name": "barasher/go-exiftool",
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "goreleaser/nfpm",
-    "stargazers_count": 2074,
+    "stargazers_count": 2079,
     "open_issues_count": 13,
     "forks_count": 152
   },
   {
     "full_name": "cruip/tailwind-dashboard-template",
-    "stargazers_count": 2137,
+    "stargazers_count": 2139,
     "open_issues_count": 0,
-    "forks_count": 569
+    "forks_count": 570
   },
   {
     "full_name": "Allaman/werkzeugkasten",
@@ -97,13 +97,13 @@
   },
   {
     "full_name": "awslabs/git-secrets",
-    "stargazers_count": 12094,
-    "open_issues_count": 112,
+    "stargazers_count": 12101,
+    "open_issues_count": 113,
     "forks_count": 1157
   },
   {
     "full_name": "godaddy/tartufo",
-    "stargazers_count": 433,
+    "stargazers_count": 438,
     "open_issues_count": 57,
     "forks_count": 69
   },
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "projectdiscovery/shuffledns",
-    "stargazers_count": 1235,
-    "open_issues_count": 5,
-    "forks_count": 178
+    "stargazers_count": 1238,
+    "open_issues_count": 4,
+    "forks_count": 179
   },
   {
     "full_name": "hakluke/hakcertstream",
@@ -139,15 +139,15 @@
   },
   {
     "full_name": "react-cosmos/react-cosmos",
-    "stargazers_count": 8153,
+    "stargazers_count": 8156,
     "open_issues_count": 7,
     "forks_count": 344
   },
   {
     "full_name": "valkey-io/valkey",
-    "stargazers_count": 14175,
-    "open_issues_count": 176,
-    "forks_count": 494
+    "stargazers_count": 14220,
+    "open_issues_count": 178,
+    "forks_count": 498
   },
   {
     "full_name": "jimmyli97/shorthand-wordlist",
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "swisskyrepo/GraphQLmap",
-    "stargazers_count": 1315,
+    "stargazers_count": 1317,
     "open_issues_count": 17,
     "forks_count": 183
   },
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "tsenart/vegeta",
-    "stargazers_count": 22891,
-    "open_issues_count": 79,
+    "stargazers_count": 22907,
+    "open_issues_count": 80,
     "forks_count": 1330
   },
   {
     "full_name": "astral-sh/uv",
-    "stargazers_count": 12280,
-    "open_issues_count": 371,
-    "forks_count": 338
+    "stargazers_count": 12380,
+    "open_issues_count": 375,
+    "forks_count": 344
   }
 ]
