@@ -1,25 +1,49 @@
 [
   {
+    "full_name": "ijpatricio/mingle",
+    "stargazers_count": 181,
+    "open_issues_count": 5,
+    "forks_count": 5
+  },
+  {
+    "full_name": "saint-lascivious/unbound-config",
+    "stargazers_count": 128,
+    "open_issues_count": 1,
+    "forks_count": 11
+  },
+  {
+    "full_name": "jamiebuilds/tailwindcss-animate",
+    "stargazers_count": 2198,
+    "open_issues_count": 30,
+    "forks_count": 43
+  },
+  {
+    "full_name": "radix-vue/radix-vue",
+    "stargazers_count": 2808,
+    "open_issues_count": 55,
+    "forks_count": 155
+  },
+  {
     "full_name": "magicuidesign/magicui",
-    "stargazers_count": 3904,
+    "stargazers_count": 4071,
     "open_issues_count": 33,
-    "forks_count": 126
+    "forks_count": 132
   },
   {
     "full_name": "riverqueue/river",
-    "stargazers_count": 2252,
-    "open_issues_count": 25,
-    "forks_count": 51
+    "stargazers_count": 2254,
+    "open_issues_count": 27,
+    "forks_count": 50
   },
   {
     "full_name": "llvm/llvm-project",
-    "stargazers_count": 26390,
-    "open_issues_count": 24172,
-    "forks_count": 10786
+    "stargazers_count": 26430,
+    "open_issues_count": 24214,
+    "forks_count": 10807
   },
   {
     "full_name": "borgo-lang/borgo",
-    "stargazers_count": 3501,
+    "stargazers_count": 3521,
     "open_issues_count": 21,
     "forks_count": 43
   },
@@ -31,8 +55,8 @@
   },
   {
     "full_name": "nikolaydubina/go-cover-treemap",
-    "stargazers_count": 446,
-    "open_issues_count": 1,
+    "stargazers_count": 453,
+    "open_issues_count": 2,
     "forks_count": 13
   },
   {
@@ -43,7 +67,7 @@
   },
   {
     "full_name": "json-iterator/go",
-    "stargazers_count": 13134,
+    "stargazers_count": 13142,
     "open_issues_count": 260,
     "forks_count": 1020
   },
@@ -61,9 +85,9 @@
   },
   {
     "full_name": "mattn/go-sqlite3",
-    "stargazers_count": 7572,
-    "open_issues_count": 150,
-    "forks_count": 1077
+    "stargazers_count": 7576,
+    "open_issues_count": 151,
+    "forks_count": 1080
   },
   {
     "full_name": "barasher/go-exiftool",
@@ -75,13 +99,13 @@
     "full_name": "goreleaser/nfpm",
     "stargazers_count": 2079,
     "open_issues_count": 13,
-    "forks_count": 152
+    "forks_count": 153
   },
   {
     "full_name": "cruip/tailwind-dashboard-template",
-    "stargazers_count": 2139,
+    "stargazers_count": 2144,
     "open_issues_count": 0,
-    "forks_count": 570
+    "forks_count": 569
   },
   {
     "full_name": "Allaman/werkzeugkasten",
@@ -93,11 +117,11 @@
     "full_name": "nsmithuk/local-kms",
     "stargazers_count": 191,
     "open_issues_count": 14,
-    "forks_count": 33
+    "forks_count": 34
   },
   {
     "full_name": "awslabs/git-secrets",
-    "stargazers_count": 12101,
+    "stargazers_count": 12106,
     "open_issues_count": 113,
     "forks_count": 1157
   },
@@ -127,8 +151,8 @@
   },
   {
     "full_name": "projectdiscovery/shuffledns",
-    "stargazers_count": 1238,
-    "open_issues_count": 4,
+    "stargazers_count": 1240,
+    "open_issues_count": 2,
     "forks_count": 179
   },
   {
@@ -139,44 +163,20 @@
   },
   {
     "full_name": "react-cosmos/react-cosmos",
-    "stargazers_count": 8156,
+    "stargazers_count": 8157,
     "open_issues_count": 7,
     "forks_count": 344
   },
   {
     "full_name": "valkey-io/valkey",
-    "stargazers_count": 14220,
-    "open_issues_count": 178,
-    "forks_count": 498
+    "stargazers_count": 14278,
+    "open_issues_count": 191,
+    "forks_count": 501
   },
   {
     "full_name": "jimmyli97/shorthand-wordlist",
     "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "swisskyrepo/GraphQLmap",
-    "stargazers_count": 1317,
-    "open_issues_count": 17,
-    "forks_count": 183
-  },
-  {
-    "full_name": "domain-protect/domain-protect",
-    "stargazers_count": 372,
-    "open_issues_count": 6,
-    "forks_count": 58
-  },
-  {
-    "full_name": "tsenart/vegeta",
-    "stargazers_count": 22907,
-    "open_issues_count": 80,
-    "forks_count": 1330
-  },
-  {
-    "full_name": "astral-sh/uv",
-    "stargazers_count": 12380,
-    "open_issues_count": 375,
-    "forks_count": 344
   }
 ]
