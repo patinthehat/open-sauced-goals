@@ -1,25 +1,55 @@
 [
   {
+    "full_name": "superjose/deploy-golang-cloudrun",
+    "stargazers_count": 20,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "lutzroeder/netron",
+    "stargazers_count": 26725,
+    "open_issues_count": 26,
+    "forks_count": 2701
+  },
+  {
+    "full_name": "ZuzooVn/machine-learning-for-software-engineers",
+    "stargazers_count": 27923,
+    "open_issues_count": 27,
+    "forks_count": 6193
+  },
+  {
+    "full_name": "microsoft/AI-For-Beginners",
+    "stargazers_count": 32563,
+    "open_issues_count": 51,
+    "forks_count": 5336
+  },
+  {
+    "full_name": "Astrotomic/php-deepface",
+    "stargazers_count": 29,
+    "open_issues_count": 2,
+    "forks_count": 5
+  },
+  {
     "full_name": "lencx/Noi",
-    "stargazers_count": 5329,
-    "open_issues_count": 64,
-    "forks_count": 378
+    "stargazers_count": 5389,
+    "open_issues_count": 65,
+    "forks_count": 385
   },
   {
     "full_name": "ventoy/Ventoy",
-    "stargazers_count": 60078,
-    "open_issues_count": 694,
-    "forks_count": 3927
+    "stargazers_count": 60147,
+    "open_issues_count": 698,
+    "forks_count": 3932
   },
   {
     "full_name": "frectonz/sql-studio",
-    "stargazers_count": 1276,
-    "open_issues_count": 7,
-    "forks_count": 23
+    "stargazers_count": 1451,
+    "open_issues_count": 6,
+    "forks_count": 26
   },
   {
     "full_name": "ijpatricio/mingle",
-    "stargazers_count": 190,
+    "stargazers_count": 197,
     "open_issues_count": 6,
     "forks_count": 6
   },
@@ -31,37 +61,37 @@
   },
   {
     "full_name": "jamiebuilds/tailwindcss-animate",
-    "stargazers_count": 2236,
+    "stargazers_count": 2242,
     "open_issues_count": 30,
     "forks_count": 43
   },
   {
     "full_name": "radix-vue/radix-vue",
-    "stargazers_count": 2848,
-    "open_issues_count": 58,
-    "forks_count": 165
+    "stargazers_count": 2865,
+    "open_issues_count": 65,
+    "forks_count": 167
   },
   {
     "full_name": "magicuidesign/magicui",
-    "stargazers_count": 4771,
-    "open_issues_count": 59,
-    "forks_count": 152
+    "stargazers_count": 4899,
+    "open_issues_count": 61,
+    "forks_count": 157
   },
   {
     "full_name": "riverqueue/river",
-    "stargazers_count": 2323,
+    "stargazers_count": 2344,
     "open_issues_count": 23,
-    "forks_count": 54
+    "forks_count": 56
   },
   {
     "full_name": "llvm/llvm-project",
-    "stargazers_count": 26568,
-    "open_issues_count": 24396,
-    "forks_count": 10869
+    "stargazers_count": 26619,
+    "open_issues_count": 24452,
+    "forks_count": 10903
   },
   {
     "full_name": "borgo-lang/borgo",
-    "stargazers_count": 3547,
+    "stargazers_count": 3553,
     "open_issues_count": 21,
     "forks_count": 45
   },
@@ -73,7 +103,7 @@
   },
   {
     "full_name": "nikolaydubina/go-cover-treemap",
-    "stargazers_count": 472,
+    "stargazers_count": 474,
     "open_issues_count": 1,
     "forks_count": 13
   },
@@ -85,7 +115,7 @@
   },
   {
     "full_name": "json-iterator/go",
-    "stargazers_count": 13175,
+    "stargazers_count": 13188,
     "open_issues_count": 260,
     "forks_count": 1021
   },
@@ -103,7 +133,7 @@
   },
   {
     "full_name": "mattn/go-sqlite3",
-    "stargazers_count": 7606,
+    "stargazers_count": 7612,
     "open_issues_count": 153,
     "forks_count": 1080
   },
@@ -121,9 +151,9 @@
   },
   {
     "full_name": "cruip/tailwind-dashboard-template",
-    "stargazers_count": 2155,
+    "stargazers_count": 2158,
     "open_issues_count": 0,
-    "forks_count": 571
+    "forks_count": 574
   },
   {
     "full_name": "Allaman/werkzeugkasten",
@@ -133,50 +163,20 @@
   },
   {
     "full_name": "nsmithuk/local-kms",
-    "stargazers_count": 191,
+    "stargazers_count": 192,
     "open_issues_count": 14,
     "forks_count": 34
   },
   {
     "full_name": "awslabs/git-secrets",
-    "stargazers_count": 12136,
+    "stargazers_count": 12140,
     "open_issues_count": 113,
     "forks_count": 1156
   },
   {
     "full_name": "godaddy/tartufo",
     "stargazers_count": 440,
-    "open_issues_count": 58,
+    "open_issues_count": 56,
     "forks_count": 69
-  },
-  {
-    "full_name": "d-koppenhagen/vscode-code-review",
-    "stargazers_count": 67,
-    "open_issues_count": 18,
-    "forks_count": 36
-  },
-  {
-    "full_name": "justwatchcom/github-releases-notifier",
-    "stargazers_count": 165,
-    "open_issues_count": 11,
-    "forks_count": 50
-  },
-  {
-    "full_name": "mheap/github-release-dashboard",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "projectdiscovery/shuffledns",
-    "stargazers_count": 1242,
-    "open_issues_count": 4,
-    "forks_count": 178
-  },
-  {
-    "full_name": "hakluke/hakcertstream",
-    "stargazers_count": 38,
-    "open_issues_count": 0,
-    "forks_count": 8
   }
 ]
