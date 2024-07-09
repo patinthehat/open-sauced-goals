@@ -1,9 +1,9 @@
 [
   {
     "full_name": "mattrighetti/envelope",
-    "stargazers_count": 455,
+    "stargazers_count": 458,
     "open_issues_count": 2,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "superjose/deploy-golang-cloudrun",
@@ -13,21 +13,21 @@
   },
   {
     "full_name": "lutzroeder/netron",
-    "stargazers_count": 26799,
-    "open_issues_count": 23,
-    "forks_count": 2702
+    "stargazers_count": 26818,
+    "open_issues_count": 22,
+    "forks_count": 2704
   },
   {
     "full_name": "ZuzooVn/machine-learning-for-software-engineers",
-    "stargazers_count": 27936,
+    "stargazers_count": 27941,
     "open_issues_count": 27,
     "forks_count": 6190
   },
   {
     "full_name": "microsoft/AI-For-Beginners",
-    "stargazers_count": 32759,
+    "stargazers_count": 33077,
     "open_issues_count": 53,
-    "forks_count": 5390
+    "forks_count": 5428
   },
   {
     "full_name": "Astrotomic/php-deepface",
@@ -37,25 +37,25 @@
   },
   {
     "full_name": "lencx/Noi",
-    "stargazers_count": 5458,
-    "open_issues_count": 69,
-    "forks_count": 395
+    "stargazers_count": 5492,
+    "open_issues_count": 70,
+    "forks_count": 398
   },
   {
     "full_name": "ventoy/Ventoy",
-    "stargazers_count": 60305,
-    "open_issues_count": 701,
-    "forks_count": 3940
+    "stargazers_count": 60375,
+    "open_issues_count": 708,
+    "forks_count": 3944
   },
   {
     "full_name": "frectonz/sql-studio",
-    "stargazers_count": 1563,
-    "open_issues_count": 10,
-    "forks_count": 27
+    "stargazers_count": 1631,
+    "open_issues_count": 11,
+    "forks_count": 30
   },
   {
     "full_name": "ijpatricio/mingle",
-    "stargazers_count": 202,
+    "stargazers_count": 206,
     "open_issues_count": 7,
     "forks_count": 6
   },
@@ -67,49 +67,49 @@
   },
   {
     "full_name": "jamiebuilds/tailwindcss-animate",
-    "stargazers_count": 2254,
+    "stargazers_count": 2265,
     "open_issues_count": 30,
     "forks_count": 43
   },
   {
     "full_name": "radix-vue/radix-vue",
-    "stargazers_count": 2953,
-    "open_issues_count": 56,
-    "forks_count": 171
+    "stargazers_count": 2976,
+    "open_issues_count": 65,
+    "forks_count": 172
   },
   {
     "full_name": "magicuidesign/magicui",
-    "stargazers_count": 5113,
-    "open_issues_count": 52,
-    "forks_count": 167
+    "stargazers_count": 5271,
+    "open_issues_count": 54,
+    "forks_count": 177
   },
   {
     "full_name": "riverqueue/river",
-    "stargazers_count": 2538,
-    "open_issues_count": 21,
-    "forks_count": 60
+    "stargazers_count": 2622,
+    "open_issues_count": 19,
+    "forks_count": 63
   },
   {
     "full_name": "llvm/llvm-project",
-    "stargazers_count": 26758,
-    "open_issues_count": 24586,
-    "forks_count": 10964
+    "stargazers_count": 26819,
+    "open_issues_count": 24611,
+    "forks_count": 10996
   },
   {
     "full_name": "borgo-lang/borgo",
-    "stargazers_count": 3568,
+    "stargazers_count": 3574,
     "open_issues_count": 22,
-    "forks_count": 47
+    "forks_count": 49
   },
   {
     "full_name": "posener/complete",
-    "stargazers_count": 924,
+    "stargazers_count": 925,
     "open_issues_count": 25,
     "forks_count": 72
   },
   {
     "full_name": "nikolaydubina/go-cover-treemap",
-    "stargazers_count": 476,
+    "stargazers_count": 477,
     "open_issues_count": 1,
     "forks_count": 13
   },
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "json-iterator/go",
-    "stargazers_count": 13212,
+    "stargazers_count": 13217,
     "open_issues_count": 260,
     "forks_count": 1020
   },
@@ -133,14 +133,14 @@
   },
   {
     "full_name": "faabiosr/cachego",
-    "stargazers_count": 361,
+    "stargazers_count": 360,
     "open_issues_count": 0,
     "forks_count": 24
   },
   {
     "full_name": "mattn/go-sqlite3",
-    "stargazers_count": 7641,
-    "open_issues_count": 156,
+    "stargazers_count": 7657,
+    "open_issues_count": 158,
     "forks_count": 1080
   },
   {
@@ -151,15 +151,15 @@
   },
   {
     "full_name": "goreleaser/nfpm",
-    "stargazers_count": 2083,
-    "open_issues_count": 11,
+    "stargazers_count": 2086,
+    "open_issues_count": 9,
     "forks_count": 153
   },
   {
     "full_name": "cruip/tailwind-dashboard-template",
-    "stargazers_count": 2165,
+    "stargazers_count": 2183,
     "open_issues_count": 0,
-    "forks_count": 575
+    "forks_count": 577
   },
   {
     "full_name": "Allaman/werkzeugkasten",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "awslabs/git-secrets",
-    "stargazers_count": 12145,
+    "stargazers_count": 12149,
     "open_issues_count": 113,
-    "forks_count": 1157
+    "forks_count": 1159
   }
 ]
