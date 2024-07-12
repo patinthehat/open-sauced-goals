@@ -1,7 +1,19 @@
 [
   {
+    "full_name": "techschool/simplebank",
+    "stargazers_count": 4897,
+    "open_issues_count": 16,
+    "forks_count": 902
+  },
+  {
+    "full_name": "laravel-workflow/laravel-workflow",
+    "stargazers_count": 837,
+    "open_issues_count": 1,
+    "forks_count": 36
+  },
+  {
     "full_name": "mattrighetti/envelope",
-    "stargazers_count": 458,
+    "stargazers_count": 461,
     "open_issues_count": 2,
     "forks_count": 7
   },
@@ -13,21 +25,21 @@
   },
   {
     "full_name": "lutzroeder/netron",
-    "stargazers_count": 26818,
+    "stargazers_count": 26861,
     "open_issues_count": 22,
-    "forks_count": 2704
+    "forks_count": 2707
   },
   {
     "full_name": "ZuzooVn/machine-learning-for-software-engineers",
-    "stargazers_count": 27941,
+    "stargazers_count": 27947,
     "open_issues_count": 27,
-    "forks_count": 6190
+    "forks_count": 6192
   },
   {
     "full_name": "microsoft/AI-For-Beginners",
-    "stargazers_count": 33077,
+    "stargazers_count": 33157,
     "open_issues_count": 53,
-    "forks_count": 5428
+    "forks_count": 5442
   },
   {
     "full_name": "Astrotomic/php-deepface",
@@ -37,26 +49,26 @@
   },
   {
     "full_name": "lencx/Noi",
-    "stargazers_count": 5492,
-    "open_issues_count": 70,
-    "forks_count": 398
+    "stargazers_count": 5522,
+    "open_issues_count": 71,
+    "forks_count": 402
   },
   {
     "full_name": "ventoy/Ventoy",
-    "stargazers_count": 60375,
-    "open_issues_count": 708,
-    "forks_count": 3944
+    "stargazers_count": 60425,
+    "open_issues_count": 710,
+    "forks_count": 3949
   },
   {
     "full_name": "frectonz/sql-studio",
-    "stargazers_count": 1631,
+    "stargazers_count": 1712,
     "open_issues_count": 11,
-    "forks_count": 30
+    "forks_count": 34
   },
   {
     "full_name": "ijpatricio/mingle",
-    "stargazers_count": 206,
-    "open_issues_count": 7,
+    "stargazers_count": 212,
+    "open_issues_count": 6,
     "forks_count": 6
   },
   {
@@ -67,39 +79,39 @@
   },
   {
     "full_name": "jamiebuilds/tailwindcss-animate",
-    "stargazers_count": 2265,
+    "stargazers_count": 2279,
     "open_issues_count": 30,
-    "forks_count": 43
+    "forks_count": 44
   },
   {
     "full_name": "radix-vue/radix-vue",
-    "stargazers_count": 2976,
-    "open_issues_count": 65,
-    "forks_count": 172
+    "stargazers_count": 2990,
+    "open_issues_count": 60,
+    "forks_count": 175
   },
   {
     "full_name": "magicuidesign/magicui",
-    "stargazers_count": 5271,
-    "open_issues_count": 54,
-    "forks_count": 177
+    "stargazers_count": 5397,
+    "open_issues_count": 57,
+    "forks_count": 181
   },
   {
     "full_name": "riverqueue/river",
-    "stargazers_count": 2622,
-    "open_issues_count": 19,
-    "forks_count": 63
+    "stargazers_count": 2736,
+    "open_issues_count": 21,
+    "forks_count": 67
   },
   {
     "full_name": "llvm/llvm-project",
-    "stargazers_count": 26819,
-    "open_issues_count": 24611,
-    "forks_count": 10996
+    "stargazers_count": 26859,
+    "open_issues_count": 24618,
+    "forks_count": 11026
   },
   {
     "full_name": "borgo-lang/borgo",
-    "stargazers_count": 3574,
-    "open_issues_count": 22,
-    "forks_count": 49
+    "stargazers_count": 3577,
+    "open_issues_count": 23,
+    "forks_count": 50
   },
   {
     "full_name": "posener/complete",
@@ -109,7 +121,7 @@
   },
   {
     "full_name": "nikolaydubina/go-cover-treemap",
-    "stargazers_count": 477,
+    "stargazers_count": 479,
     "open_issues_count": 1,
     "forks_count": 13
   },
@@ -121,9 +133,9 @@
   },
   {
     "full_name": "json-iterator/go",
-    "stargazers_count": 13217,
+    "stargazers_count": 13228,
     "open_issues_count": 260,
-    "forks_count": 1020
+    "forks_count": 1023
   },
   {
     "full_name": "pquerna/ffjson",
@@ -139,44 +151,32 @@
   },
   {
     "full_name": "mattn/go-sqlite3",
-    "stargazers_count": 7657,
+    "stargazers_count": 7665,
     "open_issues_count": 158,
     "forks_count": 1080
   },
   {
     "full_name": "barasher/go-exiftool",
-    "stargazers_count": 235,
+    "stargazers_count": 236,
     "open_issues_count": 7,
     "forks_count": 42
   },
   {
     "full_name": "goreleaser/nfpm",
-    "stargazers_count": 2086,
+    "stargazers_count": 2089,
     "open_issues_count": 9,
-    "forks_count": 153
+    "forks_count": 154
   },
   {
     "full_name": "cruip/tailwind-dashboard-template",
-    "stargazers_count": 2183,
+    "stargazers_count": 2203,
     "open_issues_count": 0,
-    "forks_count": 577
+    "forks_count": 580
   },
   {
     "full_name": "Allaman/werkzeugkasten",
     "stargazers_count": 7,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "nsmithuk/local-kms",
-    "stargazers_count": 192,
-    "open_issues_count": 14,
-    "forks_count": 34
-  },
-  {
-    "full_name": "awslabs/git-secrets",
-    "stargazers_count": 12149,
-    "open_issues_count": 113,
-    "forks_count": 1159
   }
 ]
