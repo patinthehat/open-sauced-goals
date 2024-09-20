@@ -1,37 +1,43 @@
 [
   {
+    "full_name": "Thavarshan/fetch-php",
+    "stargazers_count": 93,
+    "open_issues_count": 0,
+    "forks_count": 4
+  },
+  {
     "full_name": "gojue/ecapture",
-    "stargazers_count": 12092,
-    "open_issues_count": 8,
-    "forks_count": 1251
+    "stargazers_count": 12523,
+    "open_issues_count": 11,
+    "forks_count": 1324
   },
   {
     "full_name": "boringdesigners/boring-avatars",
-    "stargazers_count": 5651,
+    "stargazers_count": 5657,
     "open_issues_count": 0,
     "forks_count": 198
   },
   {
     "full_name": "TimboKZ/Chonky",
-    "stargazers_count": 740,
+    "stargazers_count": 743,
     "open_issues_count": 69,
     "forks_count": 163
   },
   {
     "full_name": "techschool/simplebank",
-    "stargazers_count": 5175,
+    "stargazers_count": 5180,
     "open_issues_count": 14,
-    "forks_count": 939
+    "forks_count": 941
   },
   {
     "full_name": "laravel-workflow/laravel-workflow",
-    "stargazers_count": 892,
+    "stargazers_count": 893,
     "open_issues_count": 4,
-    "forks_count": 36
+    "forks_count": 37
   },
   {
     "full_name": "mattrighetti/envelope",
-    "stargazers_count": 479,
+    "stargazers_count": 481,
     "open_issues_count": 2,
     "forks_count": 7
   },
@@ -43,45 +49,45 @@
   },
   {
     "full_name": "lutzroeder/netron",
-    "stargazers_count": 27558,
-    "open_issues_count": 24,
-    "forks_count": 2742
+    "stargazers_count": 27601,
+    "open_issues_count": 22,
+    "forks_count": 2747
   },
   {
     "full_name": "ZuzooVn/machine-learning-for-software-engineers",
-    "stargazers_count": 28072,
+    "stargazers_count": 28071,
     "open_issues_count": 26,
-    "forks_count": 6198
+    "forks_count": 6196
   },
   {
     "full_name": "microsoft/AI-For-Beginners",
-    "stargazers_count": 34073,
+    "stargazers_count": 34118,
     "open_issues_count": 55,
-    "forks_count": 5670
+    "forks_count": 5678
   },
   {
     "full_name": "Astrotomic/php-deepface",
-    "stargazers_count": 33,
-    "open_issues_count": 5,
-    "forks_count": 5
+    "stargazers_count": 34,
+    "open_issues_count": 6,
+    "forks_count": 6
   },
   {
     "full_name": "lencx/Noi",
-    "stargazers_count": 6068,
-    "open_issues_count": 97,
-    "forks_count": 440
+    "stargazers_count": 6091,
+    "open_issues_count": 98,
+    "forks_count": 442
   },
   {
     "full_name": "ventoy/Ventoy",
-    "stargazers_count": 61691,
-    "open_issues_count": 764,
-    "forks_count": 4008
+    "stargazers_count": 61746,
+    "open_issues_count": 768,
+    "forks_count": 4016
   },
   {
     "full_name": "frectonz/sql-studio",
-    "stargazers_count": 2240,
+    "stargazers_count": 2258,
     "open_issues_count": 10,
-    "forks_count": 57
+    "forks_count": 58
   },
   {
     "full_name": "ijpatricio/mingle",
@@ -97,37 +103,37 @@
   },
   {
     "full_name": "jamiebuilds/tailwindcss-animate",
-    "stargazers_count": 2433,
+    "stargazers_count": 2440,
     "open_issues_count": 31,
     "forks_count": 49
   },
   {
     "full_name": "radix-vue/radix-vue",
-    "stargazers_count": 3270,
-    "open_issues_count": 84,
-    "forks_count": 196
+    "stargazers_count": 3278,
+    "open_issues_count": 74,
+    "forks_count": 200
   },
   {
     "full_name": "magicuidesign/magicui",
-    "stargazers_count": 8772,
-    "open_issues_count": 107,
-    "forks_count": 342
+    "stargazers_count": 8895,
+    "open_issues_count": 111,
+    "forks_count": 346
   },
   {
     "full_name": "riverqueue/river",
-    "stargazers_count": 3356,
-    "open_issues_count": 28,
+    "stargazers_count": 3368,
+    "open_issues_count": 33,
     "forks_count": 89
   },
   {
     "full_name": "llvm/llvm-project",
-    "stargazers_count": 27984,
-    "open_issues_count": 25995,
-    "forks_count": 11550
+    "stargazers_count": 28034,
+    "open_issues_count": 26026,
+    "forks_count": 11579
   },
   {
     "full_name": "borgo-lang/borgo",
-    "stargazers_count": 3674,
+    "stargazers_count": 3679,
     "open_issues_count": 24,
     "forks_count": 50
   },
@@ -151,13 +157,13 @@
   },
   {
     "full_name": "json-iterator/go",
-    "stargazers_count": 13339,
+    "stargazers_count": 13341,
     "open_issues_count": 259,
-    "forks_count": 1023
+    "forks_count": 1024
   },
   {
     "full_name": "pquerna/ffjson",
-    "stargazers_count": 2962,
+    "stargazers_count": 2960,
     "open_issues_count": 59,
     "forks_count": 235
   },
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "mattn/go-sqlite3",
-    "stargazers_count": 7854,
+    "stargazers_count": 7866,
     "open_issues_count": 164,
     "forks_count": 1094
-  },
-  {
-    "full_name": "barasher/go-exiftool",
-    "stargazers_count": 246,
-    "open_issues_count": 9,
-    "forks_count": 43
   }
 ]
