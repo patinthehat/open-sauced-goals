@@ -1,5 +1,77 @@
 [
   {
+    "full_name": "youzan/zent",
+    "stargazers_count": 2247,
+    "open_issues_count": 21,
+    "forks_count": 378
+  },
+  {
+    "full_name": "Charlie85270/tail-kit",
+    "stargazers_count": 2923,
+    "open_issues_count": 8,
+    "forks_count": 319
+  },
+  {
+    "full_name": "radix-ui/themes",
+    "stargazers_count": 5478,
+    "open_issues_count": 83,
+    "forks_count": 195
+  },
+  {
+    "full_name": "themesberg/flowbite-react",
+    "stargazers_count": 1872,
+    "open_issues_count": 194,
+    "forks_count": 421
+  },
+  {
+    "full_name": "palantir/blueprint",
+    "stargazers_count": 20707,
+    "open_issues_count": 745,
+    "forks_count": 2171
+  },
+  {
+    "full_name": "plouc/nivo",
+    "stargazers_count": 13150,
+    "open_issues_count": 145,
+    "forks_count": 1027
+  },
+  {
+    "full_name": "plandex-ai/plandex",
+    "stargazers_count": 10709,
+    "open_issues_count": 39,
+    "forks_count": 747
+  },
+  {
+    "full_name": "loft-sh/devpod",
+    "stargazers_count": 8838,
+    "open_issues_count": 97,
+    "forks_count": 335
+  },
+  {
+    "full_name": "ddev/ddev",
+    "stargazers_count": 2716,
+    "open_issues_count": 139,
+    "forks_count": 595
+  },
+  {
+    "full_name": "rtckit/reactphp-redlock",
+    "stargazers_count": 16,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "reactphp/reactphp",
+    "stargazers_count": 8933,
+    "open_issues_count": 0,
+    "forks_count": 727
+  },
+  {
+    "full_name": "reactphp/async",
+    "stargazers_count": 203,
+    "open_issues_count": 5,
+    "forks_count": 18
+  },
+  {
     "full_name": "mserranom/bbrun",
     "stargazers_count": 209,
     "open_issues_count": 37,
@@ -7,31 +79,31 @@
   },
   {
     "full_name": "rapidloop/pgmetrics",
-    "stargazers_count": 959,
+    "stargazers_count": 960,
     "open_issues_count": 9,
     "forks_count": 65
   },
   {
     "full_name": "daytonaio/daytona",
-    "stargazers_count": 8944,
-    "open_issues_count": 92,
-    "forks_count": 790
+    "stargazers_count": 9045,
+    "open_issues_count": 85,
+    "forks_count": 796
   },
   {
     "full_name": "spatie/temporary-directory",
-    "stargazers_count": 920,
+    "stargazers_count": 921,
     "open_issues_count": 0,
     "forks_count": 45
   },
   {
     "full_name": "BishopFox/jsluice",
-    "stargazers_count": 1395,
+    "stargazers_count": 1399,
     "open_issues_count": 7,
     "forks_count": 89
   },
   {
     "full_name": "poppinss/dumper",
-    "stargazers_count": 43,
+    "stargazers_count": 45,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -43,37 +115,37 @@
   },
   {
     "full_name": "Thavarshan/fetch-php",
-    "stargazers_count": 288,
+    "stargazers_count": 292,
     "open_issues_count": 0,
     "forks_count": 14
   },
   {
     "full_name": "gojue/ecapture",
-    "stargazers_count": 13242,
-    "open_issues_count": 5,
-    "forks_count": 1398
+    "stargazers_count": 13302,
+    "open_issues_count": 7,
+    "forks_count": 1404
   },
   {
     "full_name": "boringdesigners/boring-avatars",
-    "stargazers_count": 5668,
+    "stargazers_count": 5674,
     "open_issues_count": 0,
     "forks_count": 198
   },
   {
     "full_name": "TimboKZ/Chonky",
-    "stargazers_count": 748,
+    "stargazers_count": 749,
     "open_issues_count": 70,
     "forks_count": 164
   },
   {
     "full_name": "techschool/simplebank",
-    "stargazers_count": 5284,
+    "stargazers_count": 5294,
     "open_issues_count": 15,
     "forks_count": 956
   },
   {
     "full_name": "laravel-workflow/laravel-workflow",
-    "stargazers_count": 907,
+    "stargazers_count": 910,
     "open_issues_count": 4,
     "forks_count": 38
   },
@@ -91,92 +163,20 @@
   },
   {
     "full_name": "lutzroeder/netron",
-    "stargazers_count": 27877,
+    "stargazers_count": 27909,
     "open_issues_count": 21,
     "forks_count": 2766
   },
   {
     "full_name": "ZuzooVn/machine-learning-for-software-engineers",
-    "stargazers_count": 28107,
-    "open_issues_count": 26,
-    "forks_count": 6195
+    "stargazers_count": 28118,
+    "open_issues_count": 27,
+    "forks_count": 6196
   },
   {
     "full_name": "microsoft/AI-For-Beginners",
-    "stargazers_count": 34499,
-    "open_issues_count": 57,
-    "forks_count": 5768
-  },
-  {
-    "full_name": "Astrotomic/php-deepface",
-    "stargazers_count": 35,
-    "open_issues_count": 6,
-    "forks_count": 6
-  },
-  {
-    "full_name": "lencx/Noi",
-    "stargazers_count": 6326,
-    "open_issues_count": 103,
-    "forks_count": 463
-  },
-  {
-    "full_name": "ventoy/Ventoy",
-    "stargazers_count": 62312,
-    "open_issues_count": 790,
-    "forks_count": 4064
-  },
-  {
-    "full_name": "frectonz/sql-studio",
-    "stargazers_count": 2306,
-    "open_issues_count": 12,
-    "forks_count": 59
-  },
-  {
-    "full_name": "ijpatricio/mingle",
-    "stargazers_count": 299,
-    "open_issues_count": 4,
-    "forks_count": 11
-  },
-  {
-    "full_name": "saint-lascivious/unbound-config",
-    "stargazers_count": 130,
-    "open_issues_count": 1,
-    "forks_count": 12
-  },
-  {
-    "full_name": "jamiebuilds/tailwindcss-animate",
-    "stargazers_count": 2509,
-    "open_issues_count": 33,
-    "forks_count": 52
-  },
-  {
-    "full_name": "unovue/radix-vue",
-    "stargazers_count": 3486,
-    "open_issues_count": 83,
-    "forks_count": 214
-  },
-  {
-    "full_name": "magicuidesign/magicui",
-    "stargazers_count": 10423,
-    "open_issues_count": 136,
-    "forks_count": 409
-  },
-  {
-    "full_name": "riverqueue/river",
-    "stargazers_count": 3480,
-    "open_issues_count": 36,
-    "forks_count": 91
-  },
-  {
-    "full_name": "llvm/llvm-project",
-    "stargazers_count": 28532,
-    "open_issues_count": 26440,
-    "forks_count": 11793
-  },
-  {
-    "full_name": "borgo-lang/borgo",
-    "stargazers_count": 3691,
-    "open_issues_count": 24,
-    "forks_count": 52
+    "stargazers_count": 34569,
+    "open_issues_count": 58,
+    "forks_count": 5778
   }
 ]
