@@ -13,45 +13,45 @@
   },
   {
     "full_name": "radix-ui/themes",
-    "stargazers_count": 5478,
-    "open_issues_count": 83,
-    "forks_count": 195
+    "stargazers_count": 5496,
+    "open_issues_count": 89,
+    "forks_count": 198
   },
   {
     "full_name": "themesberg/flowbite-react",
-    "stargazers_count": 1872,
+    "stargazers_count": 1879,
     "open_issues_count": 194,
     "forks_count": 421
   },
   {
     "full_name": "palantir/blueprint",
-    "stargazers_count": 20707,
+    "stargazers_count": 20712,
     "open_issues_count": 745,
-    "forks_count": 2171
+    "forks_count": 2172
   },
   {
     "full_name": "plouc/nivo",
-    "stargazers_count": 13150,
-    "open_issues_count": 145,
+    "stargazers_count": 13163,
+    "open_issues_count": 143,
     "forks_count": 1027
   },
   {
     "full_name": "plandex-ai/plandex",
-    "stargazers_count": 10709,
+    "stargazers_count": 10716,
     "open_issues_count": 39,
     "forks_count": 747
   },
   {
     "full_name": "loft-sh/devpod",
-    "stargazers_count": 8838,
-    "open_issues_count": 97,
-    "forks_count": 335
+    "stargazers_count": 8872,
+    "open_issues_count": 103,
+    "forks_count": 337
   },
   {
     "full_name": "ddev/ddev",
-    "stargazers_count": 2716,
-    "open_issues_count": 139,
-    "forks_count": 595
+    "stargazers_count": 2733,
+    "open_issues_count": 151,
+    "forks_count": 597
   },
   {
     "full_name": "rtckit/reactphp-redlock",
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "reactphp/reactphp",
-    "stargazers_count": 8933,
+    "stargazers_count": 8937,
     "open_issues_count": 0,
     "forks_count": 727
   },
@@ -79,15 +79,15 @@
   },
   {
     "full_name": "rapidloop/pgmetrics",
-    "stargazers_count": 960,
+    "stargazers_count": 961,
     "open_issues_count": 9,
     "forks_count": 65
   },
   {
     "full_name": "daytonaio/daytona",
-    "stargazers_count": 9045,
-    "open_issues_count": 85,
-    "forks_count": 796
+    "stargazers_count": 9116,
+    "open_issues_count": 89,
+    "forks_count": 799
   },
   {
     "full_name": "spatie/temporary-directory",
@@ -97,13 +97,13 @@
   },
   {
     "full_name": "BishopFox/jsluice",
-    "stargazers_count": 1399,
+    "stargazers_count": 1403,
     "open_issues_count": 7,
-    "forks_count": 89
+    "forks_count": 90
   },
   {
     "full_name": "poppinss/dumper",
-    "stargazers_count": 45,
+    "stargazers_count": 46,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -115,43 +115,43 @@
   },
   {
     "full_name": "Thavarshan/fetch-php",
-    "stargazers_count": 292,
+    "stargazers_count": 298,
     "open_issues_count": 0,
     "forks_count": 14
   },
   {
     "full_name": "gojue/ecapture",
-    "stargazers_count": 13302,
-    "open_issues_count": 7,
+    "stargazers_count": 13325,
+    "open_issues_count": 8,
     "forks_count": 1404
   },
   {
     "full_name": "boringdesigners/boring-avatars",
-    "stargazers_count": 5674,
+    "stargazers_count": 5679,
     "open_issues_count": 0,
-    "forks_count": 198
+    "forks_count": 199
   },
   {
     "full_name": "TimboKZ/Chonky",
     "stargazers_count": 749,
     "open_issues_count": 70,
-    "forks_count": 164
+    "forks_count": 165
   },
   {
     "full_name": "techschool/simplebank",
-    "stargazers_count": 5294,
+    "stargazers_count": 5300,
     "open_issues_count": 15,
-    "forks_count": 956
+    "forks_count": 957
   },
   {
     "full_name": "laravel-workflow/laravel-workflow",
-    "stargazers_count": 910,
+    "stargazers_count": 912,
     "open_issues_count": 4,
     "forks_count": 38
   },
   {
     "full_name": "mattrighetti/envelope",
-    "stargazers_count": 483,
+    "stargazers_count": 484,
     "open_issues_count": 3,
     "forks_count": 7
   },
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "lutzroeder/netron",
-    "stargazers_count": 27909,
-    "open_issues_count": 21,
-    "forks_count": 2766
+    "stargazers_count": 27944,
+    "open_issues_count": 23,
+    "forks_count": 2771
   },
   {
     "full_name": "ZuzooVn/machine-learning-for-software-engineers",
-    "stargazers_count": 28118,
-    "open_issues_count": 27,
-    "forks_count": 6196
+    "stargazers_count": 28123,
+    "open_issues_count": 28,
+    "forks_count": 6199
   },
   {
     "full_name": "microsoft/AI-For-Beginners",
-    "stargazers_count": 34569,
+    "stargazers_count": 34611,
     "open_issues_count": 58,
-    "forks_count": 5778
+    "forks_count": 5787
   }
 ]
