@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "react-querybuilder/react-querybuilder",
+    "stargazers_count": 1314,
+    "open_issues_count": 19,
+    "forks_count": 268
+  },
+  {
+    "full_name": "IanVS/eslint-nibble",
+    "stargazers_count": 784,
+    "open_issues_count": 13,
+    "forks_count": 29
+  },
+  {
     "full_name": "orlangure/gocovsh",
     "stargazers_count": 356,
     "open_issues_count": 13,
@@ -7,33 +19,33 @@
   },
   {
     "full_name": "jaxxstorm/action-install-gh-release",
-    "stargazers_count": 76,
+    "stargazers_count": 75,
     "open_issues_count": 10,
     "forks_count": 32
   },
   {
     "full_name": "marwanhawari/stew",
     "stargazers_count": 193,
-    "open_issues_count": 16,
+    "open_issues_count": 17,
     "forks_count": 14
   },
   {
     "full_name": "github/git-sizer",
-    "stargazers_count": 3564,
+    "stargazers_count": 3571,
     "open_issues_count": 13,
     "forks_count": 143
   },
   {
     "full_name": "gchp/iota",
-    "stargazers_count": 1636,
+    "stargazers_count": 1638,
     "open_issues_count": 41,
     "forks_count": 81
   },
   {
     "full_name": "jbranchaud/til",
-    "stargazers_count": 13492,
+    "stargazers_count": 13504,
     "open_issues_count": 21,
-    "forks_count": 746
+    "forks_count": 747
   },
   {
     "full_name": "xalaida/laravel-tree",
@@ -49,111 +61,111 @@
   },
   {
     "full_name": "denyspoltorak/publications",
-    "stargazers_count": 182,
+    "stargazers_count": 186,
     "open_issues_count": 0,
     "forks_count": 24
   },
   {
     "full_name": "github/gh-copilot",
-    "stargazers_count": 761,
-    "open_issues_count": 43,
+    "stargazers_count": 765,
+    "open_issues_count": 44,
     "forks_count": 31
   },
   {
     "full_name": "Sinaptik-AI/pandas-ai",
-    "stargazers_count": 13526,
-    "open_issues_count": 67,
-    "forks_count": 1312
+    "stargazers_count": 13550,
+    "open_issues_count": 64,
+    "forks_count": 1317
   },
   {
     "full_name": "raphamorim/rio",
-    "stargazers_count": 4010,
+    "stargazers_count": 4039,
     "open_issues_count": 113,
-    "forks_count": 129
+    "forks_count": 132
   },
   {
     "full_name": "danielmiessler/fabric",
-    "stargazers_count": 25421,
-    "open_issues_count": 131,
-    "forks_count": 2695
+    "stargazers_count": 25498,
+    "open_issues_count": 129,
+    "forks_count": 2706
   },
   {
     "full_name": "moovweb/gvm",
-    "stargazers_count": 10343,
+    "stargazers_count": 10356,
     "open_issues_count": 200,
-    "forks_count": 543
+    "forks_count": 544
   },
   {
     "full_name": "hyperlight-dev/hyperlight",
-    "stargazers_count": 2083,
-    "open_issues_count": 15,
+    "stargazers_count": 2136,
+    "open_issues_count": 16,
     "forks_count": 68
   },
   {
     "full_name": "gabrielpetersson/fast-grid",
-    "stargazers_count": 1179,
+    "stargazers_count": 1206,
     "open_issues_count": 4,
     "forks_count": 18
   },
   {
     "full_name": "spatie/pdf-to-image",
-    "stargazers_count": 1325,
+    "stargazers_count": 1326,
     "open_issues_count": 2,
     "forks_count": 228
   },
   {
     "full_name": "youzan/zent",
-    "stargazers_count": 2249,
+    "stargazers_count": 2250,
     "open_issues_count": 21,
     "forks_count": 378
   },
   {
     "full_name": "Charlie85270/tail-kit",
-    "stargazers_count": 2934,
+    "stargazers_count": 2936,
     "open_issues_count": 8,
-    "forks_count": 321
+    "forks_count": 322
   },
   {
     "full_name": "radix-ui/themes",
-    "stargazers_count": 5679,
-    "open_issues_count": 94,
-    "forks_count": 204
+    "stargazers_count": 5699,
+    "open_issues_count": 96,
+    "forks_count": 205
   },
   {
     "full_name": "themesberg/flowbite-react",
     "stargazers_count": 1897,
-    "open_issues_count": 200,
-    "forks_count": 423
+    "open_issues_count": 201,
+    "forks_count": 425
   },
   {
     "full_name": "palantir/blueprint",
-    "stargazers_count": 20741,
-    "open_issues_count": 762,
+    "stargazers_count": 20740,
+    "open_issues_count": 768,
     "forks_count": 2175
   },
   {
     "full_name": "plouc/nivo",
-    "stargazers_count": 13205,
-    "open_issues_count": 143,
+    "stargazers_count": 13216,
+    "open_issues_count": 145,
     "forks_count": 1031
   },
   {
     "full_name": "plandex-ai/plandex",
-    "stargazers_count": 10815,
+    "stargazers_count": 10820,
     "open_issues_count": 39,
-    "forks_count": 753
+    "forks_count": 755
   },
   {
     "full_name": "loft-sh/devpod",
-    "stargazers_count": 9523,
-    "open_issues_count": 104,
-    "forks_count": 345
+    "stargazers_count": 9540,
+    "open_issues_count": 109,
+    "forks_count": 346
   },
   {
     "full_name": "ddev/ddev",
-    "stargazers_count": 2778,
-    "open_issues_count": 134,
-    "forks_count": 607
+    "stargazers_count": 2787,
+    "open_issues_count": 131,
+    "forks_count": 609
   },
   {
     "full_name": "rtckit/reactphp-redlock",
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "reactphp/reactphp",
-    "stargazers_count": 8933,
+    "stargazers_count": 8938,
     "open_issues_count": 0,
     "forks_count": 725
-  },
-  {
-    "full_name": "reactphp/async",
-    "stargazers_count": 204,
-    "open_issues_count": 5,
-    "forks_count": 19
-  },
-  {
-    "full_name": "mserranom/bbrun",
-    "stargazers_count": 210,
-    "open_issues_count": 37,
-    "forks_count": 31
   }
 ]
