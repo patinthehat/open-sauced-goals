@@ -1,13 +1,67 @@
 [
   {
+    "full_name": "udecode/plate",
+    "stargazers_count": 12053,
+    "open_issues_count": 96,
+    "forks_count": 735
+  },
+  {
+    "full_name": "Genivia/ugrep",
+    "stargazers_count": 2661,
+    "open_issues_count": 1,
+    "forks_count": 111
+  },
+  {
+    "full_name": "vanna-ai/vanna",
+    "stargazers_count": 12053,
+    "open_issues_count": 119,
+    "forks_count": 966
+  },
+  {
+    "full_name": "githubnext/monaspace",
+    "stargazers_count": 14405,
+    "open_issues_count": 119,
+    "forks_count": 246
+  },
+  {
+    "full_name": "bootandy/dust",
+    "stargazers_count": 8934,
+    "open_issues_count": 8,
+    "forks_count": 189
+  },
+  {
+    "full_name": "trungdq88/Awesome-Black-Friday-Cyber-Monday",
+    "stargazers_count": 5450,
+    "open_issues_count": 32,
+    "forks_count": 1090
+  },
+  {
+    "full_name": "better-auth/better-auth",
+    "stargazers_count": 4150,
+    "open_issues_count": 105,
+    "forks_count": 221
+  },
+  {
+    "full_name": "pg-nano/pg-parser",
+    "stargazers_count": 204,
+    "open_issues_count": 2,
+    "forks_count": 5
+  },
+  {
+    "full_name": "trynova/nova",
+    "stargazers_count": 907,
+    "open_issues_count": 63,
+    "forks_count": 33
+  },
+  {
     "full_name": "react-querybuilder/react-querybuilder",
-    "stargazers_count": 1314,
+    "stargazers_count": 1319,
     "open_issues_count": 19,
     "forks_count": 268
   },
   {
     "full_name": "IanVS/eslint-nibble",
-    "stargazers_count": 784,
+    "stargazers_count": 786,
     "open_issues_count": 13,
     "forks_count": 29
   },
@@ -20,30 +74,30 @@
   {
     "full_name": "jaxxstorm/action-install-gh-release",
     "stargazers_count": 75,
-    "open_issues_count": 10,
+    "open_issues_count": 11,
     "forks_count": 32
   },
   {
     "full_name": "marwanhawari/stew",
-    "stargazers_count": 193,
+    "stargazers_count": 195,
     "open_issues_count": 17,
     "forks_count": 14
   },
   {
     "full_name": "github/git-sizer",
-    "stargazers_count": 3571,
-    "open_issues_count": 13,
+    "stargazers_count": 3574,
+    "open_issues_count": 14,
     "forks_count": 143
   },
   {
     "full_name": "gchp/iota",
-    "stargazers_count": 1638,
+    "stargazers_count": 1640,
     "open_issues_count": 41,
     "forks_count": 81
   },
   {
     "full_name": "jbranchaud/til",
-    "stargazers_count": 13504,
+    "stargazers_count": 13509,
     "open_issues_count": 21,
     "forks_count": 747
   },
@@ -61,122 +115,68 @@
   },
   {
     "full_name": "denyspoltorak/publications",
-    "stargazers_count": 186,
+    "stargazers_count": 195,
     "open_issues_count": 0,
-    "forks_count": 24
+    "forks_count": 26
   },
   {
     "full_name": "github/gh-copilot",
-    "stargazers_count": 765,
+    "stargazers_count": 774,
     "open_issues_count": 44,
     "forks_count": 31
   },
   {
     "full_name": "Sinaptik-AI/pandas-ai",
-    "stargazers_count": 13550,
-    "open_issues_count": 64,
-    "forks_count": 1317
+    "stargazers_count": 13570,
+    "open_issues_count": 63,
+    "forks_count": 1319
   },
   {
     "full_name": "raphamorim/rio",
-    "stargazers_count": 4039,
-    "open_issues_count": 113,
-    "forks_count": 132
+    "stargazers_count": 4064,
+    "open_issues_count": 121,
+    "forks_count": 136
   },
   {
     "full_name": "danielmiessler/fabric",
-    "stargazers_count": 25498,
-    "open_issues_count": 129,
-    "forks_count": 2706
+    "stargazers_count": 25587,
+    "open_issues_count": 131,
+    "forks_count": 2721
   },
   {
     "full_name": "moovweb/gvm",
-    "stargazers_count": 10356,
+    "stargazers_count": 10364,
     "open_issues_count": 200,
     "forks_count": 544
   },
   {
     "full_name": "hyperlight-dev/hyperlight",
-    "stargazers_count": 2136,
+    "stargazers_count": 2182,
     "open_issues_count": 16,
-    "forks_count": 68
+    "forks_count": 72
   },
   {
     "full_name": "gabrielpetersson/fast-grid",
-    "stargazers_count": 1206,
+    "stargazers_count": 1415,
     "open_issues_count": 4,
-    "forks_count": 18
+    "forks_count": 21
   },
   {
     "full_name": "spatie/pdf-to-image",
-    "stargazers_count": 1326,
+    "stargazers_count": 1329,
     "open_issues_count": 2,
-    "forks_count": 228
+    "forks_count": 229
   },
   {
     "full_name": "youzan/zent",
-    "stargazers_count": 2250,
+    "stargazers_count": 2251,
     "open_issues_count": 21,
     "forks_count": 378
   },
   {
     "full_name": "Charlie85270/tail-kit",
-    "stargazers_count": 2936,
+    "stargazers_count": 2935,
     "open_issues_count": 8,
-    "forks_count": 322
-  },
-  {
-    "full_name": "radix-ui/themes",
-    "stargazers_count": 5699,
-    "open_issues_count": 96,
-    "forks_count": 205
-  },
-  {
-    "full_name": "themesberg/flowbite-react",
-    "stargazers_count": 1897,
-    "open_issues_count": 201,
-    "forks_count": 425
-  },
-  {
-    "full_name": "palantir/blueprint",
-    "stargazers_count": 20740,
-    "open_issues_count": 768,
-    "forks_count": 2175
-  },
-  {
-    "full_name": "plouc/nivo",
-    "stargazers_count": 13216,
-    "open_issues_count": 145,
-    "forks_count": 1031
-  },
-  {
-    "full_name": "plandex-ai/plandex",
-    "stargazers_count": 10820,
-    "open_issues_count": 39,
-    "forks_count": 755
-  },
-  {
-    "full_name": "loft-sh/devpod",
-    "stargazers_count": 9540,
-    "open_issues_count": 109,
-    "forks_count": 346
-  },
-  {
-    "full_name": "ddev/ddev",
-    "stargazers_count": 2787,
-    "open_issues_count": 131,
-    "forks_count": 609
-  },
-  {
-    "full_name": "rtckit/reactphp-redlock",
-    "stargazers_count": 16,
-    "open_issues_count": 0,
-    "forks_count": 2
-  },
-  {
-    "full_name": "reactphp/reactphp",
-    "stargazers_count": 8938,
-    "open_issues_count": 0,
-    "forks_count": 725
+    "forks_count": 321
   }
 ]
