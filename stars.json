@@ -1,5 +1,35 @@
 [
   {
+    "full_name": "microsoft/markitdown",
+    "stargazers_count": 23684,
+    "open_issues_count": 84,
+    "forks_count": 873
+  },
+  {
+    "full_name": "bxcodec/go-clean-arch",
+    "stargazers_count": 9303,
+    "open_issues_count": 34,
+    "forks_count": 1226
+  },
+  {
+    "full_name": "josephburnett/jd",
+    "stargazers_count": 1913,
+    "open_issues_count": 19,
+    "forks_count": 53
+  },
+  {
+    "full_name": "abhimanyu003/sttr",
+    "stargazers_count": 970,
+    "open_issues_count": 9,
+    "forks_count": 33
+  },
+  {
+    "full_name": "atlassian/escalator",
+    "stargazers_count": 669,
+    "open_issues_count": 10,
+    "forks_count": 59
+  },
+  {
     "full_name": "bitleak/lmstfy",
     "stargazers_count": 824,
     "open_issues_count": 5,
@@ -7,9 +37,9 @@
   },
   {
     "full_name": "exaco/laravel-octane-dockerfile",
-    "stargazers_count": 644,
-    "open_issues_count": 6,
-    "forks_count": 97
+    "stargazers_count": 647,
+    "open_issues_count": 12,
+    "forks_count": 99
   },
   {
     "full_name": "spiral/framework",
@@ -20,56 +50,56 @@
   {
     "full_name": "phpro/grumphp",
     "stargazers_count": 4157,
-    "open_issues_count": 11,
+    "open_issues_count": 10,
     "forks_count": 437
   },
   {
     "full_name": "panmari/cuckoofilter",
-    "stargazers_count": 44,
+    "stargazers_count": 45,
     "open_issues_count": 3,
     "forks_count": 13
   },
   {
     "full_name": "udecode/plate",
-    "stargazers_count": 12288,
-    "open_issues_count": 103,
-    "forks_count": 748
+    "stargazers_count": 12323,
+    "open_issues_count": 106,
+    "forks_count": 750
   },
   {
     "full_name": "Genivia/ugrep",
-    "stargazers_count": 2689,
+    "stargazers_count": 2691,
     "open_issues_count": 1,
     "forks_count": 111
   },
   {
     "full_name": "vanna-ai/vanna",
-    "stargazers_count": 12311,
-    "open_issues_count": 136,
-    "forks_count": 1000
+    "stargazers_count": 12351,
+    "open_issues_count": 138,
+    "forks_count": 1008
   },
   {
     "full_name": "githubnext/monaspace",
-    "stargazers_count": 14550,
-    "open_issues_count": 116,
-    "forks_count": 249
+    "stargazers_count": 14563,
+    "open_issues_count": 114,
+    "forks_count": 251
   },
   {
     "full_name": "bootandy/dust",
-    "stargazers_count": 9070,
+    "stargazers_count": 9089,
     "open_issues_count": 12,
     "forks_count": 192
   },
   {
     "full_name": "trungdq88/Awesome-Black-Friday-Cyber-Monday",
-    "stargazers_count": 5991,
+    "stargazers_count": 5995,
     "open_issues_count": 7,
-    "forks_count": 1208
+    "forks_count": 1207
   },
   {
     "full_name": "better-auth/better-auth",
-    "stargazers_count": 5171,
-    "open_issues_count": 133,
-    "forks_count": 289
+    "stargazers_count": 5252,
+    "open_issues_count": 127,
+    "forks_count": 293
   },
   {
     "full_name": "pg-nano/pg-parser",
@@ -79,19 +109,19 @@
   },
   {
     "full_name": "trynova/nova",
-    "stargazers_count": 978,
+    "stargazers_count": 982,
     "open_issues_count": 64,
     "forks_count": 37
   },
   {
     "full_name": "react-querybuilder/react-querybuilder",
-    "stargazers_count": 1348,
+    "stargazers_count": 1356,
     "open_issues_count": 20,
-    "forks_count": 273
+    "forks_count": 274
   },
   {
     "full_name": "IanVS/eslint-nibble",
-    "stargazers_count": 788,
+    "stargazers_count": 789,
     "open_issues_count": 13,
     "forks_count": 29
   },
@@ -109,14 +139,14 @@
   },
   {
     "full_name": "marwanhawari/stew",
-    "stargazers_count": 199,
+    "stargazers_count": 202,
     "open_issues_count": 17,
     "forks_count": 14
   },
   {
     "full_name": "github/git-sizer",
-    "stargazers_count": 3602,
-    "open_issues_count": 14,
+    "stargazers_count": 3605,
+    "open_issues_count": 13,
     "forks_count": 145
   },
   {
@@ -127,7 +157,7 @@
   },
   {
     "full_name": "jbranchaud/til",
-    "stargazers_count": 13541,
+    "stargazers_count": 13549,
     "open_issues_count": 21,
     "forks_count": 748
   },
@@ -145,38 +175,8 @@
   },
   {
     "full_name": "denyspoltorak/publications",
-    "stargazers_count": 218,
+    "stargazers_count": 224,
     "open_issues_count": 0,
     "forks_count": 29
-  },
-  {
-    "full_name": "github/gh-copilot",
-    "stargazers_count": 790,
-    "open_issues_count": 49,
-    "forks_count": 31
-  },
-  {
-    "full_name": "Sinaptik-AI/pandas-ai",
-    "stargazers_count": 13714,
-    "open_issues_count": 58,
-    "forks_count": 1335
-  },
-  {
-    "full_name": "raphamorim/rio",
-    "stargazers_count": 4310,
-    "open_issues_count": 136,
-    "forks_count": 141
-  },
-  {
-    "full_name": "danielmiessler/fabric",
-    "stargazers_count": 26010,
-    "open_issues_count": 149,
-    "forks_count": 2759
-  },
-  {
-    "full_name": "moovweb/gvm",
-    "stargazers_count": 10432,
-    "open_issues_count": 205,
-    "forks_count": 550
   }
 ]
