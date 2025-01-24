@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "twpayne/go-jsonstruct",
+    "stargazers_count": 314,
+    "open_issues_count": 1,
+    "forks_count": 33
+  },
+  {
     "full_name": "1Password/install-cli-action",
-    "stargazers_count": 44,
+    "stargazers_count": 45,
     "open_issues_count": 2,
     "forks_count": 13
   },
   {
     "full_name": "stonith404/pocket-id",
-    "stargazers_count": 1057,
-    "open_issues_count": 16,
-    "forks_count": 20
+    "stargazers_count": 1089,
+    "open_issues_count": 14,
+    "forks_count": 22
   },
   {
     "full_name": "kjdev/nginx-keyval",
@@ -19,15 +25,15 @@
   },
   {
     "full_name": "hashicorp/nomad",
-    "stargazers_count": 15111,
-    "open_issues_count": 1648,
-    "forks_count": 1967
+    "stargazers_count": 15123,
+    "open_issues_count": 1650,
+    "forks_count": 1968
   },
   {
     "full_name": "Automattic/harper",
-    "stargazers_count": 2952,
-    "open_issues_count": 136,
-    "forks_count": 72
+    "stargazers_count": 2983,
+    "open_issues_count": 142,
+    "forks_count": 74
   },
   {
     "full_name": "octokit/go-sdk",
@@ -43,19 +49,19 @@
   },
   {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 34983,
-    "open_issues_count": 159,
-    "forks_count": 1554
+    "stargazers_count": 35516,
+    "open_issues_count": 163,
+    "forks_count": 1576
   },
   {
     "full_name": "bxcodec/go-clean-arch",
-    "stargazers_count": 9346,
+    "stargazers_count": 9351,
     "open_issues_count": 34,
-    "forks_count": 1243
+    "forks_count": 1245
   },
   {
     "full_name": "josephburnett/jd",
-    "stargazers_count": 1940,
+    "stargazers_count": 1941,
     "open_issues_count": 19,
     "forks_count": 53
   },
@@ -79,19 +85,19 @@
   },
   {
     "full_name": "exaco/laravel-octane-dockerfile",
-    "stargazers_count": 692,
-    "open_issues_count": 6,
-    "forks_count": 106
+    "stargazers_count": 697,
+    "open_issues_count": 7,
+    "forks_count": 108
   },
   {
     "full_name": "spiral/framework",
     "stargazers_count": 1864,
-    "open_issues_count": 45,
-    "forks_count": 89
+    "open_issues_count": 40,
+    "forks_count": 88
   },
   {
     "full_name": "phpro/grumphp",
-    "stargazers_count": 4173,
+    "stargazers_count": 4174,
     "open_issues_count": 10,
     "forks_count": 438
   },
@@ -103,45 +109,45 @@
   },
   {
     "full_name": "udecode/plate",
-    "stargazers_count": 12748,
-    "open_issues_count": 100,
-    "forks_count": 773
+    "stargazers_count": 12824,
+    "open_issues_count": 97,
+    "forks_count": 779
   },
   {
     "full_name": "Genivia/ugrep",
-    "stargazers_count": 2712,
-    "open_issues_count": 4,
+    "stargazers_count": 2715,
+    "open_issues_count": 3,
     "forks_count": 113
   },
   {
     "full_name": "vanna-ai/vanna",
-    "stargazers_count": 12726,
-    "open_issues_count": 149,
-    "forks_count": 1058
+    "stargazers_count": 12764,
+    "open_issues_count": 150,
+    "forks_count": 1063
   },
   {
     "full_name": "githubnext/monaspace",
-    "stargazers_count": 14851,
+    "stargazers_count": 14906,
     "open_issues_count": 122,
-    "forks_count": 252
+    "forks_count": 253
   },
   {
     "full_name": "bootandy/dust",
-    "stargazers_count": 9253,
-    "open_issues_count": 11,
+    "stargazers_count": 9267,
+    "open_issues_count": 13,
     "forks_count": 199
   },
   {
     "full_name": "trungdq88/Awesome-Black-Friday-Cyber-Monday",
-    "stargazers_count": 6007,
+    "stargazers_count": 6006,
     "open_issues_count": 7,
-    "forks_count": 1205
+    "forks_count": 1203
   },
   {
     "full_name": "better-auth/better-auth",
-    "stargazers_count": 6222,
-    "open_issues_count": 178,
-    "forks_count": 355
+    "stargazers_count": 6271,
+    "open_issues_count": 190,
+    "forks_count": 365
   },
   {
     "full_name": "pg-nano/pg-parser",
@@ -151,15 +157,15 @@
   },
   {
     "full_name": "trynova/nova",
-    "stargazers_count": 1043,
-    "open_issues_count": 69,
+    "stargazers_count": 1068,
+    "open_issues_count": 68,
     "forks_count": 39
   },
   {
     "full_name": "react-querybuilder/react-querybuilder",
-    "stargazers_count": 1380,
-    "open_issues_count": 19,
-    "forks_count": 277
+    "stargazers_count": 1384,
+    "open_issues_count": 20,
+    "forks_count": 279
   },
   {
     "full_name": "IanVS/eslint-nibble",
@@ -172,11 +178,5 @@
     "stargazers_count": 358,
     "open_issues_count": 13,
     "forks_count": 14
-  },
-  {
-    "full_name": "jaxxstorm/action-install-gh-release",
-    "stargazers_count": 76,
-    "open_issues_count": 14,
-    "forks_count": 34
   }
 ]
