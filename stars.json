@@ -1,25 +1,25 @@
 [
   {
     "full_name": "lauragift21/staff-directory",
-    "stargazers_count": 34,
+    "stargazers_count": 35,
     "open_issues_count": 3,
     "forks_count": 15
   },
   {
     "full_name": "asdf-vm/asdf",
-    "stargazers_count": 22796,
-    "open_issues_count": 193,
-    "forks_count": 815
+    "stargazers_count": 22837,
+    "open_issues_count": 191,
+    "forks_count": 821
   },
   {
     "full_name": "moby/buildkit",
-    "stargazers_count": 8458,
-    "open_issues_count": 893,
-    "forks_count": 1209
+    "stargazers_count": 8465,
+    "open_issues_count": 890,
+    "forks_count": 1211
   },
   {
     "full_name": "wheaney/XRLinuxDriver",
-    "stargazers_count": 237,
+    "stargazers_count": 238,
     "open_issues_count": 11,
     "forks_count": 21
   },
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "moby/moby",
-    "stargazers_count": 69139,
-    "open_issues_count": 3519,
-    "forks_count": 18681
+    "stargazers_count": 69158,
+    "open_issues_count": 3513,
+    "forks_count": 18685
   },
   {
     "full_name": "SmilyOrg/photofield-ai",
@@ -44,38 +44,38 @@
   {
     "full_name": "twpayne/go-jsonstruct",
     "stargazers_count": 314,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 33
   },
   {
     "full_name": "1Password/install-cli-action",
     "stargazers_count": 46,
-    "open_issues_count": 2,
-    "forks_count": 13
+    "open_issues_count": 3,
+    "forks_count": 14
   },
   {
     "full_name": "pocket-id/pocket-id",
-    "stargazers_count": 1391,
-    "open_issues_count": 16,
+    "stargazers_count": 1404,
+    "open_issues_count": 8,
     "forks_count": 38
   },
   {
     "full_name": "kjdev/nginx-keyval",
-    "stargazers_count": 21,
+    "stargazers_count": 22,
     "open_issues_count": 2,
     "forks_count": 4
   },
   {
     "full_name": "hashicorp/nomad",
-    "stargazers_count": 15205,
-    "open_issues_count": 1642,
-    "forks_count": 1975
+    "stargazers_count": 15215,
+    "open_issues_count": 1636,
+    "forks_count": 1977
   },
   {
     "full_name": "Automattic/harper",
-    "stargazers_count": 3087,
-    "open_issues_count": 189,
-    "forks_count": 77
+    "stargazers_count": 3137,
+    "open_issues_count": 188,
+    "forks_count": 78
   },
   {
     "full_name": "octokit/go-sdk",
@@ -91,19 +91,19 @@
   },
   {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 36523,
-    "open_issues_count": 167,
-    "forks_count": 1639
+    "stargazers_count": 36769,
+    "open_issues_count": 173,
+    "forks_count": 1669
   },
   {
     "full_name": "bxcodec/go-clean-arch",
-    "stargazers_count": 9379,
+    "stargazers_count": 9380,
     "open_issues_count": 34,
-    "forks_count": 1247
+    "forks_count": 1245
   },
   {
     "full_name": "josephburnett/jd",
-    "stargazers_count": 1962,
+    "stargazers_count": 1965,
     "open_issues_count": 18,
     "forks_count": 53
   },
@@ -115,31 +115,31 @@
   },
   {
     "full_name": "atlassian/escalator",
-    "stargazers_count": 669,
+    "stargazers_count": 671,
     "open_issues_count": 10,
     "forks_count": 60
   },
   {
     "full_name": "bitleak/lmstfy",
-    "stargazers_count": 826,
+    "stargazers_count": 825,
     "open_issues_count": 5,
     "forks_count": 125
   },
   {
     "full_name": "exaco/laravel-octane-dockerfile",
-    "stargazers_count": 714,
-    "open_issues_count": 9,
+    "stargazers_count": 717,
+    "open_issues_count": 8,
     "forks_count": 110
   },
   {
     "full_name": "spiral/framework",
-    "stargazers_count": 1869,
-    "open_issues_count": 42,
-    "forks_count": 88
+    "stargazers_count": 1874,
+    "open_issues_count": 41,
+    "forks_count": 89
   },
   {
     "full_name": "phpro/grumphp",
-    "stargazers_count": 4181,
+    "stargazers_count": 4179,
     "open_issues_count": 10,
     "forks_count": 438
   },
@@ -151,32 +151,32 @@
   },
   {
     "full_name": "udecode/plate",
-    "stargazers_count": 12926,
-    "open_issues_count": 97,
-    "forks_count": 784
+    "stargazers_count": 12949,
+    "open_issues_count": 99,
+    "forks_count": 786
   },
   {
     "full_name": "Genivia/ugrep",
-    "stargazers_count": 2731,
+    "stargazers_count": 2734,
     "open_issues_count": 2,
-    "forks_count": 114
+    "forks_count": 115
   },
   {
     "full_name": "vanna-ai/vanna",
-    "stargazers_count": 13040,
-    "open_issues_count": 144,
-    "forks_count": 1109
+    "stargazers_count": 13125,
+    "open_issues_count": 146,
+    "forks_count": 1117
   },
   {
     "full_name": "githubnext/monaspace",
-    "stargazers_count": 15058,
+    "stargazers_count": 15103,
     "open_issues_count": 60,
-    "forks_count": 259
+    "forks_count": 261
   },
   {
     "full_name": "bootandy/dust",
-    "stargazers_count": 9339,
-    "open_issues_count": 10,
+    "stargazers_count": 9354,
+    "open_issues_count": 11,
     "forks_count": 199
   }
 ]
