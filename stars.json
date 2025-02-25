@@ -1,15 +1,15 @@
 [
   {
     "full_name": "pquerna/otp",
-    "stargazers_count": 2464,
+    "stargazers_count": 2466,
     "open_issues_count": 13,
-    "forks_count": 234
+    "forks_count": 235
   },
   {
     "full_name": "client9/misspell",
-    "stargazers_count": 1365,
+    "stargazers_count": 1366,
     "open_issues_count": 76,
-    "forks_count": 117
+    "forks_count": 118
   },
   {
     "full_name": "lauragift21/staff-directory",
@@ -19,57 +19,57 @@
   },
   {
     "full_name": "asdf-vm/asdf",
-    "stargazers_count": 22925,
+    "stargazers_count": 22967,
     "open_issues_count": 188,
-    "forks_count": 828
+    "forks_count": 830
   },
   {
     "full_name": "moby/buildkit",
-    "stargazers_count": 8482,
-    "open_issues_count": 885,
-    "forks_count": 1210
+    "stargazers_count": 8496,
+    "open_issues_count": 888,
+    "forks_count": 1213
   },
   {
     "full_name": "wheaney/XRLinuxDriver",
     "stargazers_count": 241,
-    "open_issues_count": 14,
-    "forks_count": 22
+    "open_issues_count": 15,
+    "forks_count": 23
   },
   {
     "full_name": "vulcand/vulcand",
-    "stargazers_count": 3093,
+    "stargazers_count": 3092,
     "open_issues_count": 69,
     "forks_count": 224
   },
   {
     "full_name": "moby/moby",
-    "stargazers_count": 69208,
-    "open_issues_count": 3529,
-    "forks_count": 18697
+    "stargazers_count": 69240,
+    "open_issues_count": 3538,
+    "forks_count": 18703
   },
   {
     "full_name": "SmilyOrg/photofield-ai",
-    "stargazers_count": 20,
+    "stargazers_count": 21,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "twpayne/go-jsonstruct",
-    "stargazers_count": 316,
+    "stargazers_count": 318,
     "open_issues_count": 0,
     "forks_count": 33
   },
   {
     "full_name": "1Password/install-cli-action",
-    "stargazers_count": 46,
+    "stargazers_count": 48,
     "open_issues_count": 3,
     "forks_count": 14
   },
   {
     "full_name": "pocket-id/pocket-id",
-    "stargazers_count": 1443,
-    "open_issues_count": 8,
-    "forks_count": 40
+    "stargazers_count": 1496,
+    "open_issues_count": 12,
+    "forks_count": 43
   },
   {
     "full_name": "kjdev/nginx-keyval",
@@ -79,15 +79,15 @@
   },
   {
     "full_name": "hashicorp/nomad",
-    "stargazers_count": 15250,
-    "open_issues_count": 1643,
-    "forks_count": 1977
+    "stargazers_count": 15257,
+    "open_issues_count": 1644,
+    "forks_count": 1975
   },
   {
     "full_name": "Automattic/harper",
-    "stargazers_count": 3169,
-    "open_issues_count": 223,
-    "forks_count": 82
+    "stargazers_count": 3188,
+    "open_issues_count": 233,
+    "forks_count": 83
   },
   {
     "full_name": "octokit/go-sdk",
@@ -103,19 +103,19 @@
   },
   {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 38251,
+    "stargazers_count": 38917,
     "open_issues_count": 183,
-    "forks_count": 1764
+    "forks_count": 1789
   },
   {
     "full_name": "bxcodec/go-clean-arch",
-    "stargazers_count": 9396,
+    "stargazers_count": 9407,
     "open_issues_count": 34,
     "forks_count": 1250
   },
   {
     "full_name": "josephburnett/jd",
-    "stargazers_count": 1971,
+    "stargazers_count": 1980,
     "open_issues_count": 11,
     "forks_count": 53
   },
@@ -129,54 +129,54 @@
     "full_name": "atlassian/escalator",
     "stargazers_count": 671,
     "open_issues_count": 10,
-    "forks_count": 60
+    "forks_count": 61
   },
   {
     "full_name": "bitleak/lmstfy",
-    "stargazers_count": 825,
+    "stargazers_count": 826,
     "open_issues_count": 5,
     "forks_count": 125
   },
   {
     "full_name": "exaco/laravel-octane-dockerfile",
-    "stargazers_count": 725,
+    "stargazers_count": 728,
     "open_issues_count": 8,
-    "forks_count": 110
+    "forks_count": 111
   },
   {
     "full_name": "spiral/framework",
-    "stargazers_count": 1878,
-    "open_issues_count": 41,
-    "forks_count": 89
+    "stargazers_count": 1880,
+    "open_issues_count": 43,
+    "forks_count": 88
   },
   {
     "full_name": "phpro/grumphp",
-    "stargazers_count": 4182,
-    "open_issues_count": 10,
-    "forks_count": 438
+    "stargazers_count": 4183,
+    "open_issues_count": 11,
+    "forks_count": 439
   },
   {
     "full_name": "panmari/cuckoofilter",
     "stargazers_count": 45,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 13
   },
   {
     "full_name": "udecode/plate",
-    "stargazers_count": 13033,
-    "open_issues_count": 97,
-    "forks_count": 792
+    "stargazers_count": 13071,
+    "open_issues_count": 99,
+    "forks_count": 795
   },
   {
     "full_name": "Genivia/ugrep",
-    "stargazers_count": 2745,
-    "open_issues_count": 2,
+    "stargazers_count": 2750,
+    "open_issues_count": 3,
     "forks_count": 116
   },
   {
     "full_name": "vanna-ai/vanna",
-    "stargazers_count": 13298,
-    "open_issues_count": 148,
-    "forks_count": 1136
+    "stargazers_count": 13394,
+    "open_issues_count": 149,
+    "forks_count": 1147
   }
 ]
