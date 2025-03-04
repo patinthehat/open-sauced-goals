@@ -1,5 +1,125 @@
 [
   {
+    "full_name": "cloudwego/hertz",
+    "stargazers_count": 5928,
+    "open_issues_count": 58,
+    "forks_count": 560
+  },
+  {
+    "full_name": "cloudwego/netpoll",
+    "stargazers_count": 4189,
+    "open_issues_count": 26,
+    "forks_count": 480
+  },
+  {
+    "full_name": "zeromicro/zero-examples",
+    "stargazers_count": 964,
+    "open_issues_count": 40,
+    "forks_count": 250
+  },
+  {
+    "full_name": "immich-app/immich",
+    "stargazers_count": 59731,
+    "open_issues_count": 495,
+    "forks_count": 3146
+  },
+  {
+    "full_name": "hyperjumptech/grule-rule-engine",
+    "stargazers_count": 2280,
+    "open_issues_count": 74,
+    "forks_count": 352
+  },
+  {
+    "full_name": "bytedance/sonic",
+    "stargazers_count": 7595,
+    "open_issues_count": 19,
+    "forks_count": 369
+  },
+  {
+    "full_name": "cloudwego/gjson",
+    "stargazers_count": 27,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "bytedance/monolith",
+    "stargazers_count": 8672,
+    "open_issues_count": 23,
+    "forks_count": 669
+  },
+  {
+    "full_name": "triggerdotdev/trigger.dev",
+    "stargazers_count": 10374,
+    "open_issues_count": 194,
+    "forks_count": 657
+  },
+  {
+    "full_name": "MichaelCade/90DaysOfDevOps",
+    "stargazers_count": 27690,
+    "open_issues_count": 9,
+    "forks_count": 6385
+  },
+  {
+    "full_name": "bregman-arie/devops-exercises",
+    "stargazers_count": 69681,
+    "open_issues_count": 43,
+    "forks_count": 15504
+  },
+  {
+    "full_name": "segmentio/stats",
+    "stargazers_count": 214,
+    "open_issues_count": 9,
+    "forks_count": 32
+  },
+  {
+    "full_name": "nomad-ops/deployment-examples",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "dokku/dokku",
+    "stargazers_count": 30009,
+    "open_issues_count": 58,
+    "forks_count": 1951
+  },
+  {
+    "full_name": "openfaas/faasd",
+    "stargazers_count": 3090,
+    "open_issues_count": 7,
+    "forks_count": 223
+  },
+  {
+    "full_name": "pquerna/dpop",
+    "stargazers_count": 22,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "dustin/go-humanize",
+    "stargazers_count": 4453,
+    "open_issues_count": 42,
+    "forks_count": 237
+  },
+  {
+    "full_name": "quickwit-oss/quickwit",
+    "stargazers_count": 9739,
+    "open_issues_count": 683,
+    "forks_count": 430
+  },
+  {
+    "full_name": "quickwit-oss/whichlang",
+    "stargazers_count": 391,
+    "open_issues_count": 7,
+    "forks_count": 18
+  },
+  {
+    "full_name": "Fafa-DL/Awesome-Backbones",
+    "stargazers_count": 1668,
+    "open_issues_count": 9,
+    "forks_count": 264
+  },
+  {
     "full_name": "awslabs/aws-api-gateway-developer-portal",
     "stargazers_count": 935,
     "open_issues_count": 170,
@@ -7,7 +127,7 @@
   },
   {
     "full_name": "pquerna/otp",
-    "stargazers_count": 2471,
+    "stargazers_count": 2476,
     "open_issues_count": 13,
     "forks_count": 235
   },
@@ -19,25 +139,25 @@
   },
   {
     "full_name": "lauragift21/staff-directory",
-    "stargazers_count": 36,
+    "stargazers_count": 37,
     "open_issues_count": 3,
     "forks_count": 15
   },
   {
     "full_name": "asdf-vm/asdf",
-    "stargazers_count": 22999,
-    "open_issues_count": 187,
-    "forks_count": 830
+    "stargazers_count": 23039,
+    "open_issues_count": 189,
+    "forks_count": 832
   },
   {
     "full_name": "moby/buildkit",
-    "stargazers_count": 8506,
-    "open_issues_count": 894,
-    "forks_count": 1211
+    "stargazers_count": 8516,
+    "open_issues_count": 898,
+    "forks_count": 1209
   },
   {
     "full_name": "wheaney/XRLinuxDriver",
-    "stargazers_count": 242,
+    "stargazers_count": 245,
     "open_issues_count": 14,
     "forks_count": 23
   },
@@ -49,134 +169,14 @@
   },
   {
     "full_name": "moby/moby",
-    "stargazers_count": 69257,
-    "open_issues_count": 3536,
-    "forks_count": 18704
+    "stargazers_count": 69269,
+    "open_issues_count": 3534,
+    "forks_count": 18706
   },
   {
     "full_name": "SmilyOrg/photofield-ai",
     "stargazers_count": 22,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "twpayne/go-jsonstruct",
-    "stargazers_count": 320,
-    "open_issues_count": 0,
-    "forks_count": 33
-  },
-  {
-    "full_name": "1Password/install-cli-action",
-    "stargazers_count": 48,
-    "open_issues_count": 4,
-    "forks_count": 14
-  },
-  {
-    "full_name": "pocket-id/pocket-id",
-    "stargazers_count": 1512,
-    "open_issues_count": 11,
-    "forks_count": 44
-  },
-  {
-    "full_name": "kjdev/nginx-keyval",
-    "stargazers_count": 22,
-    "open_issues_count": 2,
-    "forks_count": 4
-  },
-  {
-    "full_name": "hashicorp/nomad",
-    "stargazers_count": 15267,
-    "open_issues_count": 1652,
-    "forks_count": 1977
-  },
-  {
-    "full_name": "Automattic/harper",
-    "stargazers_count": 3197,
-    "open_issues_count": 232,
-    "forks_count": 83
-  },
-  {
-    "full_name": "octokit/go-sdk",
-    "stargazers_count": 81,
-    "open_issues_count": 5,
-    "forks_count": 8
-  },
-  {
-    "full_name": "vatsalaggarwal/whisper-cli",
-    "stargazers_count": 27,
-    "open_issues_count": 0,
-    "forks_count": 5
-  },
-  {
-    "full_name": "microsoft/markitdown",
-    "stargazers_count": 39167,
-    "open_issues_count": 189,
-    "forks_count": 1810
-  },
-  {
-    "full_name": "bxcodec/go-clean-arch",
-    "stargazers_count": 9414,
-    "open_issues_count": 34,
-    "forks_count": 1250
-  },
-  {
-    "full_name": "josephburnett/jd",
-    "stargazers_count": 1985,
-    "open_issues_count": 11,
-    "forks_count": 53
-  },
-  {
-    "full_name": "abhimanyu003/sttr",
-    "stargazers_count": 992,
-    "open_issues_count": 10,
-    "forks_count": 33
-  },
-  {
-    "full_name": "atlassian/escalator",
-    "stargazers_count": 671,
-    "open_issues_count": 10,
-    "forks_count": 61
-  },
-  {
-    "full_name": "bitleak/lmstfy",
-    "stargazers_count": 827,
-    "open_issues_count": 5,
-    "forks_count": 125
-  },
-  {
-    "full_name": "exaco/laravel-octane-dockerfile",
-    "stargazers_count": 729,
-    "open_issues_count": 9,
-    "forks_count": 111
-  },
-  {
-    "full_name": "spiral/framework",
-    "stargazers_count": 1880,
-    "open_issues_count": 43,
-    "forks_count": 88
-  },
-  {
-    "full_name": "phpro/grumphp",
-    "stargazers_count": 4183,
-    "open_issues_count": 11,
-    "forks_count": 440
-  },
-  {
-    "full_name": "panmari/cuckoofilter",
-    "stargazers_count": 45,
-    "open_issues_count": 4,
-    "forks_count": 13
-  },
-  {
-    "full_name": "udecode/plate",
-    "stargazers_count": 13092,
-    "open_issues_count": 97,
-    "forks_count": 800
-  },
-  {
-    "full_name": "Genivia/ugrep",
-    "stargazers_count": 2753,
-    "open_issues_count": 3,
-    "forks_count": 116
   }
 ]
