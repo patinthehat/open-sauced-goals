@@ -1,5 +1,29 @@
 [
   {
+    "full_name": "uidotdev/usehooks",
+    "stargazers_count": 10335,
+    "open_issues_count": 53,
+    "forks_count": 546
+  },
+  {
+    "full_name": "hatchet-dev/hatchet",
+    "stargazers_count": 4616,
+    "open_issues_count": 53,
+    "forks_count": 185
+  },
+  {
+    "full_name": "omnivore-app/omnivore",
+    "stargazers_count": 14421,
+    "open_issues_count": 346,
+    "forks_count": 1131
+  },
+  {
+    "full_name": "beromir/Servas",
+    "stargazers_count": 632,
+    "open_issues_count": 8,
+    "forks_count": 31
+  },
+  {
     "full_name": "valyala/fastjson",
     "stargazers_count": 2345,
     "open_issues_count": 59,
@@ -7,13 +31,13 @@
   },
   {
     "full_name": "caarlos0/env",
-    "stargazers_count": 5202,
+    "stargazers_count": 5211,
     "open_issues_count": 4,
-    "forks_count": 258
+    "forks_count": 260
   },
   {
     "full_name": "mailru/easyjson",
-    "stargazers_count": 4628,
+    "stargazers_count": 4629,
     "open_issues_count": 78,
     "forks_count": 431
   },
@@ -25,38 +49,38 @@
   },
   {
     "full_name": "ArroyoSystems/arroyo",
-    "stargazers_count": 4049,
-    "open_issues_count": 64,
-    "forks_count": 238
+    "stargazers_count": 4071,
+    "open_issues_count": 67,
+    "forks_count": 236
   },
   {
     "full_name": "fatedier/frp",
-    "stargazers_count": 91181,
-    "open_issues_count": 64,
-    "forks_count": 13775
+    "stargazers_count": 91313,
+    "open_issues_count": 59,
+    "forks_count": 13774
   },
   {
     "full_name": "cloudwego/kitex",
-    "stargazers_count": 7290,
-    "open_issues_count": 60,
+    "stargazers_count": 7300,
+    "open_issues_count": 62,
     "forks_count": 839
   },
   {
     "full_name": "DataExpert-io/data-engineer-handbook",
-    "stargazers_count": 26922,
+    "stargazers_count": 26970,
     "open_issues_count": 25,
-    "forks_count": 5488
+    "forks_count": 5498
   },
   {
     "full_name": "openobserve/openobserve",
-    "stargazers_count": 14571,
+    "stargazers_count": 14610,
     "open_issues_count": 534,
-    "forks_count": 546
+    "forks_count": 548
   },
   {
     "full_name": "modin-project/modin",
-    "stargazers_count": 10043,
-    "open_issues_count": 691,
+    "stargazers_count": 10049,
+    "open_issues_count": 692,
     "forks_count": 655
   },
   {
@@ -67,9 +91,9 @@
   },
   {
     "full_name": "go-kratos/kratos",
-    "stargazers_count": 23849,
-    "open_issues_count": 134,
-    "forks_count": 4047
+    "stargazers_count": 23863,
+    "open_issues_count": 131,
+    "forks_count": 4048
   },
   {
     "full_name": "gogearbox/gearbox",
@@ -79,51 +103,51 @@
   },
   {
     "full_name": "fagongzi/manba",
-    "stargazers_count": 3304,
+    "stargazers_count": 3305,
     "open_issues_count": 21,
     "forks_count": 752
   },
   {
     "full_name": "zeromicro/go-zero",
-    "stargazers_count": 30375,
-    "open_issues_count": 327,
-    "forks_count": 4053
+    "stargazers_count": 30435,
+    "open_issues_count": 320,
+    "forks_count": 4055
   },
   {
     "full_name": "cloudwego/hertz",
-    "stargazers_count": 5943,
-    "open_issues_count": 54,
+    "stargazers_count": 5955,
+    "open_issues_count": 55,
     "forks_count": 562
   },
   {
     "full_name": "cloudwego/netpoll",
-    "stargazers_count": 4194,
+    "stargazers_count": 4199,
     "open_issues_count": 25,
     "forks_count": 480
   },
   {
     "full_name": "zeromicro/zero-examples",
-    "stargazers_count": 964,
+    "stargazers_count": 965,
     "open_issues_count": 40,
     "forks_count": 250
   },
   {
     "full_name": "immich-app/immich",
-    "stargazers_count": 60434,
-    "open_issues_count": 495,
-    "forks_count": 3183
+    "stargazers_count": 60846,
+    "open_issues_count": 516,
+    "forks_count": 3203
   },
   {
     "full_name": "hyperjumptech/grule-rule-engine",
-    "stargazers_count": 2282,
+    "stargazers_count": 2283,
     "open_issues_count": 74,
     "forks_count": 352
   },
   {
     "full_name": "bytedance/sonic",
-    "stargazers_count": 7607,
-    "open_issues_count": 19,
-    "forks_count": 370
+    "stargazers_count": 7634,
+    "open_issues_count": 18,
+    "forks_count": 371
   },
   {
     "full_name": "cloudwego/gjson",
@@ -133,50 +157,26 @@
   },
   {
     "full_name": "bytedance/monolith",
-    "stargazers_count": 8675,
+    "stargazers_count": 8684,
     "open_issues_count": 23,
-    "forks_count": 670
+    "forks_count": 669
   },
   {
     "full_name": "triggerdotdev/trigger.dev",
-    "stargazers_count": 10384,
-    "open_issues_count": 199,
-    "forks_count": 659
+    "stargazers_count": 10416,
+    "open_issues_count": 204,
+    "forks_count": 662
   },
   {
     "full_name": "MichaelCade/90DaysOfDevOps",
-    "stargazers_count": 27696,
+    "stargazers_count": 27713,
     "open_issues_count": 9,
-    "forks_count": 6386
+    "forks_count": 6395
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 69842,
+    "stargazers_count": 70067,
     "open_issues_count": 45,
-    "forks_count": 15538
-  },
-  {
-    "full_name": "segmentio/stats",
-    "stargazers_count": 214,
-    "open_issues_count": 9,
-    "forks_count": 32
-  },
-  {
-    "full_name": "nomad-ops/deployment-examples",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "dokku/dokku",
-    "stargazers_count": 30020,
-    "open_issues_count": 58,
-    "forks_count": 1950
-  },
-  {
-    "full_name": "openfaas/faasd",
-    "stargazers_count": 3092,
-    "open_issues_count": 7,
-    "forks_count": 223
+    "forks_count": 15626
   }
 ]
