@@ -1,25 +1,25 @@
 [
   {
     "full_name": "uidotdev/usehooks",
-    "stargazers_count": 10349,
-    "open_issues_count": 54,
-    "forks_count": 546
+    "stargazers_count": 10363,
+    "open_issues_count": 55,
+    "forks_count": 547
   },
   {
     "full_name": "hatchet-dev/hatchet",
-    "stargazers_count": 4622,
-    "open_issues_count": 58,
-    "forks_count": 188
+    "stargazers_count": 4637,
+    "open_issues_count": 65,
+    "forks_count": 187
   },
   {
     "full_name": "omnivore-app/omnivore",
-    "stargazers_count": 14439,
+    "stargazers_count": 14458,
     "open_issues_count": 347,
-    "forks_count": 1130
+    "forks_count": 1132
   },
   {
     "full_name": "beromir/Servas",
-    "stargazers_count": 634,
+    "stargazers_count": 638,
     "open_issues_count": 7,
     "forks_count": 31
   },
@@ -31,14 +31,14 @@
   },
   {
     "full_name": "caarlos0/env",
-    "stargazers_count": 5221,
+    "stargazers_count": 5231,
     "open_issues_count": 4,
     "forks_count": 260
   },
   {
     "full_name": "mailru/easyjson",
-    "stargazers_count": 4635,
-    "open_issues_count": 78,
+    "stargazers_count": 4639,
+    "open_issues_count": 79,
     "forks_count": 432
   },
   {
@@ -49,55 +49,55 @@
   },
   {
     "full_name": "ArroyoSystems/arroyo",
-    "stargazers_count": 4076,
+    "stargazers_count": 4088,
     "open_issues_count": 67,
     "forks_count": 236
   },
   {
     "full_name": "fatedier/frp",
-    "stargazers_count": 91449,
-    "open_issues_count": 63,
-    "forks_count": 13788
+    "stargazers_count": 91581,
+    "open_issues_count": 66,
+    "forks_count": 13794
   },
   {
     "full_name": "cloudwego/kitex",
-    "stargazers_count": 7310,
-    "open_issues_count": 61,
+    "stargazers_count": 7323,
+    "open_issues_count": 60,
     "forks_count": 839
   },
   {
     "full_name": "DataExpert-io/data-engineer-handbook",
-    "stargazers_count": 27006,
-    "open_issues_count": 25,
-    "forks_count": 5512
+    "stargazers_count": 27068,
+    "open_issues_count": 26,
+    "forks_count": 5526
   },
   {
     "full_name": "openobserve/openobserve",
-    "stargazers_count": 14656,
-    "open_issues_count": 544,
-    "forks_count": 548
+    "stargazers_count": 14690,
+    "open_issues_count": 536,
+    "forks_count": 549
   },
   {
     "full_name": "modin-project/modin",
-    "stargazers_count": 10057,
+    "stargazers_count": 10060,
     "open_issues_count": 693,
     "forks_count": 657
   },
   {
     "full_name": "plv8/plv8",
-    "stargazers_count": 1956,
+    "stargazers_count": 1957,
     "open_issues_count": 7,
     "forks_count": 146
   },
   {
     "full_name": "go-kratos/kratos",
-    "stargazers_count": 23875,
-    "open_issues_count": 133,
-    "forks_count": 4048
+    "stargazers_count": 23896,
+    "open_issues_count": 132,
+    "forks_count": 4049
   },
   {
     "full_name": "gogearbox/gearbox",
-    "stargazers_count": 765,
+    "stargazers_count": 767,
     "open_issues_count": 3,
     "forks_count": 54
   },
@@ -109,74 +109,74 @@
   },
   {
     "full_name": "zeromicro/go-zero",
-    "stargazers_count": 30463,
-    "open_issues_count": 319,
-    "forks_count": 4062
+    "stargazers_count": 30489,
+    "open_issues_count": 327,
+    "forks_count": 4066
   },
   {
     "full_name": "cloudwego/hertz",
-    "stargazers_count": 5963,
-    "open_issues_count": 59,
-    "forks_count": 563
+    "stargazers_count": 5982,
+    "open_issues_count": 56,
+    "forks_count": 565
   },
   {
     "full_name": "cloudwego/netpoll",
-    "stargazers_count": 4200,
+    "stargazers_count": 4204,
     "open_issues_count": 26,
-    "forks_count": 481
+    "forks_count": 482
   },
   {
     "full_name": "zeromicro/zero-examples",
-    "stargazers_count": 967,
-    "open_issues_count": 30,
+    "stargazers_count": 970,
+    "open_issues_count": 42,
     "forks_count": 250
   },
   {
     "full_name": "immich-app/immich",
-    "stargazers_count": 61167,
-    "open_issues_count": 521,
-    "forks_count": 3215
+    "stargazers_count": 61494,
+    "open_issues_count": 533,
+    "forks_count": 3225
   },
   {
     "full_name": "hyperjumptech/grule-rule-engine",
-    "stargazers_count": 2286,
+    "stargazers_count": 2290,
     "open_issues_count": 74,
     "forks_count": 352
   },
   {
     "full_name": "bytedance/sonic",
-    "stargazers_count": 7667,
-    "open_issues_count": 22,
+    "stargazers_count": 7680,
+    "open_issues_count": 19,
     "forks_count": 371
   },
   {
     "full_name": "cloudwego/gjson",
-    "stargazers_count": 30,
+    "stargazers_count": 32,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "bytedance/monolith",
-    "stargazers_count": 8693,
+    "stargazers_count": 8702,
     "open_issues_count": 23,
-    "forks_count": 669
+    "forks_count": 672
   },
   {
     "full_name": "triggerdotdev/trigger.dev",
-    "stargazers_count": 10441,
-    "open_issues_count": 206,
-    "forks_count": 667
+    "stargazers_count": 10477,
+    "open_issues_count": 207,
+    "forks_count": 668
   },
   {
     "full_name": "MichaelCade/90DaysOfDevOps",
-    "stargazers_count": 27718,
+    "stargazers_count": 27725,
     "open_issues_count": 9,
-    "forks_count": 6399
+    "forks_count": 6400
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 70200,
+    "stargazers_count": 70450,
     "open_issues_count": 45,
-    "forks_count": 15661
+    "forks_count": 15757
   }
 ]
